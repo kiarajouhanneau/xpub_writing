@@ -1,18 +1,14 @@
----
-Chapters: Intro | Chapter 1 | Chapter 2 | Chapter 3 | Conclusion
-Progress: 90% | 90% | 0% | 5% | 2%
----
-
 Notes and writing process  
 
-Current progress: 
- - Intro | 90%
- - Chapter 1 | 90%
- - Chapter 2 | 0%
- - Chapter 3 | 5%
- - Conclusion | 2%
- - Full text | TBD, it's empty for now
+| Chapters     | Progress     |
+| ------------- | ------------- |
+| [Intro](DRAFT00_Intro.md) | 90% |
+| [Chapter 1](DRAFT01_Chpt01.md) | 90% |
+| [Chapter 2](DRAFT02_Chpt02.md) | 0% |
+| [Chapter 3](DRAFT03_Chpt03.md) | 5% |
+| [Conclusion](DRAFT04_Conclusion.md) | 2% |
+| [Full text](Full-Text.md) | TBD, it's empty for now |
 
-Last update: 30-01-2026 18:18
+*Last update: 30-01-2026 18:30*
 
 XPUB 2026
