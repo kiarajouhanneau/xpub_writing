@@ -1,3 +1,8 @@
+---
+Chapters: Intro | Chapter 1 | Chapter 2 | Chapter 3 | Conclusion
+Progress: 90% | 90% | 0% | 5% | 2%
+---
+
 Notes and writing process  
 
 Current progress: 
