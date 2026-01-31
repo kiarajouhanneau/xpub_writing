@@ -44,7 +44,7 @@ jobs:
       - name: markdown2html
         uses: ZacJW/markdown-html-action@1.1.0
         with:
-          input_files: '["DRAFT00_Intro.md", "DRAFT01_Chpt01.md", "DRAFT02_Chpt02.md", "DRAFT03_Chpt03.md", "DRAFT04_Conclusion.md"]'
+          input_files: '[["DRAFT00_Intro.md", "DRAFT01_Chpt01.md", "DRAFT02_Chpt02.md", "DRAFT03_Chpt03.md", "DRAFT04_Conclusion.md"]]'
           output_files: '["index.html", "chapter01.html", "chapter02.html", "chapter03.html", "conclusion.html", "for-later.html"]'
           builtin_stylesheet: 'style.css'
           packages: 'pymdown-extensions'
