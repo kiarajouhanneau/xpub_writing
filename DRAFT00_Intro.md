@@ -2,7 +2,7 @@
 title: The Wicked Witch of the World Wide Web -- Introduction
 author:
   - Kiara Jouhanneau
-description:
+description: Working document of the introduction
 created: 2026-01-30
 word-count: 878
 word-goal: 1000
