@@ -43,13 +43,13 @@ jobs:
         uses: actions/deploy-pages@v4
   converttopdf:
       name: Build HTML
+      # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
+      path: '**.md'
       runs-on: ubuntu-latest
       steps:
         - uses: actions/checkout@v4
         - uses: baileyjm02/markdown-to-pdf@v1
           with:
-             # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
-            path: '**.md'
             input_dir: '.'
             output_dir: '.'
             # Default is true, can set to false to only get PDF files
