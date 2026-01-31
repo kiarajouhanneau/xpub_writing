@@ -1,10 +1,9 @@
 ---
 share: true
 ---
-
 Words have meaning, and paying attention to these meanings is in my opinion key to a good communication. With oneself as much as with others.
 In that sense, I can expand towards language. Language and words have always fascinated me. Most of my work deals with that, from my first bachelor’s graduation project in 2021 to this day. So very naturally, when I got introduced to web programming languages – HTML and CSS – I fell in love. I view them not as mathematical/logical programming but as actual languages with their own grammar and syntax. Parallel to this passion for languages, I also enjoy games of all kind, so they also made their place in my practice: I mess around, break rules and conventions, intentionally play with the viewer/reader/…’s capacity to get lost or confused, and so on.
-Language and games are both playing big parts in politics and in magic. Language is one of the pillars of politics: how do you address people, diction and tone, choice of words and topics… and convincing, gaining voters. Games share the spotlight, but more insidiously: looking at Johan Huizinga’s *Homo Ludens*, he draws a tight connection between the mechanics of playing and those of contesting: “The agon in Greek life, or the contest anywhere else in the world, bears all the formal characteristics of play, and as to its function belongs almost wholly to the sphere of the festival, which is the playsphere. It is quite impossible to separate the contest as a cultural function from the complex “play-festival-rite”.” ([Huizinga, 1964, p. 31](zotero://select/library/items/C54R2GCV)). The political sphere has rules, contestants (players), winners, losers, just like a typical card game.
+Language and games are both playing big parts in politics and in magic. Language is one of the pillars of politics: how do you address people, diction and tone, choice of words and topics… and convincing, gaining voters. Games share the spotlight, but more insidiously: looking at Johan Huizinga’s *Homo Ludens*, he draws a tight connection between the mechanics of playing and those of contesting: “The agon in Greek life, or the contest anywhere else in the world, bears all the formal characteristics of play, and as to its function belongs almost wholly to the sphere of the festival, which is the playsphere. It is quite impossible to separate the contest as a cultural function from the complex ‘play-festival-rite’.” ([Huizinga, 1964, p. 31](zotero://select/library/items/C54R2GCV)). The political sphere has rules, contestants (players), winners, losers, just like a typical card game.
 Looking at magic, what we call traditional magic (spells, potions and big books) lives on through time thanks to language. As for more spiritual, metaphysical kinds of magic (caring, being connected to one’s inner self, etc.), they also involve a great deal of language: we put words on feelings, bear intentions that might be voiced out, it can even involve some kind of prayer. Relating magic to games is a bit trickier (pun intended), but it is easier to connect it to playfulness. Magic has this mystery, this way of appealing to our curiosity that makes us want to play, to experiment with it. Referring again to Huizinga, “just as there is no formal difference between play and ritual, so the ‘consecrated spot’ cannot be formally distinguished from the play-ground. The arena, the card-table, the magic circle, the temple, the stage, the screen, the tennis court, the court of justice, etc., are all in form and function play-grounds, i.e. forbidden spots, isolated, hedged round, hallowed, within which special rules obtain.” ([Huizinga, 1964, p. 10](zotero://select/library/items/C54R2GCV)). Here he uses something interesting, connecting magic circles, stages and screens as play-grounds. With such a connection, we end up with an allegory for every theme covered here: magic circles represent magic and physical gatherings; stages are where action takes place, and simultaneously the illusion served by seamlessness; screens represent the web, the digital. 
 And the snake is back to eating its tail. The Ouroboros has been invoked. We are now back to the web and the curiosity triggered by magic leads us into its craftiness, through experimentation. 
 
@@ -31,5 +30,27 @@ Now that this has been laid down, we can dive deeper. Magic and the web share qu
 
 17-01-2026 word count: 667
 17-01-2026 total word count: 1217
+
+We’re always compelled and pushed to find purpose, to have a reason, a use for everything we say and make. That’s the principle of design, art with an applied function. That’s terribly sad. It always made me feel like an outcast, because sometimes it is very nice to do things because we appreciate them or because they ‘feel right’. So let’s embrace the useless, for the sake of fun.
+
+**THESIS OUTLINE – FINAL**
+In a hyper-marketable world, ruled by seamlessness, polished Instagram feeds and machine-generated content, how can we, by embracing the useless, reconnecting to the fun and reclaiming our singularity, fight the rising technofascism and (re)shape the web? 
+
+ 1. The web, a craft directed to self expression
+	- net.art (Olia Lialina)
+	- Building, sharing, caring (Raphaël Bastide, Doriane Timmermans, Rita Graça, Lucile Haute)
+	- Webrings and digital gardens: where the web becomes *magical* (Daniel Murray & Kendall Beynon, Kristoffer Tjalve, Laurel Schwulst,)
+2. The ghost in the shell, a tale about efficiency 
+	- Templates and polishing: performance, technicality and productivity (Peter Molnar, Nolwenn Maudet)
+	- Losing our identity: between fading in the mass and wanting to stand out (Zuckerman, Miriam Suzanne)
+3. Reclaiming: a fight for our future
+	- Fun against totalitarianism (Huizinga, Molly White)
+	- Cyberpunk: aesthetics vs ideology (Asma Mhalla)
+	- Initiatives like wobble, omg.lol. neocities, etc.
+
+23-01-2026 word count: 231
+23-01-2026 total word count: 1438
+
+marvelous, marvel > enchantment of the web
 
 [^1]: https://www.artsy.net/artwork/olia-lialina-summer-1
