@@ -50,12 +50,12 @@ jobs:
           with:
              # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
             path: '**.md'
-            input_dir: docs+
-            output_dir: HTML
+            input_dir: '.'
+            output_dir: '.'
             # Default is true, can set to false to only get PDF files
             build_html: true
-        - uses: actions/upload-artifact@v4
+        - uses: actions/upload-artifact@v3
           with:
             name: docs
-            path: HTML
+            path: '.'
   
