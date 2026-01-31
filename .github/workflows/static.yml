@@ -5,6 +5,9 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+    # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
+    paths:
+      - '../**.md'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -38,15 +41,22 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
-      - run: convert-to-html.yml
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-    #  - name: markdown2html
-    #    uses: ZacJW/markdown-html-action@1.1.0
-    #    with:
-    #      input_files: '[["DRAFT00_Intro.md"], "DRAFT01_Chpt01.md"], "DRAFT02_Chpt02.md"], "DRAFT03_Chpt03.md"], ["DRAFT04_Conclusion.md"]]'
-    #      output_files: '["index.html", "chapter01.html", "chapter02.html", "chapter03.html", "conclusion.html", "for-later.html"]'
-    #      builtin_stylesheet: 'style.css'
-    #      packages: 'pymdown-extensions'
-    #      extensions: '["pymdownx.extra"]'
+  converttopdf:
+      name: Build HTML
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v3
+        - uses: baileyjm02/markdown-to-pdf@v1
+          with:
+            input_dir: docs
+            output_dir: HTML
+            # Default is true, can set to false to only get PDF files
+            build_html: true
+        - uses: actions/upload-artifact@v3
+          with:
+            name: docs
+            path: HTML
+  
