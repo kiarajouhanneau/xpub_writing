@@ -49,3 +49,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Render markdown
+        uses: fionn/render-markdown@master
+        with:
+          token: ${{ github.token }}
+          markdown_file: *.md
