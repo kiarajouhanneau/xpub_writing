@@ -143,7 +143,6 @@ WORD COUNT (goal: +/- 666)
 [^8]: https://indiewebguide.org  
   
 [^9]: https://maggieappleton.com/garden-history/  
---->  
   
 [^10]: https://ungual.digital/  
   
