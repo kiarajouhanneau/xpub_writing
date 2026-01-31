@@ -1,0 +1,29 @@
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      actions: write
+      checks: write
+      contents: write
+      deployments: write
+      issues: write
+      packages: write
+      pull-requests: write
+      repository-projects: write
+      security-events: write
+      statuses: write
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          sudo apt-get install -y pandoc
+          for i in $(seq 50 100); do
+            pandoc -f markdown -t html --template=mytemplate "./md/article${i}.md" > "./docs/article${i}.html"
+          done
+          git config user.name  "github-action"
+          git config user.email "github-action@example.com"
+          git add ./docs
+          git add ./md
+          git commit -m "generated"
+          git push
