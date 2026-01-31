@@ -45,4 +45,4 @@ jobs:
         uses: fionn/render-markdown@master
         with:
           token: ${{ github.token }}
-          markdown_file: example.md
+          markdown_file: ../.
