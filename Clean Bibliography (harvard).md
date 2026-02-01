@@ -34,6 +34,9 @@ Haile, N. (2019) On Becoming a Person | inform.design, inform.design. Available 
   
 Haute, L. (2017) Cyberwitches Manifesto. Available at: http://lucilehaute.fr/cyberwitches.html (Accessed: 11 October 2025).  
   
+Kühnreich, K. (100 AD) All Sorted by Machines of Loving Grace? Available at: https://media.ccc.de/v/39c3-all-sorted-by-machines-of-loving-grace-ai-cybernetics-and-fascism-and-how-to-intervene (Accessed: 1 February 2026).  
+	a talk about fascism and cybernetics and how to fight back (with fun!)  
+  
 Lessig, L. (2000) Lawrence Lessig on the increasing regulation of cyberspace | Harvard Magazine. Available at: https://www.harvardmagazine.com/2000/01/code-is-law-html (Accessed: 4 January 2026).  
   
 Lorde, A. (1979) ‘The Master’s Tools Will Never Dismantle the Master’s House’. Available at: https://theanarchistlibrary.org/library/audre-lorde-the-master-s-tools-will-never-dismantle-the-master-s-house (Accessed: 4 January 2026).  
