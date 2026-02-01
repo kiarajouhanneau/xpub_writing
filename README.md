@@ -9,6 +9,6 @@ Notes and writing process
 | [Conclusion](DRAFT04_Conclusion.md) | 2% |
 | [Full text](Full-Text.md) | TBD, it's empty for now |
 
-*Last update: 30-01-2026 18:30*
+*Last update: 01-02-2026 16:24*
 
 XPUB 2026
