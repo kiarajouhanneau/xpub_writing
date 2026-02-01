@@ -29,5 +29,6 @@ share: true
 > Zuckerman  
 >> Zuckerman, G. (2025) ‘An urgent warning about the open web’s shrinking commons’, FindArticles, 1 November. Available at: https://www.findarticles.com/an-urgent-warning-about-the-open-webs-shrinking-commons/ (Accessed: 30 November 2025).  
 > Miriam Suzanne  
-  
+> Katika Kühnreich, All sorted by machines of loving grace?  
+>> https://media.ccc.de/v/39c3-all-sorted-by-machines-of-loving-grace-ai-cybernetics-and-fascism-and-how-to-intervene#t=418 + subtitles: https://static.media.ccc.de/media/congress/2025/2026-304dd87b-7de5-557c-9951-1add24396a0b-eng.vtt  
 --->

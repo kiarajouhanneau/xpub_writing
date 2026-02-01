@@ -6,7 +6,7 @@ created: 2026-01-23
 share: true
 ---
 # INTRODUCTION  
-## <mark style="background: #BBFABBA6;">1. Incantations and spells</mark>  
+## <mark style="background: #D2B3FFA6;">1. Incantations and spells</mark>  
 #### 1.1 net.art   
 #### 1.2 Building, sharing, caring   
 #### 1.3 Webrings and digital gardens: where the web becomes *magical*   
