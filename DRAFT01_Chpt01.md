@@ -6,12 +6,12 @@ description: |-
   Investigation into web making as a craft, the importance of the gesture and the role of intention when making, creating.
   Here I will take inspiration from various artists and web practitioners, as well as in my own practice. I will seek to demonstrate my intuition: creating relies on intention, intention is then embodied and this gesture shapes the craft. This interrelation should also be true when creating for the web.
 created: 2026-01-30
-word-count: 2119
+word-count: 2148
 word-goal: 2000
 share: true
 ---
 ## 1. Into the ~~spider~~ web  
-#### 1.1 net.art   
+#### 1.1 net.art (??? is it the right title tho)  
 From the beginning of the web, Tim Berners-Lee, its inventor, viewed it as a way of connecting all the people of the world together and a great opportunity to expand creativity and imagination (Berners-Lee, T. (2025) This is for everyone. Macmillan, London).    
 This idea took on quite rapidly, with the first net.artists[^1] rising as early as 1994 (the web itself was created in 1989 and open to the public in 1993!)    
 Net.artists saw the potential of hyperlinks and inter-connectivity to create, the most active practitioner being Olia Lialina. On artsy.net we can read:   
@@ -20,7 +20,8 @@ Net.artists saw the potential of hyperlinks and inter-connectivity to create, th
 %% IMG: My Boyfriend Came Back From The War + Summer %%  
   
 *Telling a story with the language of the web* – this is beautiful and very à propos as web poetry is also a quite interesting form of art.   
-Because poetry can be both verbal and visual, giving way to the creation of websites that highlight written poetry, websites that use CSS do depict a poetical atmosphere… and even creators exploring the poetry of HTML and CSS as languages! Doriane Timmermans, artist and researcher based in Bruxelles, is one of them. Her research project declarations[^13] is exploring the materiality of CSS as a language. Together, we talked about […] and she is currently[^14] bringing this research to the XPUB1 students, with a Special Issue dedicated to gossip, through the lens of (the) web (languages).  
+Because poetry can be both verbal and visual, giving way to the creation of websites that highlight written poetry, websites that use CSS do depict a poetical atmosphere… and even creators exploring the poetry of HTML and CSS as languages! Doriane Timmermans, artist and researcher based in Brussels, is one of them. Her research project declarations[^13] is exploring the materiality of CSS as a language. Together, we talked about how CSS and spell or ritual writing relate; she said “the CSS selector `:not(:focus):hover` is like an incantation that could be super powerful and bears heavy intentions.” We also mentioned browser extensions, especially the ones that “metamorphose the web through a simple CSS formula”[^15], being in that sense both magic and hacking.  
+%%and she is currently[^14] bringing this research to the XPUB1 students, with a Special Issue dedicated to gossip, through the lens of (the) web (languages)%%.  
 %%Later, in 2013, Lialina built *Summer*[^3], a webring working across 26 websites, based on an animated GIF of a woman on a swing. The GIF was split in still images and the webring connects every image to the following – creating the animation – by having every website included hosting one image. This ring is particularly interesting for the fact that it plays by itself, it doesn’t need a single click to operate, only network connection and maintenance from the web makers. %%   
 In 2011, when HTML5 launched and eliminated frame elements, Lialina told Creators’ Kathleen Flood that   
 > “Many of my works were based on features that browser developers considered being bugs and were removing those bugs in newer versions, so, I have to find new tricks to keep them alive.”  
@@ -153,3 +154,5 @@ WORD COUNT (goal: +/- 666)
 [^13]: https://declarations.style  
   
 [^14]: From January to March 2026  
+  
+[^15]: see appendix – conv with Doriane – TBD  
