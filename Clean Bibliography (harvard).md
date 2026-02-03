@@ -74,6 +74,13 @@ Walsh, T. et al. (2025) ‘FOR THE WEB (& WORLD) YOU CARE ABOUT’, (4).
 White, R. (2017) ‘Keep the Internet Weird’, Medium, 23 March. Available at: https://medium.com/@ohhoe/keep-the-internet-weird-1137eece27c4 (Accessed: 30 November 2025).  
 Winner, L. (1980) ‘Do Artifacts Have Politics’, Daedalus, pp. 121–136.  
   
+### Websites  
+How to Train Your Chatbot (no date) How to Train Your Chatbot. Available at: https://howtotrainyourchatbot.com/ (Accessed: 3 February 2026).  
+	referred to for a point on AI’s inability to create   
+Lialina, O. 2013) Olia Lialina | Summer (2013) | Artsy. Available at: https://www.artsy.net/artwork/olia-lialina-summer-1 (Accessed: 20 November 2025).  
+	referred to as the ultimate web crafter  
+Timmermans, D. (no date) Declarations. Available at: https://declarations.style (Accessed: 3 February 2026).  
+	referred to in the context of web poetry  
 ## Links to definitions  
 ‘net.art’ (2025) Wikipedia. Available at: https://en.wikipedia.org/w/index.php?title=Net.art&oldid=1325628719 (Accessed: 12 January 2026).  
 ‘Olia Lialina’ (2025) Wikipedia. Available at: https://en.wikipedia.org/w/index.php?title=Olia_Lialina&oldid=1321013830 (Accessed: 12 January 2026).  
