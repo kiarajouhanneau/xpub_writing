@@ -35,7 +35,7 @@ In a conversation[^4] we had together, Raphaël told me about the creation proce
 Those questions are all at least partly answered by the notion of caring. The moment we decide to build a web project, whether it be an entire website or a single page, we perform an act of care. We care for the project, for what it bears, for the web commons and the people that will interact with our creation. being a script is an ode to code, because to some extent, we also care for the code. This caring is quite particular, one might care for the code as a mode of expression, or as the bone of the project, or even in order for it to be readable and reusable by peers.    
 Once we have built and decided to (take) care (for), we share. Sharing is beyond the creator, it is an agreement with the medium. The web is like a antique forum, the central place of the city, where people share all sorts of ideas. Web forums take their name from it. Sharing is inherent to the web, as it is using the Internet, connecting multiple computers (servers) and people together. And just as any art form, web crafting and net.art are created with a sharing intention. It can be to share the piece itself as a whole, the technique or medium, or something more abstract or personal, like a message, an idea, a world.  
   
-`<!--- This makes me reach the following conclusion: even the most stereotypical developer, having done their curriculum in programming, maths and engineering is making art, in the sense that they are writing, and the trial-and-error, drafting process is very similar to the one of art. On that note, it is more and more common to see these developers host Twitch live streams, thus becoming also content creators, performers, tutors. --->  
+`<!--- This makes me reach the following conclusion: even the most stereotypical developer, having done their curriculum in programming, maths and engineering is making art, in the sense that they are writing, and the trial-and-error, drafting process is very similar to the one of art. On that note, it is more and more common to see these developers host Twitch live streams, thus becoming also content creators, performers, tutors. --->`  
 #### 1.2 Webrings and digital gardens: where the web becomes *magical*   
 Back in its first years of life, the web did not have such “powerful” search engines and discovering new websites was more of a treasure hunt. To compensate for this lacking, web-makers created webrings: a script file was put in the code folder, containing a list of all members and a looping function, interlinking members to one another. Those early webrings were thematic: gardeners, fandoms, cooking websites, etc. It allowed visitors to discover other people having the same passions or interests.   
 `<!--- IMG: webrings examples --->`  
@@ -89,11 +89,11 @@ I see this phenomenon as driven by a desire for:
 - performance, hence the creation of User Experience (UX) as a way of driving the navigation of a website into a certain direction;  
 - productivity, with for example the 3-clicks rule, stating that if a visitor has to use more than 3 clicks to access the content they’re looking for on a website, it is not worth their time;  
 - technicality, with the use of shady methods to design websites: frameworks and libraries, JavaScript generated HTML or closed databases.  
-The merge of those 3 pillars is Search Engine Optimisation (SEO), moz.com defines it as: “the practice of improving your website's content, structure, and visibility to rank higher on search engines like Google.”[^2], basically meaning it is a set of `<meta>` tags so you have a bigger chance to appear on that so praised first page of search results.  
+The merge of those 3 pillars is Search Engine Optimisation (SEO), moz.com defines it as: “the practice of improving your website's content, structure, and visibility to rank higher on search engines like Google.”[^15], basically meaning it is a set of `<meta>` tags so you have a bigger chance to appear on that so praised first page of search results.  
 `<!--- IMG: html meta for seo -->`  
   
-This is a fully capitalistic mode of action; big corporations set rules that aim to ensure them money gain, and smaller companies or individuals are left with no other choice than “following the trend”. This makes it very hard for independent artists or beginners to make room for their practice. They remain out of the first page of search results, invisible, shadow-banned[^1] in a way.   
-Those implicit rules are set so hard in stone that they have been going on for more than 20 years, enforced by the rules of the website-building platforms. For example, wix.com expects that the template “follows the good practices of of UX/UI design and the trends of its field”[^3].   
+This is a fully capitalistic mode of action; big corporations set rules that aim to ensure them money gain, and smaller companies or individuals are left with no other choice than “following the trend”. This makes it very hard for independent artists or beginners to make room for their practice. They remain out of the first page of search results, invisible, shadow-banned[^16] in a way.   
+Those implicit rules are set so hard in stone that they have been going on for more than 20 years, enforced by the rules of the website-building platforms. For example, wix.com expects that the template “follows the good practices of of UX/UI design and the trends of its field”[^17].   
   
 Since 2020, the web is witnessing a new rise of experimental websites. Neocities, the proud successor to Geocities, is getting more and more popular, Tumblr never really fell down in spite of its numerous dramas, small website builders are also flowering all over the web. The general tiredness towards polished and seamless websites that all look the same, as well as towards the ownership of the webspace put in the hands of a few big tech companies has opened a door to rebellion.  
 Unfortunately, that same tiredness has also lead way to the global use of Generative Artificial Intelligence (GenAI) tools. Those generators produced images using overly saturated colours, abstract or hyper-realistic shapes that offer a seamingly good alternative to smooth grid/Instagram-like visuals.  
@@ -106,7 +106,7 @@ Not only GenAI is perpetuating a toxic environment where a few billionaires can 
 From the beginning, GenAI has been introduced as “magical”. The whole communication/advertising plan of those companies relies on a saturation and over-use of symbols and analogies. In a research paper written collectively by Nolwenn Maudet, Annaëlle Beignon and Thibault Thomas for Limites Numériques, they list the various graphical elements pertaining to magic used by AI programs (the sparkle icon ✨, blue-mauve gradients), but also the mechanics shared by both disciplines: invisibilisation of the processes, grey-areas (as in different companies using the same icon for a multitude of unrelated functionalities). They conclude that analysis by saying:  
 > We don't know how should behave something magic : is it normal that it takes time ? Did I do something wrong ? Is its resources consumption justified ? Making the machine invisible through the metaphor of magic changes the relation people have to tools. It is not possible anymore to pay attention to the machine. (Limites Numériques, 2025)  
   
-Behind that sparkly and attractive image, GenAI hide all the horrors of their work: slavery and abuse, energy and resource consumption, plagiarism, etc. Therefore, I draw a direct comparison between GenAIs and stage magicians: they pass tricks and optical illusion for magic, but they really are a smokescreen, manipulating minds to believe their technique is actual magic. If any AI program is "magical" it is merely a trick on the mind, making its user (audience) believe something is happening when it actually is a smokescreen. If its "magic" comes from the fact that "we do not quite understand what it does and how" it is because it advertised as making things easier and faster than a human. However, as Dominique Cardon writes, “Algorithms that claim to be predictive are not predictive because they have managed to penetrate people's subjectivity to fathom their desires or aspirations. They are predictive because they constantly assume that our future will be a reproduction of our past.”[^4]  
+Behind that sparkly and attractive image, GenAI hide all the horrors of their work: slavery and abuse, energy and resource consumption, plagiarism, etc. Therefore, I draw a direct comparison between GenAIs and stage magicians: they pass tricks and optical illusion for magic, but they really are a smokescreen, manipulating minds to believe their technique is actual magic. If any AI program is "magical" it is merely a trick on the mind, making its user (audience) believe something is happening when it actually is a smokescreen. If its "magic" comes from the fact that "we do not quite understand what it does and how" it is because it advertised as making things easier and faster than a human. However, as Dominique Cardon writes, “Algorithms that claim to be predictive are not predictive because they have managed to penetrate people's subjectivity to fathom their desires or aspirations. They are predictive because they constantly assume that our future will be a reproduction of our past.”[^18]  
 Yet when dressed up as a magical entity GenAI seems to be looked upon as a good thing, leaving behind any reference to intention, intuition, emotion; in opposition a hand crafted website therefore acts as a counter-spell, by the fact that we can inspect, replicate and adapt its code, thus understanding it, learning and becoming able to recognise and shape our own intentions.  
 #### 2.2 Losing our identity: paradoxes and automation   
 `<!--- → this part is too short!! (add 300 words somehow) -->`  
@@ -149,4 +149,44 @@ To me, this is also exactly what big tech does: trying to give life to science-f
 “And have fun doing it. This is a duty you can do with others. There is no rule that anti-fascism can't be danced.”  
 “Let's pack, put the fun back into anti-fascism, and create a good world.”  
   
-## CONCLUSION
+## CONCLUSION  
+  
+---  
+#### Notes  
+  
+[^1]: net.art refers to a group of artists who have worked in the medium of Internet art since 1994. […] <br>The term "net.art" is also used as a synonym for net art or Internet art and covers a much wider range of artistic practices. In this wider definition, net.art means art that uses the Internet as its medium and that cannot be experienced in any other way. Typically net.art has the Internet and the specific socio-culture that it spawned as its subject matter but this is not required.<br>The German critic Tilman Baumgärtel - building on the ideas of American critic Clement Greenberg - has frequently argued for a "media specificity" of net.art in his writings. According to the introduction to his book "net.art. Materialien zur Netzkunst", the specific qualities of net.art are "connectivity, global reach, multimediality, immateriality, interactivity and egality". (https://en.wikipedia.org/wiki/Net.art)  
+  
+[^2]: https://www.vice.com/en/article/olia-lialinas-most-famous-net-art-piece-turns-15/  
+  
+[^3]: What You See Is What You Get  
+  
+[^4]: see apendix – conv with Raphaël – TBD  
+  
+[^5]: the 5 giants of the web, also called GAMAM or Big Five: Google (Alphabet), Apple, Facebook/Meta, Amazon, Microsoft  
+  
+[^6]: Free/Libre Open Source Software  
+  
+[^7]: https://indiewebguide.org  
+  
+[^8]: https://maggieappleton.com/garden-history/  
+  
+[^9]: https://www.artsy.net/artwork/olia-lialina-summer-1  
+  
+[^10]: https://declarations.style  
+  
+[^11]: see appendix – conv with Doriane – TBD  
+  
+[^12]: https://ungual.digital/  
+  
+[^13]: https://moubarak.eu/#welcome  
+  
+[^14]: https://hackersanddesigners.nl/  
+  
+[^15]: https://moz.com/learn/seo/what-is-seo  
+  
+[^16]: definition of shadow-ban  
+  
+[^17]: quoted by Nolwenn Maudet in Fast publication : l’homogénéisation visuelle des templates web comme conséquence du prêt-à-publier (2024)  
+  
+[^18]: Dominique Cardon, À quoi rêvent les algorithmes ? Nos vies à l’heure du big data, Paris, Seuil, 2015, p.70., quoted by Nolwenn Maudet in …  
+  
