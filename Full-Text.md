@@ -39,10 +39,10 @@ the web as a craft – to build it, care for it, share it – and its enchanted 
 the seamless polished web, ruled by performance and disappearance – mass over individual, loss of identity –;   
 the fun web, or how leaning towards the craft is how we fight back against the seamlessness.  
 `<!--- here: make the connection to magic clearer? -->`  
-## <mark style="background: #D2B3FFA6;">1. Into the <del>spider</del> web</mark>  
+# <mark style="background: #D2B3FFA6;">1. Into the <del>spider</del> web</mark>  
 Let’s first dive into the web itself, investigating web making as a craft, the importance of the gesture and the role of intention when making, creating.  
 This is about intention being a key to craft and how I see magic and the web connecting to one another.  
-#### 1.1 (find a pun around crafting)  
+## 1.1 (find a pun around crafting)  
 From the beginning of the web, Tim Berners-Lee, its inventor, viewed it as a way of connecting all the people of the world together and a great opportunity to expand creativity and imagination (Berners-Lee, T. (2025) This is for everyone. Macmillan, London).    
 This idea took on quite rapidly, with the first net.artists[^6] rising as early as 1994 (the web itself was created in 1989 and made public in 1993!)    
 Net.artists saw the potential of hyperlinks and inter-connectivity to create, the most active practitioner being Olia Lialina.   
@@ -68,7 +68,7 @@ Those questions are all at least partly answered by the notion of caring. The mo
 Once we have built and decided to (take) care (for), we share. Sharing is beyond the creator, it is an agreement with the medium. The web is like a antique forum, the central place of the city, where people share all sorts of ideas. Web forums take their name from it. Sharing is inherent to the web, as it is using the Internet, connecting multiple computers (servers) and people together. And just as any art form, web crafting and net.art are created with a sharing intention. It can be to share the piece itself as a whole, the technique or medium, or something more abstract or personal, like a message, an idea, a world.  
   
 `<!--- This makes me reach the following conclusion: even the most stereotypical developer, having done their curriculum in programming, maths and engineering is making art, in the sense that they are writing, and the trial-and-error, drafting process is very similar to the one of art. On that note, it is more and more common to see these developers host Twitch live streams, thus becoming also content creators, performers, tutors. --->`  
-#### 1.2 Webrings and digital gardens: where the web becomes *magical*   
+## 1.2 Webrings and digital gardens: where the web becomes *magical*   
 Back in its first years of life, the web did not have such “powerful” search engines and discovering new websites was more of a treasure hunt. To compensate for this lacking, web-makers created webrings: a script file was put in the code folder, containing a list of all members and a looping function, interlinking members to one another. Those early webrings were thematic: gardeners, fandoms, cooking websites, etc. It allowed visitors to discover other people having the same passions or interests.   
 `<!--- IMG: webrings examples --->`  
   
@@ -107,10 +107,10 @@ In a interview he gave to Kendal Beynon he describes the ‘Everyone Site’, a 
 > Beynon, K. and Murray, D. (2025) ‘Web craft: an interview with Daniel Murray’, The Photographers’ Gallery: Unthinking Photography. Available at: https://unthinking.photography/articles/webcraft-an-interview-with-daniel-murray.  
   
 `<!--- → this needs some conclusion!! -->`  
-## <mark style="background: #ABF7F7A6;">2. The ghost in the shell, a tale about efficiency</mark>  
+# <mark style="background: #ABF7F7A6;">2. The ghost in the shell, a tale about efficiency</mark>  
 I will dive into the design systems used by big corporations, that in the end define the overall look of websites.   
 This part will largely analyse the performance of efficiency that is spreading around the web and how following trends is making our identities disappear.  
-#### 2.1 Templates and polishing: performance, technicality and productivity   
+## 2.1 Templates and polishing: performance, technicality and productivity   
 Taking on graphic design and layout techniques that have been used since the advent of printing, the web relied on template almost as soon as it was born. In its early years, with the arrival of CSS and then Geocities, webmakers expressed their personalities and created atmospheres, using themes on top of templates: as Nolwenn Maudet describes it in her article Design Templates Between Empowerment and Control of Amateur Graphic Designers, templates organise the content’s structure and standardise whereas themes offer a “graphical ambiance” (Maudet, 2025) and the “choices \[for a theme\] are less about functional graphic design and more about (personal) branding.” (Maudet, 2025)  
 Unfortunately though, this didn’t last long as CMSs began to flourish. In a logic of capitalisation and to draw a maximum of people to use their services, CMSs began by mimicking big companies’ layouts.  
 > “The growing adoption of CMS contributed to the intensification of “templatization” of pages and their homogenization in a feedback loop where users’ habituation to certain site architectures leads them to prefer that architecture, further reinforcing its adoption and deployment on other sites.” (Maudet, 2025)  
@@ -141,7 +141,7 @@ From the beginning, GenAI has been introduced as “magical”. The whole commun
   
 Behind that sparkly and attractive image, GenAI hide all the horrors of their work: slavery and abuse, energy and resource consumption, plagiarism, etc. Therefore, I draw a direct comparison between GenAIs and stage magicians: they pass tricks and optical illusion for magic, but they really are a smokescreen, manipulating minds to believe their technique is actual magic. If any AI program is "magical" it is merely a trick on the mind, making its user (audience) believe something is happening when it actually is a smokescreen. If its "magic" comes from the fact that "we do not quite understand what it does and how" it is because it advertised as making things easier and faster than a human. However, as Dominique Cardon writes, “Algorithms that claim to be predictive are not predictive because they have managed to penetrate people's subjectivity to fathom their desires or aspirations. They are predictive because they constantly assume that our future will be a reproduction of our past.”[^23]  
 Yet when dressed up as a magical entity GenAI seems to be looked upon as a good thing, leaving behind any reference to intention, intuition, emotion; in opposition a hand crafted website therefore acts as a counter-spell, by the fact that we can inspect, replicate and adapt its code, thus understanding it, learning and becoming able to recognise and shape our own intentions.  
-#### 2.2 Losing our identity: paradoxes and automation   
+## 2.2 Losing our identity: paradoxes and automation   
 `<!--- → this part is too short!! (add 300 words somehow) -->`  
 With that grand homogenisation of the web visual land, we face a paradox of wanting to stand out and blending in. We often see people, mainly artists of any field, complaining and struggling. But they might come from any end of the spectrum: those who decided to embrace the flow and the standards blend so much that by looking like anyone else’s their portfolios remain unseen; those who on the contrary decide to go for a very personal portfolio will be so different and crafty that they are not pushed forward by algorithm, remaining in the underground scene or invisible. That paradox makes it harder and harder for artists and creators to make a living and is getting all the more emphasised by GenAIs, as anyone can label themselves artists even if their creations are those of the calculations of a machine.  
    
@@ -151,15 +151,15 @@ Additionally, in her article When we walk away from the lying machines (2026), M
 Thus, what makes the web human will be gone.   
 `<!--- Short sidenote, not sure to be included: Numerous science-fictions pieces continue to explore the notions of cyberpunk and a futuristic era where machines take over. Yet, I have not heard of any exploring what might happen is the web became this place of distrust and fakeness. -->`  
 Of course, as M. Killjoy also writes, this shift might very well lead us back to embracing more face-to-face interactions, with other human beings, which would be quite positive. But I believe we can also act now, as communities, so that neither the web nor our *in real life* interactions disappear.  
-## <mark style="background: #FFF3A3A6;">3. Reclaiming: a fight for our future</mark>  
-#### 3.1 Cyberpunk: aesthetics vs ideology  
+# <mark style="background: #FFF3A3A6;">3. Reclaiming: a fight for our future</mark>  
+## 3.1 Cyberpunk: aesthetics vs ideology  
 What ifs and potentialities are a big deal of our imagination capacities. All that is forging in the various domains of technology nowadays seems to be trying to give life to science-fiction (or science-fiction writers are true visionaries). As Asma Mhalla explains in the beginning of her essay Cyberpunk : Le nouveau totalitarisme, the future is here, we are living the cyberpunk dystopia depicted in so many science-fiction scenario since the 1980s. The all-automated, machine-centred and efficiency-driven future is actually the present we are building (Mhalla, 2025). Only, cyberpunk isn’t just a skin-pack coating everything in CMYK-saturated colours and body implants, it comes with an ideology, politics.  
 Mhalla carefully unveils the mechanics at play in the cyberpunk ideology of our days, building her analysis on the recent events that occurred in US politics.  
 She explains thoroughly how deeply rooted in technology those events are, relying on a president that has only faith in the sparkly, the shocking and the show. Donald Trump is the ultimate stage magician, who took Elon Musk as his assistant for a while, stating his motives and interests in AI programming and machine governance.   
   
 “So, in short, cybernetics went into arts and science fiction and they invented stuff and said "it will be great in the future". But maybe we should really think about stories we believe in. We shouldn't ignore so many facts. AI is using huge amounts of energy, water, and human lives. And they gave us that story that AI will solve the climate crisis. And this is like trying to extinguish a fire with diesel. You can try it.  
 So, please, be an adult, like stories, but do not confuse them with reality and be an adult, break something to make it stop.”  
-#### 3.2 Fun against totalitarianism   
+## 3.2 Fun against totalitarianism   
 The state of the web is currently unstable, taken over by big Silicon Valley corporation, pushing AI slop in everything, until we all become numb. In her article From the Philosophy of the Open to the Ideology of the User-Friendly, Lori Emerson explains how computers used to be accessible to their users, offering the possibility to become hardware-savvy, and how through time, they become less and less operable and changeable, thus turning into mysterious black boxes that we expect to just work. This system is creating the great seamlessness, valuing templates and drag-and-drop website makers instead of the craft of HTML and CSS, mentioned before.   
 In addition, we’re always compelled and pushed to find purpose, to have a reason, a use for everything we say and make. That’s the principle of design; art with an applied function. That is terribly sad. It always made me feel like an outcast, because sometimes it is very nice to do things because we appreciate them or because they ‘feel right’. So let’s embrace the useless, for the sake of fun.   
 As Johan Huizinga demonstrates in his book Homo Ludens, play is an inherent part of life and losing playfulness gives way to seriousness, leading to extreme political situations. Meaning that in order to fight those political crises, we need to embrace playfulness.  
@@ -180,7 +180,7 @@ To me, this is also exactly what big tech does: trying to give life to science-f
 “And have fun doing it. This is a duty you can do with others. There is no rule that anti-fascism can't be danced.”  
 “Let's pack, put the fun back into anti-fascism, and create a good world.”  
   
-## CONCLUSION  
+# CONCLUSION  
  …   
    
 ---  
