@@ -4,29 +4,64 @@ author:
   - Kiara Jouhanneau
 created: 2026-01-30
 description: How nurturing sensitivity and playfulness, distancing oneself from corporate platforms and shaping the web you want is a stance against automation and seamlessness and a path to connecting and tying links.
-word-count: 376
+word-count: 922
 word-goal: 2000
 share: true
 ---
 ## 3. Reclaiming: a fight for our future  
-#### 3.1 Fun against totalitarianism   
-The state of the web is currently unstable, taken over by big Silicon Valley corporation, pushing AI slop in everything, until we all become numb. In her article *From the Philosophy of the Open to the Ideology of the User-Friendly*, Lori Emerson explains how computers used to be accessible to their users, offering the possibility to become hardware-savvy, and how through time, they become less and less operable and changeable, thus turning into mysterious black boxes that we expect to just work. This system is creating a great seamlessness, valuing templates and drag-and-drop website makers instead of the craft of HTML and CSS. That is how we loose singularity and get lost in a virtual sea of grid-ruled websites.   
-In addition, we’re always compelled and pushed to find purpose, to have a reason, a use for everything we say and make. That’s the principle of design; art with an applied function. That is terribly sad. It always made me feel like an outcast, because sometimes it is very nice to do things because we appreciate them or because they ‘feel right’. So let’s embrace the useless, for the sake of fun.   
-As Johan Huizinga demonstrates in his book Homo Ludens (Huizinga, J. (1964) Homo Ludens: A study of the play element in culture. Boston, USA: The Beacon Press), play is an inherent part of life and losing playfulness gives way to seriousness, leading to extreme political situations. Meaning that in order to fight those political crises, we need to embrace playfulness.  
+#### 3.1 Cyberpunk: aesthetics vs ideology  
+What ifs and potentialities are a big deal of our imagination capacities. All that is forging in the various domains of technology nowadays seems to be trying to give life to science-fiction (or science-fiction writers are true visionaries). As Asma Mhalla explains in the beginning of her essay Cyberpunk : Le nouveau totalitarisme, the future is here, we are living the cyberpunk dystopia depicted in so many science-fiction scenario since the 1980s. The all-automated, machine-centred and efficiency-driven future is actually the present we are building (Mhalla, 2025). Only, cyberpunk isn’t just a skin-pack coating everything in CMYK-saturated colours and body implants, it comes with an ideology, politics.  
+Mhalla carefully unveils the mechanics at play in the cyberpunk ideology of our days, building her analysis on the recent events that occurred in US politics.  
+She explains thoroughly how deeply rooted in technology those events are, relying on a president that has only faith in the sparkly, the shocking and the show. Donald Trump is the ultimate stage magician, who took Elon Musk as his assistant for a while, stating his motives and interests in AI programming and machine governance.   
   
-Language is one of the pillars of politics: how do you address people, diction and tone, choice of words and topics… and convincing, gaining voters. Games share the spotlight, but more insidiously: looking at Johan Huizinga’s *Homo Ludens*, he draws a tight connection between the mechanics of playing and those of contesting: “The agon in Greek life, or the contest anywhere else in the world, bears all the formal characteristics of play, and as to its function belongs almost wholly to the sphere of the festival, which is the playsphere. It is quite impossible to separate the contest as a cultural function from the complex ‘play-festival-rite’.” ([Huizinga, 1964, p. 31](zotero://select/library/items/C54R2GCV)). The political sphere has rules, contestants (players), winners, losers, just like a typical card game.  
+“So, in short, cybernetics went into arts and science fiction and they invented stuff and said "it will be great in the future". But maybe we should really think about stories we believe in. We shouldn't ignore so many facts. AI is using huge amounts of energy, water, and human lives. And they gave us that story that AI will solve the climate crisis. And this is like trying to extinguish a fire with diesel. You can try it.  
+So, please, be an adult, like stories, but do not confuse them with reality and be an adult, break something to make it stop.”  
+  
+#### 3.2 Fun against totalitarianism   
+The state of the web is currently unstable, taken over by big Silicon Valley corporation, pushing AI slop in everything, until we all become numb. In her article From the Philosophy of the Open to the Ideology of the User-Friendly, Lori Emerson explains how computers used to be accessible to their users, offering the possibility to become hardware-savvy, and how through time, they become less and less operable and changeable, thus turning into mysterious black boxes that we expect to just work. This system is creating the great seamlessness, valuing templates and drag-and-drop website makers instead of the craft of HTML and CSS, mentioned before.   
+In addition, we’re always compelled and pushed to find purpose, to have a reason, a use for everything we say and make. That’s the principle of design; art with an applied function. That is terribly sad. It always made me feel like an outcast, because sometimes it is very nice to do things because we appreciate them or because they ‘feel right’. So let’s embrace the useless, for the sake of fun.   
+As Johan Huizinga demonstrates in his book Homo Ludens, play is an inherent part of life and losing playfulness gives way to seriousness, leading to extreme political situations. Meaning that in order to fight those political crises, we need to embrace playfulness.  
+  
+While working on a translation job for howtotrainyourchatbot.org i came across the phrase: "You will see a question with two answer options generated by the model, and pick what you think is **the better answer**. Real chatbots similarly **learn patterns** from thousands of choices **made by humans**, often <b>workers hired for this task</b>. What counts as 'better' depends on who's deciding." and that made me think; what GenAI **cannot** do is create, have imagination. It recycles and remixes already realised ideas. It plagiarises and steals. So as humans, our so endeared singularity is to some extent our imagination. It is our capacity to create useless things, for their beauty or their level of fun. People designing GenAI tools (Musk, Altman, etc.) are driven by profit and use, functionality, performance. Here’s another fact given on howtotrainyourchatbot.org: “Artificial intelligence denotes the capacity of computational systems to exhibit adaptive, goal-oriented behavior akin to cognitive processes observed in human intelligence”.  
+Therefore these tools cannot conceive the importance of the useless. Making the useless and the goofy preferred counter-action to their political agenda.  
+  
+— But, Kiara, what is this mysterious political agenda?  
+Excellent question! Let me explain starting with a quote from Katika Kühnreich in a talk she gave during 39C3:  
+> “Stories can help us, give us guidelines, hope. Can make us believe that if we follow that story's rules, everything will be easy. But we have to be careful what kind of stories we believe in.  
+> Because fascism is a story.  
+> And sometimes it's very well told. And cybernetics is a story as well. A mechanical fairy tale.”  
+  
+With this statement, Kühnreich ties cybernetics and fascism together. During this talk, she demonstrates further this statement by explaining that, in her own words, fascism “promises you to go back to a past that never existed. And they tell you it will be grand. Fascism provides you with a community that is paid for by the blood of others. Because the only community fascism knows is ‘we are better than them’.”   
+To me, this is also exactly what big tech does: trying to give life to science-fiction, promising it will solve all our problems and creating a fake community gathered around productivity, lies, unethical practices, thinking they’re doing the right thing.  
+  
+  
+“And have fun doing it. This is a duty you can do with others. There is no rule that anti-fascism can't be danced.”  
+“Let's pack, put the fun back into anti-fascism, and create a good world.”  
+  
+  
+  
   
 **Quotes from Katika Kühnreich at 39C3**  
-“So, first in my own words: Fascism promises you to go back to a past that never existed. And they tell you it will be grand.  
-Fascism provides you with a community that is paid for by the blood of others. Because the only community fascism knows is “we are better than them”.”  
+~~“So, first in my own words: Fascism promises you to go back to a past that never existed. And they tell you it will be grand.~~  
+~~Fascism provides you with a community that is paid for by the blood of others. Because the only community fascism knows is “we are better than them”.”~~  
 “And please, I really get mad if people say "Fascism is a reaction to feminism, queers, or whatsoever."  
 No! Fascism is a collectivity of people who rule over others by force. Thank you. They have fragile masculinity, and there's therapy for that.  For their own gain of power, they treat others badly and build concentration camps. And they tell masses stories. They will lure them into their kind of poisoned community.”  
 “Fascism does not appear because of feminism or "the left". Fascism appears because it's financed. (applause)  
 And fascism doesn't disappear because you ignore it. People tried that.  
 And, especially important, you shouldn't hand some microphones to fascists. (applause) That's what they want. You do not give them platforms. And the best thing is, do not go onto their platforms either. (applause) Fascism only disappears when it's opposed, not ignored. (applause) So please, oppose it with every possible mean. Because there's not the one good measure. We do not have to fight about measures. We have to fight against fascism.”  
 “We can disconnect from fascist infrastructures and nuts. We can break the hyper-connection and form local connections from neighbourhoods, from collective spaces.”  
-“And have fun doing it. This is a duty you can do with others. There is no rule that anti-fascism can't be danced.”  
-“Let's pack, put the fun back into anti-fascism, and create a good world.”  
+  
+“And something else happened in the late 19th, at the beginning of the 20th century. The discovery of masses.  
+To see, like, the majority of people not as something that should just be ruled, but to be integrated either by education or by propaganda. And how to influence these masses would be the goal of many beliefs.  
+So, there was one thing that helped a lot. That was technology, newspapers, radio. And there was a fascinating young movement, trying out new ways, combining tactics from different social movements and art. Sounds great, doesn't it? And some of the slogans could have been "Disrupt!", "Love technology!", "Welcome the future!", and "Embrace futurism!".”  
+“So, they gave us a huge thing to swallow with that cybernetics, future thingy. And then they gave us an even bigger thing to swallow. And because we were well-trained and fascinated, we didn't even choke. So, they gave us "AI", artificial intelligence. It's so wow, isn't it?  
+No, it isn't. You shouldn't say "whoa" when someone gives you a good word. You should say "Why?" or "What?", "What do you mean?". So, what is "AI"? And why is the lady always using quotes on that? Well, the lady is using quotes on that because the lady doesn't like the term and thinks it's bullshit.   
+Artificial intelligence is nothing more than a sales argument. It's a money-spending idea of "money-shitterly", as they say in some areas of Germany.”  
+~~“So, in short, cybernetics went into arts and science fiction and they invented stuff and said "it will be great in the future". But maybe we should really think about stories we believe in. We shouldn't ignore so many facts. AI is using huge amounts of energy, water, and human lives. And they gave us that story that AI will solve the climate crisis. And this is like trying to extinguish a fire with diesel. You can try it.~~  
+~~So, please, be an adult, like stories, but do not confuse them with reality and be an adult, break something to make it stop.”~~  
+“So, what if..., what if ..., what  
+if you ..., what if you combine fascism with modern digital technology and hyper-connectivity? What would happen? Let us imagine. Well, look at that.  
+Someone showing a Hitler salute on a huge American stage. That is so amazing. Who would have thought 10 years ago that would be happening? Isn't that great, the times we live in? Isn't that great? And the best thing is, this guy got access to so many, so many data. And data is power, by the way.”  
   
 <!---  
 ###### References:   
@@ -36,39 +71,8 @@ And, especially important, you shouldn't hand some microphones to fascists. (app
 >> White, M. (2024) Fighting for our web, Citation Needed. Available at: https://www.citationneeded.news/fighting-for-our-web/ (Accessed: 30 November 2025).  
 >  
 >> Farrell, M. (2024) ‘We Need To Rewild The Internet’. Available at: https://www.noemamag.com/we-need-to-rewild-the-internet (Accessed: 30 November 2025).  
---->  
-  
-#### 3.2 Cyberpunk: aesthetics vs ideology  
-  
-**Quotes from Katika Kühnreich at 39C3**  
-“Stories can help us, give us guidelines, hope. Can make us believe that if we follow that story's rules, everything will be easy. But we have to be careful what kind of stories we believe in.  
-Because fascism is a story.  
-And sometimes it's very well told. And cybernetics is a story as well. A mechanical fairy tale.”  
-“And something else happened in the late 19th, at the beginning of the 20th century. The discovery of masses.  
-To see, like, the majority of people not as something that should just be ruled, but to be integrated either by education or by propaganda. And how to influence these masses would be the goal of many beliefs.  
-So, there was one thing that helped a lot. That was technology, newspapers, radio. And there was a fascinating young movement, trying out new ways, combining tactics from different social movements and art. Sounds great, doesn't it? And some of the slogans could have been "Disrupt!", "Love technology!", "Welcome the future!", and "Embrace futurism!".”  
-“So, they gave us a huge thing to swallow with that cybernetics, future thingy. And then they gave us an even bigger thing to swallow. And because we were well-trained and fascinated, we didn't even choke. So, they gave us "AI", artificial intelligence. It's so wow, isn't it?  
-No, it isn't. You shouldn't say "whoa" when someone gives you a good word. You should say "Why?" or "What?", "What do you mean?". So, what is "AI"? And why is the lady always using quotes on that? Well, the lady is using quotes on that because the lady doesn't like the term and thinks it's bullshit.   
-Artificial intelligence is nothing more than a sales argument. It's a money-spending idea of "money-shitterly", as they say in some areas of Germany.”  
-“So, in short, cybernetics went into arts and science fiction and they invented stuff and said "it will be great in the future". But maybe we should really think about stories we believe in. We shouldn't ignore so many facts. AI is using huge amounts of energy, water, and human lives. And they gave us that story that AI will solve the climate crisis. And this is like trying to extinguish a fire with diesel. You can try it.  
-So, please, be an adult, like stories, but do not confuse them with reality and be an adult, break something to make it stop.”  
-“So, what if..., what if ..., what  
-if you ..., what if you combine fascism with modern digital technology and hyper-connectivity? What would happen? Let us imagine. Well, look at that.  
-Someone showing a Hitler salute on a huge American stage. That is so amazing. Who would have thought 10 years ago that would be happening? Isn't that great, the times we live in? Isn't that great? And the best thing is, this guy got access to so many, so many data. And data is power, by the way.”  
-  
-<!---  
-###### References:   
 > Asma Mhalla  
 >  
---->  
-  
-#### 3.3 Initiatives like wobble, omg.lol. neocities, etc.  
-  
-**Quotes from Katika Kühnreich at 39C3**  
-  
-  
-<!---  
-###### References:   
 > Rachel White  
 >> White, R. (2017) ‘Keep the Internet Weird’, Medium, 23 March. Available at: https://medium.com/@ohhoe/keep-the-internet-weird-1137eece27c4 (Accessed: 30 November 2025).  
 > Stuart Lagridge  
@@ -76,7 +80,7 @@ Someone showing a Hitler salute on a huge American stage. That is so amazing. Wh
 --->  
   
   
-<!---  
+  
 ---  
 #### Notes  
   
