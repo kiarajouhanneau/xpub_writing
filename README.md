@@ -10,7 +10,7 @@ Notes and writing process
 | [Chapter 3](DRAFT03_Chpt03.md) | 926/2000 w. | 46% |
 | [Conclusion](DRAFT04_Conclusion.md) | 30/1000 w. | 3% |
 
-*Last update: 22-02-2026 18:25*
+*Last update: 22-02-2026 18:25*  
 *Word count: 5762*
 
 XPUB 2026
