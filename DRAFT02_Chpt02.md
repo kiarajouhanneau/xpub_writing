@@ -14,7 +14,7 @@ share: true
 I will dive into the design systems used by big corporations, that in the end define the overall look of websites.   
 This part will largely analyse the performance of efficiency that is spreading around the web and how following trends is making our identities disappear.  
 ## 2.1 Templates and polishing: performance, technicality and productivity   
-Taking on graphic design and layout techniques that have been used since the advent of printing, the web relied on template almost as soon as it was born. In its early years, before the arrival of CSS and then Geocities, webmakers expressed their personalities and created atmospheres, using themes on top of templates: as Nolwenn Maudet describes it in her article Design Templates Between Empowerment and Control of Amateur Graphic Designers, templates organise the content’s structure and standardise whereas themes offer a “graphical ambiance” (Maudet, 2025) and the “choices \[for a theme\] are less about functional graphic design and more about (personal) branding.” (Maudet, 2025)  
+Taking on graphic design and layout techniques that have been used since the advent of printing, the web relied on template almost as soon as it was born. In its early years, before the arrival of CSS and then Geocities, webmakers expressed their personalities and created atmospheres, using themes on top of templates: as Nolwenn Maudet describes it in her article Design Templates Between Empowerment and Control of Amateur Graphic Designers, templates organise the content’s structure and standardise whereas themes offer a “graphical ambiance” (Maudet, 2025) and the “choices [for a theme] are less about functional graphic design and more about (personal) branding.” (Maudet, 2025)  
 Unfortunately though, this didn’t last long as Content Management Systems (CMS) began to flourish. In a logic of capitalisation and to draw a maximum of people to use their services, CMS began by mimicking big companies’ layouts.  
 > “The growing adoption of CMS contributed to the intensification of “templatization” of pages and their homogenization in a feedback loop where users’ habituation to certain site architectures leads them to prefer that architecture, further reinforcing its adoption and deployment on other sites.” (Maudet, 2025)  
   
@@ -36,13 +36,14 @@ Since 2020, the web is witnessing a new rise of experimental websites. Neocities
 Unfortunately, that same tiredness has also lead way to the global use of Generative Artificial Intelligence (GenAI) tools. Those generators produced images using overly saturated colours, abstract or hyper-realistic shapes that offer a seamingly good alternative to smooth grid/Instagram-like visuals.  
 The issue with that is that those tools actually follow the same rules and objectives: performance, productivity and technicality, using shady methods. Besides the disastrous impact GenAI-producing companies have on the environment, the economy and human ethics, they also rely on manipulation and gas-lighting to achieve their goals.  
   
-By merging GenAI and WYSIWYG website-makers, we face more and more templates that don’t even need to be edited, as the user will be able to generate their own content through an AI bot. The result of this is what Cory Doctorow calls “the enshittification of the web”:  
+By merging GenAI and WYSIWYG website-makers, we face more and more templates that don’t even need to be edited, as the user will be able to generate their own content through an AI bot. The result of this is what writer and activist Cory Doctorow calls “the enshittification of the web”:  
 > “So what’s enshittification and why did it catch fire? It’s my theory explaining how the internet was colonized by platforms, and why all those platforms are degrading so quickly and thoroughly, and why it matters — and what we can do about it.” (Doctorow, C. (2024) ‘My McLuhan lecture on enshittification’, Medium, 30 January. Available at: https://doctorow.medium.com/my-mcluhan-lecture-on-enshittification-ea343342b9bc (Accessed: 17 February 2026).)[^27]  
   
 `<!--- → transition!! -->`  
   
+`<!--- word count: 832/1000 :) -->`  
+  
 ## 2.2 Losing our identity: paradoxes and automation   
-`<!--- → this part is too short!! (add 300 words somehow) -->`  
 With that grand homogenisation of the web visual land, we face a paradox of wanting to stand out and blending in. We often see people, mainly artists of any field, complaining and struggling. But they might come from any end of the spectrum: those who decided to embrace the flow and the standards blend so much that by looking like anyone else’s their portfolios remain unseen; those who on the contrary decide to go for a very personal portfolio will be so different and crafty that they are not pushed forward by algorithm, remaining in the underground scene or invisible. That paradox makes it harder and harder for artists and creators to make a living and is getting all the more emphasised by GenAIs, as anyone can label themselves artists even if their creations are those of the calculations of a machine.  
    
 Besides that paradox, another concept is bringing us to a loss or confusion of our identity and singularity: automation.  
@@ -58,23 +59,12 @@ Yet when dressed up as a magical entity GenAI seems to be looked upon as a good 
   
 Of course, as M. Killjoy also writes, this shift might very well lead us back to embracing more face-to-face interactions, with other human beings, which would be quite positive. But I believe we can also act now, as communities, so that neither the web nor our *in real life* interactions disappear.  
   
-<!---   
-###### General ref:  
-> Asma Mhalla  
->> Mhalla, A. (2025) ‘Cyberpunk – Le nouveau système totalitaire’. Éditions du Seuil Paris.  
+`<!--- → transition!! -->`  
   
-> Peter Molnar  
->> Molnar, P. (2021) Old Web, New Web, Indie Web - petermolnar.net. Available at: https://petermolnar.net/article/old-web-new-web-indie-web/ (Accessed: 30 November 2025).  
-> Nolwenn Maudet  
->> Beignon, A., Maudet, N. and Thibault, T. (2024) How tech companies are pushing us to use AI, Limites numériques. Available at: https://limitesnumeriques.fr/travaux-productions/ai-forcing/en (Accessed: 8 January 2026).  
+`<!--- word count: 890/1000 :) -->`  
+`<!--- TOTAL word count: 1767/2000 :) -->`  
   
-> Zuckerman  
->> Zuckerman, G. (2025) ‘An urgent warning about the open web’s shrinking commons’, FindArticles, 1 November. Available at: https://www.findarticles.com/an-urgent-warning-about-the-open-webs-shrinking-commons/ (Accessed: 30 November 2025).  
-> Miriam Suzanne  
-> Katika Kühnreich, All sorted by machines of loving grace?  
->> https://media.ccc.de/v/39c3-all-sorted-by-machines-of-loving-grace-ai-cybernetics-and-fascism-and-how-to-intervene#t=418 + subtitles: https://static.media.ccc.de/media/congress/2025/2026-304dd87b-7de5-557c-9951-1add24396a0b-eng.vtt  
---->  
-  
+---  
 [^23]: source???  
   
 [^24]: https://moz.com/learn/seo/what-is-seo  
@@ -86,4 +76,3 @@ Of course, as M. Killjoy also writes, this shift might very well lead us back to
 [^27]: I decided for that reference before Cory Doctorow’s posted his blog’s 20 years anniversary post. In it he he defends his use of a Large Language Model to help him proofread his blog articles, which is a practice I do not align with morally (https://pluralistic.net/2026/02/19/now-we-are-six/#stock-buyback). However, for the sake of my point, I decided to keep that reference and add this disclaimer.  
   
 [^28]: Dominique Cardon, À quoi rêvent les algorithmes ? Nos vies à l’heure du big data, Paris, Seuil, 2015, p.70., quoted by Nolwenn Maudet in …  
-  
