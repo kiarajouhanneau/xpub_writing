@@ -1,0 +1,29 @@
+---
+share: true
+---
+- [ ] Chap 1  
+	- [ ] add images  
+	- [ ] transitions  
+		- [ ] 1.1 > 1.2  
+		- [ ] 1 > 2 (end)  
+	- [ ] add missing footnote contents  
+- [ ] Chap 2  
+	- [ ] add images  
+	- [ ] transitions  
+		- [ ] 2.1 > 2.2  
+		- [ ] 2 > 3 (end)  
+	- [ ] add missing footnote contents  
+- [ ] Chap 3  
+	- [ ] write chapter intro  
+	- [ ] write missing content   
+		- [ ] 3.1 =~ 75 w.   
+		- [ ] 3.2 =~ 300 w.  
+- [ ] Conclusion  
+	- [ ] write content  
+- [ ] Appendix  
+	- [ ] images  
+	- [ ] transcripts of discussions  
+- [ ] Intro  
+	- [ ] add images  
+	- [ ] rewrite question when all writing is done  
+	- [ ] add missing footnote contents

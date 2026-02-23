@@ -41,12 +41,15 @@ Those questions are all at least partly answered by the notion of caring. The mo
 Lastly, once we have built and decided to (take) care (for), we share. Sharing is beyond the creator, it is an agreement with the medium. The web is like a antique forum, the central place of the city, where people share all sorts of ideas. Web forums take their name from it. Sharing is inherent to the web, as it is using the Internet protocol, connecting multiple computers (servers) and people together. And just as any art form, web crafting and net.art are created with a sharing intention. It can be to share the piece itself as a whole, the technique or medium, or something more abstract or personal, like a message, an idea, a world.  
   
 `<!--- This makes me reach the following conclusion: even the most stereotypical developer, having done their curriculum in programming, maths and engineering is making art, in the sense that they are writing, and the trial-and-error, drafting process is very similar to the one of art. On that note, it is more and more common to see these developers host Twitch live streams, thus becoming also content creators, performers, tutors. --->`  
+  
+`<!--- word count: 897/1000 :D -->`  
+  
 ## 1.2 Webrings and digital gardens: where the web becomes *magical*   
 Back in its first years of life, the web did not have such “powerful” search engines and discovering new websites was more of a treasure hunt. To compensate for this lacking, web-makers created webrings: a script file was put in the code folder, containing a list of all members and a looping function, interlinking members to one another. Those early webrings were thematic: gardeners, fandoms, cooking websites, etc. It allowed visitors to discover other people having the same passions or interests.   
 `<!--- IMG: webrings examples --->`  
   
 For a few years now, webrings are showing up again, regaining popularity. Of course not for the same reason, but they still act as a very good discovery/connecting tool. This revival is linked to a movement of revolt, a common voice rising from the depths of the web: the indie web. It is a philosophy rooted in a desire of reclaiming the web space, taken over by big corporations such as GAFAM[^12]. It relies on principles such as hand-written code, low-weight websites, F/LOSS[^13] and sharing.[^14] It advocates for personal websites as a form of expression, opposite to corporate-owned social media platforms, inviting us to care about what we share and how.  
-There are various ways to build a webring, suited for both JavaScript experts and beginners, implying that building a webring is in anyone’s reach.Whoever wants to can craft their own webring.  
+There are various ways to build a webring, suited for both JavaScript experts and beginners, implying that building a webring is in anyone’s reach. Whoever wants to can craft their own webring.  
 Webrgings can be seen as a social webcraft, aiming at linking and connecting people together.  
 Another form of social webcraft is digital gardens<sup>add history</sup>. Maggie Appleton describes them:  
 > They’re not following the conventions of the “personal blog”, as we’ve come to know it. Rather than presenting a set of polished articles, displayed in reverse chronological order, these sites act more like free form, work-in-progress wikis.    
@@ -84,6 +87,10 @@ In a interview he gave to Kendal Beynon he describes the ‘Everyone Site’, a 
 This is also I believe a perfect illustration of the magic of the web: (web) crafting enhanced by intentions creates communities that nurture that cycle.  
   
 `<!--- → transition!! -->`  
+  
+`<!--- word count: 1212/1000 *u* -->`  
+  
+`<!--- TOTAL word count: 2156/1000 :) -->`  
   
 ---  
 [^8]: net.art refers to a group of artists who have worked in the medium of Internet art since 1994. […] <br>The term "net.art" is also used as a synonym for net art or Internet art and covers a much wider range of artistic practices. In this wider definition, net.art means art that uses the Internet as its medium and that cannot be experienced in any other way. Typically net.art has the Internet and the specific socio-culture that it spawned as its subject matter but this is not required.<br>The German critic Tilman Baumgärtel - building on the ideas of American critic Clement Greenberg - has frequently argued for a "media specificity" of net.art in his writings. According to the introduction to his book "net.art. Materialien zur Netzkunst", the specific qualities of net.art are "connectivity, global reach, multimediality, immateriality, interactivity and egality". (https://en.wikipedia.org/wiki/Net.art)  
