@@ -6,7 +6,7 @@ description: |-
   I will dive into the design systems used by big corporations, that in the end define the overall look of websites. 
   This part will largely analyse the performance of efficiency that is spreading around the web and how following trends is making our identities disappear.
 created: 2026-01-30
-word-count: 1774
+word-count: 1767
 word-goal: 2000
 share: true
 ---

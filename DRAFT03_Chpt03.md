@@ -4,7 +4,7 @@ author:
   - Kiara Jouhanneau
 created: 2026-01-30
 description: How nurturing sensitivity and playfulness, distancing oneself from corporate platforms and shaping the web you want is a stance against automation and seamlessness and a path to connecting and tying links.
-word-count: 926
+word-count: 1665
 word-goal: 2000
 share: true
 ---
