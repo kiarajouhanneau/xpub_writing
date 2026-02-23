@@ -5,6 +5,8 @@ author:
 created: 2026-01-23
 share: true
 note: scan Asma Mhalla's "Anti-Conclusion" and add it to appendix + add/update footnotes + try md2pagedjs for layout
+word-count: 6751
+word-goal: 8000
 ---
 # INTRODUCTION  
 It all started with a hunch: the web bears magic. Many have questioned the relevance of that word in that context, and I am not entirely sure myself that “magic” is appropriate. But so far, it has been fine to go along with it.  
@@ -40,6 +42,9 @@ the web as a craft – to build it, care for it, share it – and its enchanted 
 the seamless polished web, ruled by performance and disappearance – mass over individual, loss of identity –;   
 the fun web, or how leaning towards the craft is how we fight back against the seamlessness.  
 `<!--- here: make the connection to magic clearer? ----- REWRITE THE WHOLE QUESTION WHEN WRITING IS DONE-->`  
+  
+`<!--- word count: 876/1000 :) --->`  
+  
 # <mark style="background: #D2B3FFA6;">1. Into the <del>spider</del> web</mark>  
 Let’s first dive into the web itself, investigating web making as a craft, the importance of the gesture and the role of intention when making, creating.  
 This is about intention being a key to craft and how I see magic and the web connecting to one another.  
@@ -119,8 +124,7 @@ This is also I believe a perfect illustration of the magic of the web: (web) cra
 `<!--- → transition!! -->`  
   
 `<!--- word count: 1212/1000 *u* -->`  
-  
-`<!--- TOTAL word count: 2156/1000 :) -->`  
+`<!--- TOTAL CHAPT word count: 2156/1000 :) -->`  
   
 # <mark style="background: #ABF7F7A6;">2. The ghost in the shell, a tale about efficiency</mark>  
 I will dive into the design systems used by big corporations, that in the end define the overall look of websites.   
@@ -174,7 +178,8 @@ Of course, as M. Killjoy also writes, this shift might very well lead us back to
 `<!--- → transition!! -->`  
   
 `<!--- word count: 890/1000 :) -->`  
-`<!--- TOTAL word count: 1767/2000 :) -->`  
+`<!--- TOTAL CHAPT word count: 1767/2000 :) -->`  
+  
 # <mark style="background: #FFF3A3A6;">3. Reclaiming: a fight for our future</mark>  
 `<!--- intro --->`  
 ## 3.1 Cyberpunk: aesthetics vs ideology  
@@ -229,7 +234,6 @@ This is I believe a very good way of reconnecting to our inner child, the one ho
 `<!--- word count: 742/1000 :) --->`  
   
   
-  
 **From Molly White (might help to continue writing)**  
 “The site let you customize the HTML and CSS for the page, and this opened the doors to what was just absolute beautiful chaos. Think glitter GIFs and marquee tags and autoplaying MIDI songs of, like, Smash Mouth songs.”  
   
@@ -247,7 +251,7 @@ Rewilding the internet connects and grows what people are doing across regulatio
 This extract covers every point I have analysed: the power and importance of intention; web poetry; activism; emotions as a key; community; crafting. --->`  
   
   
-`<!--- TOTAL word count: 1665/2000 :) --->`  
+`<!--- TOTAL CHAPT word count: 1665/2000 :) --->`  
   
 # CONCLUSION  
 Webringing, hyperlinking and mazing are my spells.  
@@ -255,6 +259,8 @@ Expressing and praising singularity are my intentions.
 Seamlessness and automation are my combat.  
   
 I am the Wicked Witch of the World Wide Web.  
+  
+`<!--- word count: 30/1000 >:( --->`  
   
 `<!--- COMPLETE TOTAL word count: 6751/8000 :/ --->`  
   
