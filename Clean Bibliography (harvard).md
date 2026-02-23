@@ -19,7 +19,7 @@ Beignon, A., Maudet, N. and Thibault, T. (2024) How tech companies are pushing u
 Berners-Lee, T. (2025) This is for everyone. Macmillan, London  
   
 Beynon, K. and Murray, D. (2025) ‘Web craft: an interview with Daniel Murray’, The Photographers’ Gallery: Unthinking Photography [Preprint]. Available at: https://unthinking.photography/articles/webcraft-an-interview-with-daniel-murray (Accessed: 4 January 2026).  
-	see also: [Web craft an interview with Daniel Murray  unthinking.photography](web-craft-an-interview-with-daniel-murray-unthinkingphotography.md)  
+	see also: [Web craft an interview with Daniel Murray  unthinking.photography](Web%20craft%20an%20interview%20with%20Daniel%20Murray%20%20unthinking.photography.md.md)  
 	  
   
 Carpenter, J.R. (2015) A Handmade Web. Available at: https://luckysoap.com/statements/handmadeweb.html (Accessed: 4 January 2026).  
@@ -36,6 +36,9 @@ Haute, L. (2017) Cyberwitches Manifesto. Available at: http://lucilehaute.fr/cyb
   
 Kühnreich, K. (100 AD) All Sorted by Machines of Loving Grace? Available at: https://media.ccc.de/v/39c3-all-sorted-by-machines-of-loving-grace-ai-cybernetics-and-fascism-and-how-to-intervene (Accessed: 1 February 2026).  
 	a talk about fascism and cybernetics and how to fight back (with fun!)  
+  
+Langridge, S. (2024) The mazy web she whirls: starting Open Web Advocacy. (London Web Standards). Available at: https://www.youtube.com/watch?v=Mn2YFU_UkEI (Accessed: 8 October 2025).  
+	a talk about open web advocacy, reclaiming the web and the power of a community against big tech companies – built upon The Lady of Shallot poem (cool metaphors)  
   
 Lessig, L. (2000) Lawrence Lessig on the increasing regulation of cyberspace | Harvard Magazine. Available at: https://www.harvardmagazine.com/2000/01/code-is-law-html (Accessed: 4 January 2026).  
   
@@ -62,11 +65,10 @@ Zuckerman, G. (2025) ‘An urgent warning about the open web’s shrinking commo
   
 ## To explore still  
 Applequist, D. (2024) Ethical Web Principles: Building a better web, W3C. Available at: https://www.w3.org/blog/2024/ethical-web-principles-building-a-better-web/ (Accessed: 4 January 2026).  
-Conte, J. (2024) Death of the Follower & the Future of Creativity on the Web with Jack Conte | SXSW 2024 Keynote. SXSW. Available at: https://www.youtube.com/watch?v=5zUndMfMInc (Accessed: 8 October 2025).  
+~~Conte, J. (2024) Death of the Follower & the Future of Creativity on the Web with Jack Conte | SXSW 2024 Keynote. SXSW. Available at: https://www.youtube.com/watch?v=5zUndMfMInc (Accessed: 8 October 2025).~~ irrelevant  
 Ehmke, C.A. (2018) The Post-Meritocracy Manifesto. Available at: https://postmeritocracy.org/ (Accessed: 4 January 2026).  
 Farrell, M. (2024) ‘We Need To Rewild The Internet’. Available at: https://www.noemamag.com/we-need-to-rewild-the-internet (Accessed: 30 November 2025).  
 Haraway, D. (1985) A Cyborg Manifesto.  
-Langridge, S. (2024) The mazy web she whirls: starting Open Web Advocacy. (London Web Standards). Available at: https://www.youtube.com/watch?v=Mn2YFU_UkEI (Accessed: 8 October 2025).  
 Lialina, O. (2005) Olia Lialina. A Vernacular web. Indigenous and Barbarians. Available at: https://art.teleportacia.org/observation/vernacular/ (Accessed: 8 October 2025).  
 Lialina, O. and Espenschied, D. (eds) (2009) Digital Folklore: To Computer Users, with Love and Respect. merz & solitude.  
 Seu, M. (2017) ‘The Poetry of Tools’. Available at: https://www.are.na/editorial/the-poetry-of-tools (Accessed: 25 November 2025).  
@@ -74,6 +76,13 @@ Walsh, T. et al. (2025) ‘FOR THE WEB (& WORLD) YOU CARE ABOUT’, (4).
 White, R. (2017) ‘Keep the Internet Weird’, Medium, 23 March. Available at: https://medium.com/@ohhoe/keep-the-internet-weird-1137eece27c4 (Accessed: 30 November 2025).  
 Winner, L. (1980) ‘Do Artifacts Have Politics’, Daedalus, pp. 121–136.  
   
+### Websites  
+How to Train Your Chatbot (no date) How to Train Your Chatbot. Available at: https://howtotrainyourchatbot.com/ (Accessed: 3 February 2026).  
+	referred to for a point on AI’s inability to create   
+Lialina, O. 2013) Olia Lialina | Summer (2013) | Artsy. Available at: https://www.artsy.net/artwork/olia-lialina-summer-1 (Accessed: 20 November 2025).  
+	referred to as the ultimate web crafter  
+Timmermans, D. (no date) Declarations. Available at: https://declarations.style (Accessed: 3 February 2026).  
+	referred to in the context of web poetry  
 ### Websites  
 How to Train Your Chatbot (no date) How to Train Your Chatbot. Available at: https://howtotrainyourchatbot.com/ (Accessed: 3 February 2026).  
 	referred to for a point on AI’s inability to create   
