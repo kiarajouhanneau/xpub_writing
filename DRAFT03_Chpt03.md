@@ -57,6 +57,8 @@ In order to abolish this over-use of templates and generated images, we must dig
   
 This is I believe a very good way of reconnecting to our inner child, the one holding that goofy playfulness.   
   
+`<!--- something about trial and error, messy code and CSS -> spontaneousness --->`  
+  
 …  
   
 `<!--- word count: 742/1000 :) --->`  
