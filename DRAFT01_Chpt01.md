@@ -42,6 +42,8 @@ Lastly, once we have built and decided to (take) care (for), we share. Sharing i
   
 `<!--- This makes me reach the following conclusion: even the most stereotypical developer, having done their curriculum in programming, maths and engineering is making art, in the sense that they are writing, and the trial-and-error, drafting process is very similar to the one of art. On that note, it is more and more common to see these developers host Twitch live streams, thus becoming also content creators, performers, tutors. --->`  
   
+`<!--- transition!!! -->`  
+  
 `<!--- word count: 897/1000 :D -->`  
   
 ## 1.2 Webrings and digital gardens: where the web becomes *magical*   
