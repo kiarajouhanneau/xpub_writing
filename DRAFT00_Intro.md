@@ -42,7 +42,7 @@ the seamless polished web, ruled by performance and disappearance – mass over 
 the fun web, or how leaning towards the craft is how we fight back against the seamlessness.  
 `<!--- here: make the connection to magic clearer? -->`  
   
----  
+  
 [^1]: https://kirayana.codeberg.page/reves-party  
   
 [^2]: “Single source publishing (sometimes written single-source publishing) is both a method and a principle; it is the use of a single file or set of files to produce many finished written artifacts in a variety of formats. For instance, one file in a markup language and a folder containing pictures and diagrams could be used as the single source, and a series of instructions (a software or a script) could produce a PDF file for printing, another for an online archive, an HTML page for a website, an XML for digital platforms, and an e-book in the EPUB format. Any modification to the source file would then ripple into every publishing format, saving time and energy for the publishers. However, the setting up of single source publishing requires some time and technical knowledge, an issue more and more obsolete since free and open-source tools are now common and well documented. Single source publishing is at its core a technical principle that describes an array of digital publishing technologies” (Blanc, J. and Haute, L. (2018); quoted in Fauchié, A. and Audin, Y. (2023) ‘The Importance of Single Source Publishing in Scientific Publishing’, Digital Studies / Le champ numérique.)  
