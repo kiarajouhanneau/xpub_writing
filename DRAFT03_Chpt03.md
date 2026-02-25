@@ -8,7 +8,7 @@ word-count: 1665
 word-goal: 2000
 share: true
 ---
-## 3. Reclaiming: a fight for our future  
+## <mark style="background: #FFF3A3A6;">3. Reclaiming: a fight for our future</mark>  
 `<!--- intro --->`  
 ## 3.1 Cyberpunk: aesthetics vs ideology  
 What ifs and potentialities are a big deal of our imagination capacities. All that is forging in the various domains of technology nowadays seems to be trying to give life to science-fiction (or science-fiction writers are true visionaries).   
@@ -84,7 +84,6 @@ This extract covers every point I have analysed: the power and importance of int
   
 `<!--- TOTAL word count: 1665/2000 :) --->`  
   
----  
   
 [^1]: The W3C is an international organisation that sits together to set rules, standards and constant evolution to the web. The biggest actor are companies such as Google, Apple, Adobe, etc.  
   
