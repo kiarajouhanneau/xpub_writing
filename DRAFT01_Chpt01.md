@@ -92,7 +92,7 @@ This is also I believe a perfect illustration of the magic of the web: (web) cra
   
 `<!--- TOTAL word count: 2156/1000 :) -->`  
   
----  
+  
 [^8]: net.art refers to a group of artists who have worked in the medium of Internet art since 1994. […] <br>The term "net.art" is also used as a synonym for net art or Internet art and covers a much wider range of artistic practices. In this wider definition, net.art means art that uses the Internet as its medium and that cannot be experienced in any other way. Typically net.art has the Internet and the specific socio-culture that it spawned as its subject matter but this is not required.<br>The German critic Tilman Baumgärtel - building on the ideas of American critic Clement Greenberg - has frequently argued for a "media specificity" of net.art in his writings. According to the introduction to his book "net.art. Materialien zur Netzkunst", the specific qualities of net.art are "connectivity, global reach, multimediality, immateriality, interactivity and egality". (https://en.wikipedia.org/wiki/Net.art)  
   
 [^9]: https://www.vice.com/en/article/olia-lialinas-most-famous-net-art-piece-turns-15/  

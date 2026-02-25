@@ -6,6 +6,8 @@ share: true
 The aesthetics of the early web result from a combination of experimentation, freedom and self-expression. The early web was in motion, full of textures, expanding the crafty practices we knew.   
 <mark style="background: #FFB8EBA6;">**look for something in Kendal Beynon’s work to quote as example**</mark>  
   
+Interesting paradox: we have a lot of options, settings and tools at hand to customise our browsers `<!-- add screenshots -->`, yet, we lost the urge, the itch of making the web ours by crafting personal websites or silly experiences. This reminds me of an era I’ve only truly heard of: the Flash era. I was too young to fully grasp the shift that operated when Adobe discontinued Flash. But I do understand from my readings and conference-watching that this shift took away a great part of web experimentation with it.  
+  
 ###### Words, meaning, intention  
 As stated in the beginning of this article, words bear meaning, making the process of choosing words an ongoing display of intention. What do I want to say, convey, share? The answer to those questions is the resulting intention. That very same intention then gets put into action; this is where we reconnect to crafting, and the web.   
 >> IMG: The process is the following: thought >> intention >> verbalising intention >> action   
