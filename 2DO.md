@@ -16,8 +16,8 @@ share: true
 - [ ] Chap 3  
 	- [ ] write chapter intro  
 	- [ ] write missing content   
-		- [ ] 3.1 =~ 75 w.   
-		- [ ] 3.2 =~ 300 w.  
+		- [ ] 3.1 ~75 w.   
+		- [ ] 3.2 ~300 w.  
 - [ ] Conclusion  
 	- [ ] write content  
 - [ ] Appendix  
@@ -26,4 +26,5 @@ share: true
 - [ ] Intro  
 	- [ ] add images  
 	- [ ] rewrite question when all writing is done  
-	- [ ] add missing footnote contents
+	- [ ] add missing footnote contents  
+- [x] All over: check referencing
