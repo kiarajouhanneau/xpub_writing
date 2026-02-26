@@ -83,7 +83,35 @@ Lastly, once we have built and decided to (take) care (for), we share. Sharing i
 `<!--- word count: 897/1000 :D -->`  
   
 ## 1.2 Webrings and digital gardens: where the web becomes *magical*   
-Back in its first years of life, the web did not have such “powerful” search engines and discovering new websites was more of a treasure hunt. To compensate for this lacking, web-makers created webrings: a script file was put in the code folder, containing a list of all members and a looping function, interlinking members to one another. Those early webrings were thematic: gardeners, fandoms, cooking websites, etc. It allowed visitors to discover other people having the same passions or interests.   
+Back in its first years of life, the web did not have such “powerful” search engi01-02-2026
+￼##### To do
+- [ ] Add small descriptions of the refs so I have a memo
+---
+
+Appleton, M. (2023) Folk Interfaces. Available at: https://maggieappleton.com/folk-interfaces (Accessed: 8 October 2025).
+
+Arbesman, S. (2024) The Orthogonal Bet: The Quest to Build the Fruitful Web - Lux Capital, luxcapital. Available at: https://www.luxcapital.com/content/the-orthogonal-bet-the-quest-to-build-the-fruitful-web (Accessed: 8 January 2026).
+
+Balkan, A. (2020) What is the Small Web?, Aral Balkan. Available at: https://ar.al/2020/08/07/what-is-the-small-web/ (Accessed: 30 November 2025).
+
+Bastide, R. (2025) being a script. Available at: https://raphaelbastide.com/etre-script (Accessed: 22 October 2025).
+
+Beignon, A., Maudet, N. and Thibault, T. (2024) How tech companies are pushing us to use AI, Limites numériques. Available at: https://limitesnumeriques.fr/travaux-productions/ai-forcing/en (Accessed: 8 January 2026).
+
+Berners-Lee, T. (2025) This is for everyone. Macmillan, London
+
+￼Beynon, K. and Murray, D. (2025) ‘Web craft: an interview with Daniel Murray’, The Photographers’ Gallery: Unthinking Photography [Preprint]. Available at: https://unthinking.photography/articles/webcraft-an-interview-with-daniel-murray (Accessed: 4 January 2026).
+	see also: [[Web craft an interview with Daniel Murray  unthinking.photography]]
+	
+
+Carpenter, J.R. (2015) A Handmade Web. Available at: https://luckysoap.com/statements/handmadeweb.html (Accessed: 4 January 2026).
+
+Chang, S. and Tjalve, K. (2025) ‘Taking an Internet Walk’. syllabusproject.org. Available at: https://handmade-web.net/assets/chang-tjalve_internet-walk.pdf (Accessed: 25 November 2025).
+
+Doctorow, C. (2022) The ‘Algospeak’ dialect. Available at: https://handmade-web.net/assets/doctorow_algospeak.pdf (Accessed: 25 November 2025).
+
+Graça, R. (2020) Networks of Care. Available at: https://hub.xpub.nl/networksofcare/mediawiki/index.php?title=Main_Page (Accessed: 4 January 2026).
+‘World Wide Web’ (2026) Wikipedia. Available at: https://en.wikipedia.org/w/index.php?title=World_Wide_Web&oldid=1331122625 (Accessed: 12 January 2026).nes and discovering new websites was more of a treasure hunt. To compensate for this lacking, web-makers created webrings: a script file was put in the code folder, containing a list of all members and a looping function, interlinking members to one another. Those early webrings were thematic: gardeners, fandoms, cooking websites, etc. It allowed visitors to discover other people having the same passions or interests.   
 `<!--- IMG: webrings examples --->`  
   
 For a few years now, webrings are showing up again, regaining popularity. Of course not for the same reason, but they still act as a very good discovery/connecting tool. This revival is linked to a movement of revolt, a common voice rising from the depths of the web %% what is the source of this knowledge and how to support it %%: the indie web. Indie web is a philosophy rooted in a desire of reclaiming the web space, taken over by big corporations such as GAFAM[^11]. It relies on principles such as hand-written code, low-weight websites, F/LOSS[^12] and sharing.[^13] It advocates for personal websites as a form of expression, opposite to corporate-owned social media platforms, inviting us to care about what we share and how.  

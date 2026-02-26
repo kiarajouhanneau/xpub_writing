@@ -14,6 +14,8 @@ As stated in the beginning of this article, words bear meaning, making the proce
 >> *+ somewhere, later:*  
 >> IMG: The process is the following: thought >> intention >> verbalising intention >> action > protest > counter-culture > crafting > community  
   
+As both Raphaël bastide in being a script and theovie tron from 1982 state, a program can only function if hands were driven by an intention to create the code. In tron, we observe a developer (creator) whose code went on functioning without his input. Then suddenly he is transformed into a program himself, in order to stop the evil that his program has started doing (it's Disney we know the template). Only when the creator successfully defeated the evil program he can resume his human life, having gained this – apparently – super knowledge: the creation and the creator are tied and intention must be kept alive and the program/code/creation must be cared for.   
+However, this ideal vision is far from the reality, being one in which billionaires are trying to remove any humanity from technology by inventing a so-called intelligence that is incapable of feeling, discernment and thus intention.   
 ###### The wIzArd of oz  
 Now, a note on this statement.  
 For Christmas 2023, I went to the cinema with my brother and father to watch the new Wicked movie. I enjoyed it.  
@@ -39,3 +41,19 @@ Magic has this mystery, this way of appealing to our curiosity that makes us wan
 <br>(Huizinga, J. (1964) Homo Ludens: A study of the play element in culture. Boston, USA: The Beacon Press, p. 10). </blockquote>  
 Here he uses something interesting, connecting magic circles, stages and screens as play-grounds. With such a connection, we end up with an allegory for every theme covered here: magic circles represent magic and physical gatherings; stages are where action takes place, and simultaneously the illusion served by seamlessness; screens represent the web, the digital.   
 And the snake is back to eating its tail. The Ouroboros has been invoked. We are now back to the web and the curiosity triggered by magic leads us into its craftiness, through experimentation  
+  
+  
+#### Hyperlinks  
+from Deleuze: agencement (assemblages) > rhizome > internet > hyperlinks  
+les agencements sont l’embryon du concept de rhizome, des ensembles hétérogènes qui par association créent de nouveaux individus et ainsi de suite  
+le rhizome est un modèle descriptif et épistémologique dans lequel l'organisation des éléments ne suit pas une ligne de subordination (comme dans une hiérarchie), mais où tout élément peut affecter ou influencer tout autre. S’appuie sur les travaux autour des fractales  
+  
+Page web est un sigil en fonction de la position des liens  
+  
+Grok means "understand through intuition or empathy" > magic understanding  
+>> appropriated by elon musk for AI  
+  
+Rituals for weaving the web  
+Weaving/sewing rituals transposed to the web  
+The analogy of threads  
+  
