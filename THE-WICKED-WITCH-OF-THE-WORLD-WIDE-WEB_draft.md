@@ -62,11 +62,11 @@ Crafting makes a lot of sense when speaking of website making for it is a form o
   
 Crafting a website starts with a spark, an idea let’s say. Then, we act upon it to give life to that website. Every choice along the way is ruled by intention(s) and intuition(s). Just like any other craft.  
   
-The importance of web crafting and what differentiates it from built-in drag-and-drop WYSIWYG[^10] website makers lies in attention and care. Attention and care to detail, to the users/audience, to the website itself. This is what Raphaël Bastide depicts in his performative piece being a script.     
+The importance of web crafting and what differentiates it from built-in drag-and-drop WYSIWYG[^9] website makers lies in attention and care. Attention and care to detail, to the users/audience, to the website itself. This is what Raphaël Bastide depicts in his performative piece being a script.     
 > Before the first line in the diary of my existence, I am nothing. In fact, I am an intention, an empty document, but the air is full of me, I am there in a form that is vaporous, sweet, and naive. I will do everything, sort everything, as if by miracle, I am a formula, an appeal to the divine. Before everything begins, I wait for hands.    
 > (Bastide, 2025).  
   
-In a conversation[^11] we had together, Raphaël told me about the creation process of this piece. How he started writing it during the first months of his newborn child on this planet, the role and place taken by the body and physical gestures in this process. He also told me about the questions at the heart of this creation:   
+In a conversation[^10] we had together, Raphaël told me about the creation process of this piece. How he started writing it during the first months of his newborn child on this planet, the role and place taken by the body and physical gestures in this process. He also told me about the questions at the heart of this creation:   
 - a slow lack of interest for technicality that drives choices leaning towards a more human, emotional approach;   
 - (how) can we operate a shift from machine learning technologies that deprive us from our creative capacities?;   
 - a choice to put himself in the public/audience’s shoes in order to let go, to enact a discovery of his own work and evaluate its emotional reach.  
@@ -83,10 +83,38 @@ Lastly, once we have built and decided to (take) care (for), we share. Sharing i
 `<!--- word count: 897/1000 :D -->`  
   
 ## 1.2 Webrings and digital gardens: where the web becomes *magical*   
-Back in its first years of life, the web did not have such “powerful” search engines and discovering new websites was more of a treasure hunt. To compensate for this lacking, web-makers created webrings: a script file was put in the code folder, containing a list of all members and a looping function, interlinking members to one another. Those early webrings were thematic: gardeners, fandoms, cooking websites, etc. It allowed visitors to discover other people having the same passions or interests.   
+Back in its first years of life, the web did not have such “powerful” search engi01-02-2026
+￼##### To do
+- [ ] Add small descriptions of the refs so I have a memo
+---
+
+Appleton, M. (2023) Folk Interfaces. Available at: https://maggieappleton.com/folk-interfaces (Accessed: 8 October 2025).
+
+Arbesman, S. (2024) The Orthogonal Bet: The Quest to Build the Fruitful Web - Lux Capital, luxcapital. Available at: https://www.luxcapital.com/content/the-orthogonal-bet-the-quest-to-build-the-fruitful-web (Accessed: 8 January 2026).
+
+Balkan, A. (2020) What is the Small Web?, Aral Balkan. Available at: https://ar.al/2020/08/07/what-is-the-small-web/ (Accessed: 30 November 2025).
+
+Bastide, R. (2025) being a script. Available at: https://raphaelbastide.com/etre-script (Accessed: 22 October 2025).
+
+Beignon, A., Maudet, N. and Thibault, T. (2024) How tech companies are pushing us to use AI, Limites numériques. Available at: https://limitesnumeriques.fr/travaux-productions/ai-forcing/en (Accessed: 8 January 2026).
+
+Berners-Lee, T. (2025) This is for everyone. Macmillan, London
+
+￼Beynon, K. and Murray, D. (2025) ‘Web craft: an interview with Daniel Murray’, The Photographers’ Gallery: Unthinking Photography [Preprint]. Available at: https://unthinking.photography/articles/webcraft-an-interview-with-daniel-murray (Accessed: 4 January 2026).
+	see also: [[Web craft an interview with Daniel Murray  unthinking.photography]]
+	
+
+Carpenter, J.R. (2015) A Handmade Web. Available at: https://luckysoap.com/statements/handmadeweb.html (Accessed: 4 January 2026).
+
+Chang, S. and Tjalve, K. (2025) ‘Taking an Internet Walk’. syllabusproject.org. Available at: https://handmade-web.net/assets/chang-tjalve_internet-walk.pdf (Accessed: 25 November 2025).
+
+Doctorow, C. (2022) The ‘Algospeak’ dialect. Available at: https://handmade-web.net/assets/doctorow_algospeak.pdf (Accessed: 25 November 2025).
+
+Graça, R. (2020) Networks of Care. Available at: https://hub.xpub.nl/networksofcare/mediawiki/index.php?title=Main_Page (Accessed: 4 January 2026).
+‘World Wide Web’ (2026) Wikipedia. Available at: https://en.wikipedia.org/w/index.php?title=World_Wide_Web&oldid=1331122625 (Accessed: 12 January 2026).nes and discovering new websites was more of a treasure hunt. To compensate for this lacking, web-makers created webrings: a script file was put in the code folder, containing a list of all members and a looping function, interlinking members to one another. Those early webrings were thematic: gardeners, fandoms, cooking websites, etc. It allowed visitors to discover other people having the same passions or interests.   
 `<!--- IMG: webrings examples --->`  
   
-For a few years now, webrings are showing up again, regaining popularity. Of course not for the same reason, but they still act as a very good discovery/connecting tool. This revival is linked to a movement of revolt, a common voice rising from the depths of the web %% what is the source of this knowledge and how to support it %%: the indie web. Indie web is a philosophy rooted in a desire of reclaiming the web space, taken over by big corporations such as GAFAM[^12]. It relies on principles such as hand-written code, low-weight websites, F/LOSS[^13] and sharing.[^14] It advocates for personal websites as a form of expression, opposite to corporate-owned social media platforms, inviting us to care about what we share and how.  
+For a few years now, webrings are showing up again, regaining popularity. Of course not for the same reason, but they still act as a very good discovery/connecting tool. This revival is linked to a movement of revolt, a common voice rising from the depths of the web %% what is the source of this knowledge and how to support it %%: the indie web. Indie web is a philosophy rooted in a desire of reclaiming the web space, taken over by big corporations such as GAFAM[^11]. It relies on principles such as hand-written code, low-weight websites, F/LOSS[^12] and sharing.[^13] It advocates for personal websites as a form of expression, opposite to corporate-owned social media platforms, inviting us to care about what we share and how.  
 There are various ways to build a webring, suited for both JavaScript experts and beginners, implying that building a webring is in anyone’s reach. Whoever %% who’s that?? %% wants to can craft their own webring.  
 Webrgings can be seen as a social webcraft, aiming at linking and connecting people together.  
 Another form of social webcraft is digital gardens<sup>add history</sup>. Maggie Appleton describes them:  
@@ -99,14 +127,14 @@ Here, we observe something interesting: one practice is very close to the one of
   
 — But, Kiara, why is this interesting exactly?    
 Well, it is quite simple really: both webrings and digital gardens rely on physical practices – linked to the senses –, transposed to the web. Almost as if the presence of the body was unconsciously needed by everyone online… ;)    
-Additionally, both are seen as “magical” or enchanting[^16], creating a feeling of amazement for they seem to pertain to an outside world and tend to be poetical or…playful!  
+Additionally, both are seen as “magical” or enchanting[^14], creating a feeling of amazement for they seem to pertain to an outside world and tend to be poetical or…playful!  
 That poetry and playfulness was actually already explored by Olia Lialina, as described on artsy.net:  
 > “In 1996, her browser-based piece My Boyfriend Came Back From The War made her a notable pioneer of internet art. Her click-to-reveal storyline about reunited lovers was built on HTML frames, a newly-released feature that let developers put multiple pages in one browser. She wasn’t just translating a story onto the internet, she was telling a story in the language of the web browser”. (The Current Museum, 2013)  
   
 `<!--- IMG: My Boyfriend Came Back From The War + Summer --->`  
   
 *Telling a story with the language of the web* – I find this quite beautiful and very *à propos* as web poetry is also its own art form and a web craft. Poetry can be both verbal and visual, giving way to the creation of websites that highlight written poetry, websites that use CSS do depict a poetical atmosphere… and even creators exploring the poetry of HTML and CSS as languages!   
-Doriane Timmermans, artist and researcher based in Brussels, is one of them. Her research project declarations[^18] is exploring the materiality of CSS as a language. Together, we talked about how CSS and spell or ritual writing relate; she said “the CSS selector `:not(:focus):hover` is like an incantation that could be super powerful and bears heavy intentions.” We also mentioned browser extensions, especially the ones that “metamorphose the web through a simple CSS formula” (Timmermans, 2025)[^19], uniting, in that sense, magic and hacking.  
+Doriane Timmermans, artist and researcher based in Brussels, is one of them. Her research project declarations[^15] is exploring the materiality of CSS as a language. Together, we talked about how CSS and spell or ritual writing relate; she said “the CSS selector `:not(:focus):hover` is like an incantation that could be super powerful and bears heavy intentions.” We also mentioned browser extensions, especially the ones that “metamorphose the web through a simple CSS formula” (Timmermans, 2025)[^16], uniting, in that sense, magic and hacking.  
 %% + more examples and img %%  
   
 In my mind, magic is a process that involves, requires a connection and listening to our own emotions and feelings, to acknowledge what is within ourselves as much as what lies in our surroundings. The process is the following:   
@@ -120,7 +148,7 @@ We can pull on that rope and reach analogies between web craft and magic craft �
 They are thus completely made by and for (a) community and involve an act from the physical body.    
 To my knowledge, the most extensive depiction of that statement is what Daniel Murray, a.k.a melonking, built. Having started to build his own corner of the web in 2016, he now gathers hundreds of people on ‘MelonLand‘. His digital world includes his website, a forum, multiple webrings, a wiki, and more.   
 In a interview he gave to Kendal Beynon he describes the ‘Everyone Site’, a feature of MelonLand:  
-> “This came out of a workshop that I did in Brussels with Doriane Timmermans[^20]. At the workshop, we were doing experiments through the open-source online editor Etherpad. I was working with Karl Moubarak[^21] from the collective Hackers and Designers[^22]. He came up with this system where we could write JavaScript in the Etherpad and it would inject the JavaScript directly into a browser extension, which meant that you could basically collectively write code that could morph how people's browsers worked. It was a complete security nightmare, but I thought that was a really exciting idea. The Everyone Site (eSite) is essentially that idea of collective programming applied to a web server and moderated by the forums community.” (Beynon and Murray, 2025)  
+> “This came out of a workshop that I did in Brussels with Doriane Timmermans[^17]. At the workshop, we were doing experiments through the open-source online editor Etherpad. I was working with Karl Moubarak[^18] from the collective Hackers and Designers[^19]. He came up with this system where we could write JavaScript in the Etherpad and it would inject the JavaScript directly into a browser extension, which meant that you could basically collectively write code that could morph how people's browsers worked. It was a complete security nightmare, but I thought that was a really exciting idea. The Everyone Site (eSite) is essentially that idea of collective programming applied to a web server and moderated by the forums community.” (Beynon and Murray, 2025)  
   
 This is also I believe a perfect illustration of the magic of the web: (web) crafting enhanced by intentions creates communities that nurture that cycle.  
   
@@ -142,21 +170,21 @@ From the globalisation of Instagram aesthetics – polished, flawless photos tha
   
 I see this phenomenon as driven by a desire for:  
 - performance, hence the creation of User Experience (UX) as a way of driving the navigation of a website into a certain direction through design choices;  
-- productivity, with for example the 3-clicks rule, stating that if a visitor has to use more than 3 clicks to access the content they’re looking for on a website, it is not worth their time[^23];  
+- productivity, with for example the 3-clicks rule, stating that if a visitor has to use more than 3 clicks to access the content they’re looking for on a website, it is not worth their time[^20];  
 - technicality, with the use of shady methods to design websites: frameworks and libraries, JavaScript generated HTML or closed databases.  
   
-The merge of those 3 pillars is Search Engine Optimisation (SEO), moz.com defines it as: “the practice of improving your website's content, structure, and visibility to rank higher on search engines like Google.”[^24], basically meaning it is a set of `<meta>` tags so you have a bigger chance to appear on that so praised first page of search results.  
+The merge of those 3 pillars is Search Engine Optimisation (SEO), moz.com defines it as: “the practice of improving your website's content, structure, and visibility to rank higher on search engines like Google.”[^21], basically meaning it is a set of `<meta>` tags so you have a bigger chance to appear on that so praised first page of search results.  
 `<!--- IMG: html meta for seo -->`  
   
-This is a fully capitalistic mode of action; big corporations set rules that aim to ensure them money gain, and smaller companies or individuals are left with no other choice than “following the trend” %% source %%. This makes it very hard for independent artists or beginners to make room for their practice. They remain out of the first page of search results, invisible, shadow-banned[^25] in a way. %% defend to keep %%   
-Those implicit rules are set so hard in stone that they have been going on for more than 20 years, enforced by the rules of the website-building platforms. For example, wix.com expects that the template “follows the good practices of of UX/UI design and the trends of its field”[^26].   
+This is a fully capitalistic mode of action; big corporations set rules that aim to ensure them money gain, and smaller companies or individuals are left with no other choice than “following the trend” %% source %%. This makes it very hard for independent artists or beginners to make room for their practice. They remain out of the first page of search results, invisible, shadow-banned[^22] in a way. %% defend to keep %%   
+Those implicit rules are set so hard in stone that they have been going on for more than 20 years, enforced by the rules of the website-building platforms. For example, wix.com expects that the template “follows the good practices of of UX/UI design and the trends of its field”[^23].   
   
 Since 2020, the web is witnessing a new rise of experimental websites. Neocities, the proud successor to Geocities, is getting more and more popular, Tumblr never really fell down in spite of its numerous dramas, small website builders are also flowering all over the web. %% examples and sources %% The general tiredness towards polished and seamless websites that all look the same %% evidence %%, as well as towards the ownership of the webspace put in the hands of a few big tech companies has opened a door to rebellion %% what does it mean here, ref the texts about indie web %%.  
 Unfortunately, that same tiredness has also lead way to the global use of Generative Artificial Intelligence (GenAI) tools. %% this is a feeling, “I observe that…”” %% Those generators produced images using overly saturated colours, abstract or hyper-realistic shapes that offer a seamingly good alternative to smooth grid/Instagram-like visuals.  
 The issue with that is that those tools actually follow the same rules and objectives: performance, productivity and technicality, using shady %% neh %% methods. Besides the disastrous impact GenAI-producing companies have on the environment, the economy and human ethics, they also rely on manipulation and gas-lighting to achieve their goals.  
   
 By merging GenAI and WYSIWYG website-makers, we face more and more templates that don’t even need to be edited, as the user will be able to generate their own content through an AI bot. The result of this is what writer and activist Cory Doctorow calls “the enshittification of the web”:  
-> “So what’s enshittification and why did it catch fire? It’s my theory explaining how the internet was colonized by platforms, and why all those platforms are degrading so quickly and thoroughly, and why it matters — and what we can do about it.” (Doctorow, 2024 in Maudet and Rammstein, 2024b)[^28]  
+> “So what’s enshittification and why did it catch fire? It’s my theory explaining how the internet was colonized by platforms, and why all those platforms are degrading so quickly and thoroughly, and why it matters — and what we can do about it.” (Doctorow, 2024 in Maudet and Rammstein, 2024b)[^24]  
   
 `<!--- → transition!! -->`  
   
@@ -289,38 +317,38 @@ I am the Wicked Witch of the World Wide Web.
   
 [^8]: net.art refers to a group of artists who have worked in the medium of Internet art since 1994. […] <br>The term "net.art" is also used as a synonym for net art or Internet art and covers a much wider range of artistic practices. In this wider definition, net.art means art that uses the Internet as its medium and that cannot be experienced in any other way. Typically net.art has the Internet and the specific socio-culture that it spawned as its subject matter but this is not required.<br>The German critic Tilman Baumgärtel - building on the ideas of American critic Clement Greenberg - has frequently argued for a "media specificity" of net.art in his writings. According to the introduction to his book "net.art. Materialien zur Netzkunst", the specific qualities of net.art are "connectivity, global reach, multimediality, immateriality, interactivity and egality". (https://en.wikipedia.org/wiki/Net.art)  
   
-[^10]: What You See Is What You Get  
+[^9]: What You See Is What You Get  
   
-[^11]: see apendix – conv with Raphaël – TBD  
+[^10]: see apendix – conv with Raphaël – TBD  
   
-[^12]: The 5 giants of the web, also called GAMAM or Big Five: Google (Alphabet), Apple, Facebook/Meta, Amazon, Microsoft  
+[^11]: The 5 giants of the web, also called GAMAM or Big Five: Google (Alphabet), Apple, Facebook/Meta, Amazon, Microsoft  
   
-[^13]: Free/Libre Open Source Software  
+[^12]: Free/Libre Open Source Software  
   
-[^14]: https://indiewebguide.org  
+[^13]: https://indiewebguide.org  
   
-[^16]: source???  
+[^14]: source???  
   
-[^18]: https://declarations.style  
+[^15]: https://declarations.style  
   
-[^19]: see appendix – conv with Doriane – TBD  
+[^16]: see appendix – conv with Doriane – TBD  
   
-[^20]: https://ungual.digital/  
+[^17]: https://ungual.digital/  
   
-[^21]: https://moubarak.eu/#welcome  
+[^18]: https://moubarak.eu/#welcome  
   
-[^22]: https://hackersanddesigners.nl/  
+[^19]: https://hackersanddesigners.nl/  
   
-[^23]: “The three-click rule or three click rule is an unofficial web design rule concerning the design of website navigation. It suggests that a user of a website should be able to find any information with no more than three mouse clicks. It is based on the belief that users of a site will become frustrated and often leave if they cannot find the information within the three clicks.” (Wikipedia, 2025)  
+[^20]: “The three-click rule or three click rule is an unofficial web design rule concerning the design of website navigation. It suggests that a user of a website should be able to find any information with no more than three mouse clicks. It is based on the belief that users of a site will become frustrated and often leave if they cannot find the information within the three clicks.” (Wikipedia, 2025)  
   
-[^24]: https://moz.com/learn/seo/what-is-seo  
+[^21]: https://moz.com/learn/seo/what-is-seo  
   
-[^25]: ”Technocapitalism refers to a contemporary economic and social system characterized by the dominance of technology-driven capital, where technological innovation becomes a central component of economic growth and wealth accumulation. This term encapsulates the interplay between technology and capitalism, highlighting how advancements in technology influence economic structures, labor markets, and social relations.” (Wikipedia, 2026)  
+[^22]: ”Technocapitalism refers to a contemporary economic and social system characterized by the dominance of technology-driven capital, where technological innovation becomes a central component of economic growth and wealth accumulation. This term encapsulates the interplay between technology and capitalism, highlighting how advancements in technology influence economic structures, labor markets, and social relations.” (Wikipedia, 2026)  
   
-[^26]: “A method of banning users where their posts are visible only to them. Created to prevent spammers, trolls, and flamers from realizing they have been banned and creating new accounts." — *I’ve been posting right-wing crap all over the forum, but no one is biting. I think I’ve been shadowbanned.*” (Urban Dictionary, 2011)  
+[^23]: “A method of banning users where their posts are visible only to them. Created to prevent spammers, trolls, and flamers from realizing they have been banned and creating new accounts." — *I’ve been posting right-wing crap all over the forum, but no one is biting. I think I’ve been shadowbanned.*” (Urban Dictionary, 2011)  
   
-[^28]: I decided for that reference before Cory Doctorow published his blog’s 20 years anniversary post. In it he defends his use of a Large Language Model to help him proofread his blog articles, which is a practice I do not align with morally (https://pluralistic.net/2026/02/19/now-we-are-six/#stock-buyback). However, for the sake of my point, I decided to keep that reference and add this disclaimer. For a deeper explaination of why I disagree, read Jürgen Geuter’s blog post: https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/  
+[^24]: I decided for that reference before Cory Doctorow published his blog’s 20 years anniversary post. In it he defends his use of a Large Language Model to help him proofread his blog articles, which is a practice I do not align with morally (https://pluralistic.net/2026/02/19/now-we-are-six/#stock-buyback). However, for the sake of my point, I decided to keep that reference and add this disclaimer. For a deeper explaination of why I disagree, read Jürgen Geuter’s blog post: https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/  
   
-[^30]: The W3C is an international organisation that sits together to set rules, standards and constant evolution to the web. The biggest actor are companies such as Google, Apple, Adobe, etc.  
+[^25]: The W3C is an international organisation that sits together to set rules, standards and constant evolution to the web. The biggest actor are companies such as Google, Apple, Adobe, etc.  
   
-[^31]:  “The 39th Chaos Communication Congress (39C3) takes place in Hamburg on 27-30 Dec 2025, and is the 2025 edition of the annual four-day conference on technology, society and utopia organized by the Chaos Computer Club (CCC) and volunteers. Congress offers lectures and workshops and various events on a multitude of topics including (but not limited to) information technology and generally a critical-creative attitude towards technology and the discussion about the effects of technological advances on society. https://events.ccc.de/congress/2025/” (Description taken from the official website, at https://app.media.ccc.de/b/congress/2025)
+[^26]:  “The 39th Chaos Communication Congress (39C3) takes place in Hamburg on 27-30 Dec 2025, and is the 2025 edition of the annual four-day conference on technology, society and utopia organized by the Chaos Computer Club (CCC) and volunteers. Congress offers lectures and workshops and various events on a multitude of topics including (but not limited to) information technology and generally a critical-creative attitude towards technology and the discussion about the effects of technological advances on society. https://events.ccc.de/congress/2025/” (Description taken from the official website, at https://app.media.ccc.de/b/congress/2025)  
