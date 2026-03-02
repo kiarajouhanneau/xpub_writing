@@ -254,7 +254,9 @@ Seamlessness and automation are my combat.
   
 I am the Wicked Witch of the World Wide Web.  
   
+# Resources  
   
+![References & Bibliography](./References%20&%20Bibliography.md.md)  
   
 # Notes  
   
@@ -323,8 +325,4 @@ I am the Wicked Witch of the World Wide Web.
   
 [^33]: The W3C is an international organisation that sits together to set rules, standards and constant evolution to the web. The biggest actor are companies such as Google, Apple, Adobe, etc.  
   
-[^34]: “The 39th Chaos Communication Congress (39C3) takes place in Hamburg on 27-30 Dec 2025, and is the 2025 edition of the annual four-day conference on technology, society and utopia organized by the Chaos Computer Club (CCC) and volunteers. Congress offers lectures and workshops and various events on a multitude of topics including (but not limited to) information technology and generally a critical-creative attitude towards technology and the discussion about the effects of technological advances on society. https://events.ccc.de/congress/2025/” (Description taken from the official website, at https://app.media.ccc.de/b/congress/2025)  
-  
-# Resources  
-  
-![References & Bibliography](./References%20&%20Bibliography.md.md)
+[^34]: “The 39th Chaos Communication Congress (39C3) takes place in Hamburg on 27-30 Dec 2025, and is the 2025 edition of the annual four-day conference on technology, society and utopia organized by the Chaos Computer Club (CCC) and volunteers. Congress offers lectures and workshops and various events on a multitude of topics including (but not limited to) information technology and generally a critical-creative attitude towards technology and the discussion about the effects of technological advances on society. https://events.ccc.de/congress/2025/” (Description taken from the official website, at https://app.media.ccc.de/b/congress/2025)
