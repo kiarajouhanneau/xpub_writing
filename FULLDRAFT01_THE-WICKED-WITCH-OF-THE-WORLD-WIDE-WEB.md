@@ -21,7 +21,7 @@ To investigate that hunch, I had to go back into my personal practice and uncove
 | Synthetica                                 | - GenAI is more an ideology than a proper technology (as explained by Khrys, a french tech researcher)[^5] <br>- the curation of texts is based on texts highlighting the dangers and downsides of those tools | - again central, the whole book revolves around a thematic index of precisely chosen terms                                                                                                                                              | - in the construction of the book itself, inspired by “Choose your own adventure” books, allowing readers to jump from text to text through the index itself<br>- it mimics the visual identity of Wikipedia, showing indexed words as hyperlinks |  
 | Thinking about the immortality of the crab | - it is about time and how it is a social construct, with some reflections and personal opinions on society related to time                                                                                    | - the titles used for the different sections reference subtly the topic <br>- some reflections on time-based expressions and idioms                                                                                                     | - also in those titles, since most of them are puns or references to pop culture<br>- in the use of the Spanish idiom used as the main title of the zine                                                                                          |  
   
-`<!-- IMG: screenshots/pictures of projects -->`  
+`<!--- → add screenshots/pictures of projects) -->`  
   
 Once I laid this truth about my work, I knew my research would revolve around politics, language and playfulness.   
 Let me explain further their relevance to my initial hunch about the web’s connection to magic.  
@@ -48,7 +48,7 @@ In chapter 2, I focus on the mass homogenisation of the web, the shift that has 
 Chapter 3 concludes this analysis by observing how we can resist and fight back the hypercapitalistic take on the web an make it human again by embracing fun and uselessness.  
 Overall, I link all those topics to magic, both through my afore-mentioned definition of it and through more “traditional” views on magic.  
   
-# 1. Into the <del>spider</del> web  
+# <mark style="background: #D2B3FFA6;">1. Into the <del>spider</del> web</mark>  
 Let’s first dive into the web itself, investigating web making as a craft, the importance of the gesture and the role of intention when making, creating.  
 This is about intention being a key to craft and how I see magic and the web connecting to one another.  
 ## 1.1 (find a pun around crafting)  
@@ -82,9 +82,13 @@ Lastly, once we have built and decided to (take) care (for), we share. Sharing i
   
 And just as any art form, web crafting and net.art are created with a sharing intention. It can be to share the piece itself as a whole, the technique or medium, or something more abstract or personal, like a message, an idea, a world.  
   
+`<!--- This makes me reach the following conclusion: even the most stereotypical developer, having done their curriculum in programming, maths and engineering is making art, in the sense that they are writing, and the trial-and-error, drafting process is very similar to the one of art. On that note, it is more and more common to see these developers host Twitch live streams, thus becoming also content creators, performers, tutors. --->`  
+  
+`<!-- transition!!! -->`  
+  
 ## 1.2 Webrings and digital gardens: where the web becomes *magical*   
 Back in its first years of life, the web did not have such “powerful” search engines and discovering new websites was more of a treasure hunt. To compensate for this lacking, web-makers created webrings: a script file was put in the code folder, containing a list of all members and a looping function, interlinking members to one another. Those early webrings were thematic: gardeners, fandoms, cooking websites, etc. It allowed visitors to discover other people having the same passions or interests.   
-`<!-- IMG: webrings examples -->`  
+`<!--- IMG: webrings examples --->`  
   
 For a few years now, webrings are showing up again, regaining popularity. Of course not for the same reason, but they still act as a very good discovery/connecting tool. This revival is linked to a movement of revolt, a common voice rising from the depths of the web: the indie web. Indie web is a philosophy rooted in a desire of reclaiming the web space, taken over by big corporations such as GAFAM[^13]. It relies on principles such as hand-written code, low-weight websites, F/LOSS[^14] and sharing.[^15] It advocates for personal websites as a form of expression, opposite to corporate-owned social media platforms, inviting us to care about what we share and how.  
 There are various ways to build a webring, suited for both JavaScript experts and beginners, implying that building a webring is in anyone’s reach. In our western “civilised”[^16] society, almost whoever wants to can theoretically craft their own webring.  
@@ -105,18 +109,18 @@ Additionally, both are seen as “magical” or enchanting[^17], creating a feel
 That poetry and playfulness was actually already explored by Olia Lialina, as described on artsy.net:  
 > “In 1996, her browser-based piece My Boyfriend Came Back From The War made her a notable pioneer of internet art. Her click-to-reveal storyline about reunited lovers was built on HTML frames, a newly-released feature that let developers put multiple pages in one browser. She wasn’t just translating a story onto the internet, she was telling a story in the language of the web browser”. (The Current Museum, 2013)  
   
-`<!-- IMG: My Boyfriend Came Back From The War -->`  
+`<!--- IMG: My Boyfriend Came Back From The War + Summer --->`  
   
 *Telling a story with the language of the web* – I find this quite beautiful and very *à propos* as web poetry is also its own art form and a web craft. Poetry can be both verbal and visual, giving way to the creation of websites that highlight written poetry, websites that use CSS do depict a poetical atmosphere… and even creators exploring the poetry of HTML and CSS as languages!   
 Doriane Timmermans, artist and researcher based in Brussels, is one of them. Her research project declarations[^18] is exploring the materiality of CSS as a language. Together, we talked about how CSS and spell or ritual writing relate; she said “the CSS selector `:not(:focus):hover` is like an incantation that could be super powerful and bears heavy intentions.” We also mentioned browser extensions, especially the ones that “metamorphose the web through a simple CSS formula” (Timmermans, 2025)[^19], uniting, in that sense, magic and hacking.  
   
 As explained in the introduction of this article, I see magic as a process.  
-`<!-- IMG: idea/spark (intuition) → intention → realisation (physical action) -->`  
-In this process, intention is the key, it is what will make one say certain words, act a certain way. It injects politics in things, in the sense that intention is what will make us take action or not. To illustrate that a bit more poetically, here is an extract from a song:  
+[IMG] idea/spark (intuition) → intention → realisation (physical action).   
+I, this process, intention is the key, it is what will make one say certain words, act a certain way. It injects politics in things, in the sense that intention is what will make us take action or not. To illustrate that a bit more poetically, here is an extract from a song:  
 > “Parler, c’est prendre position  
 > Se taire, c’est prendre position  
 > (Speaking up is taking a stand  
-> Silence is taking a stand)” (Marsaud, Faye and Mazué, 2022).  
+> Silence is taking a stand)” (Marsaud, F., Faye, G. and Mazué, B., 2022)  
   
 That same intention should be, I believe, at the core of the act of making. As mentioned earlier, magic is a process and this process can be applied to any aspect of our lives.   
 In that sense, magic is also full of crafting. Additionally, from the most obvious love potion to the most mystical meditation, every practice involves the body (sometimes also one of a channelling person, usually the “magic” person (e.g. fortune teller)) and sometimes even some specific gestures to reproduce or enhance the power of intention.  
@@ -130,13 +134,15 @@ In a interview he gave to Kendal Beynon he describes the ‘Everyone Site’, a 
 > “This came out of a workshop that I did in Brussels with Doriane Timmermans[^20]. At the workshop, we were doing experiments through the open-source online editor Etherpad. I was working with Karl Moubarak[^21] from the collective Hackers and Designers[^22]. He came up with this system where we could write JavaScript in the Etherpad and it would inject the JavaScript directly into a browser extension, which meant that you could basically collectively write code that could morph how people's browsers worked. It was a complete security nightmare, but I thought that was a really exciting idea. The Everyone Site (eSite) is essentially that idea of collective programming applied to a web server and moderated by the forums community.” (Beynon and Murray, 2025)  
   
 This is also I believe a perfect illustration of the magic of the web: (web) crafting enhanced by intentions creates communities that nurture that cycle.  
+`<!--- REWRITE: this come out a bit off, needs more to be a proper transition -->`  
   
-# 2. The ghost in the shell, a tale about efficiency  
-I will dive into the design systems used by big corporations, end up defining the overall look of websites.   
+# <mark style="background: #ABF7F7A6;">2. The ghost in the shell, a call-out on efficiency</mark>  
+I will dive into the design systems used by big corporations, ending up defining the overall look of websites.   
 This part will largely analyse the performance of efficiency that is spreading around the web and how following trends is making our identities disappear.  
+`<!--- REWRITE: this comes out a bit off -->`  
 ## 2.1 Templates and polishing: performance, technicality and productivity   
 Taking on graphic design and layout techniques that have been used since the advent of printing, the web relied on templates almost as soon as it was born, as researcher Nolwenn Maudet points out in her article Design Templates: Between Empowerment and Control of Amateur Graphic Designers (Maudet, 2025). In its early years, before the arrival of CSS and then Geocities[^23], webmakers expressed their personalities and created atmospheres, using themes on top of templates: as Nolwenn Maudet observes, templates organise the content’s structure and standardise whereas themes offer a “graphical ambiance” and the “choices [for a theme] are less about functional graphic design and more about (personal) branding.” (Maudet, 2025)  
-However, this didn’t last long as Content Management Systems (CMS) began to flourish. In a logic of capitalisation and to draw a maximum of people to use their services, CMS began by mimicking big companies’ layouts.  
+However, this didn’t last long as Content Management Systems (CMS) began to adapt to the new needs for responsive designs: more devices needed to be able to display a website correctly, resulting in homogenisation of templates and less variety in themes[^24]. In a logic of capitalisation and to draw a maximum of people to use their services, CMS began by mimicking big companies’ layouts.  
 > “The growing adoption of CMS contributed to the intensification of ‘templatization’ of pages and their homogenization in a feedback loop where users’ habituation to certain site architectures leads them to prefer that architecture, further reinforcing its adoption and deployment on other sites.” (Maudet, 2025)  
   
 With that, over the last two decades, the web has become more and more standardised, to a point where website-building platforms “obliterate the more vernacular aesthetics that can emerge when amateur designers are left to their own devices.” (Maudet, 2025)  
@@ -144,27 +150,32 @@ From the globalisation of Instagram aesthetics – polished, flawless photos tha
   
 I personally see this phenomenon as driven by a desire for:  
 - performance, hence the creation of User Experience (UX) as a way of driving the navigation of a website into a certain direction through design choices;  
-- productivity, with for example the 3-clicks rule, stating that if a visitor has to use more than 3 clicks to access the content they’re looking for on a website, it is not worth their time[^24];  
+- productivity, with for example the 3-clicks rule, stating that if a visitor has to use more than 3 clicks to access the content they’re looking for on a website, it is not worth their time[^25];  
 - technicality, with the use of shady methods to design websites: frameworks and libraries, JavaScript generated HTML or closed databases.  
   
-The merge of those 3 pillars is Search Engine Optimisation (SEO), moz.com defines it as: “the practice of improving your website's content, structure, and visibility to rank higher on search engines like Google.”[^25], basically meaning it is a set of `<meta>` tags so you have a bigger chance to appear on that so praised first page of search results. This is also shown in Goree et al.’s research: “P2 and P9 say they use alt tags on images to improve SEO” (Goree et al., 2021 p. 12)[^26]  
+The merge of those 3 pillars is Search Engine Optimisation (SEO), moz.com defines it as: “the practice of improving your website's content, structure, and visibility to rank higher on search engines like Google.”[^26], basically meaning it is a set of `<meta>` tags so you have a bigger chance to appear on that so praised first page of search results. This is also shown in Goree et al.’s research: “P2 and P9 say they use alt tags on images to improve SEO” (Goree et al., 2021 p. 12)[^27]  
 `<!--- IMG: html meta for seo -->`  
   
-This is the principle of technocapitalism[^27]; big corporations set rules that aim to ensure them money gain, and smaller companies or individuals are left with no other choice than “following the trend”. This makes it very hard for independent artists or beginners to make room for their practice. They remain out of the first page of search results, invisible, shadow-banned[^28] in a way.   
+This is the principle of technocapitalism[^28]; big corporations set rules that aim to ensure them money gain, and smaller companies or individuals are left with no other choice than “following the trend”. This makes it very hard for independent artists or beginners to make room for their practice. They remain out of the first page of search results, invisible, shadow-banned[^29] in a way.   
 Those implicit rules are set so hard in stone that they have been going on for more than 20 years, enforced by the rules of the website-building platforms. For example, wix.com expects that the template “follows the good practices of of UX/UI design and the trends of its field” (Maudet, 2024b).   
   
-Since 2020, the web is witnessing a new rise of experimental websites. Neocities, the proud successor to Geocities, is getting more and more popular, Tumblr never really fell down in spite of its numerous dramas, small website builders are also flowering all over the web. The general tiredness towards polished and seamless websites that all look the same, as well as towards the ownership of the webspace put in the hands of a few big tech companies has opened a door to rebellion[^29].  
+Since 2020, the web is witnessing a new rise of experimental websites. Neocities, the proud successor to Geocities, is getting more and more popular, Tumblr never really fell down in spite of its numerous dramas, small website builders are also flowering all over the web. The general tiredness towards polished and seamless websites that all look the same, as well as towards the ownership of the webspace put in the hands of a few big tech companies has opened a door to rebellion[^30].  
 I observe that this tiredness has also lead way to the global use of Generative Artificial Intelligence (GenAI) tools. Those generators produced images using overly saturated colours, abstract or hyper-realistic shapes that offer a seamingly good alternative to smooth grid/Instagram-like visuals.  
 The issue with that is that those tools actually follow the same rules and objectives: performance, productivity and technicality, using questionable methods, such as the use of “magic” semantics, which I will detail later. Besides the disastrous impact GenAI-producing companies have on the environment, the economy and human ethics, they also rely on manipulation and gas-lighting to achieve their goals.  
   
 By merging GenAI and WYSIWYG website-makers, we face more and more templates that don’t even need to be edited, as the user will be able to generate their own content through an AI bot. The result of this is what writer and activist Cory Doctorow calls “the enshittification of the web”:  
-> “So what’s enshittification and why did it catch fire? It’s my theory explaining how the internet was colonized by platforms, and why all those platforms are degrading so quickly and thoroughly, and why it matters — and what we can do about it.” (Doctorow, 2024 in Maudet and Rammstein, 2024b)[^30]  
+> “So what’s enshittification and why did it catch fire? It’s my theory explaining how the internet was colonized by platforms, and why all those platforms are degrading so quickly and thoroughly, and why it matters — and what we can do about it.” (Doctorow, 2024 in Maudet and Rammstein, 2024b)[^31]  
+  
+`<!--- → transition!! -->`  
   
 ## 2.2 Losing our identity: paradoxes and automation   
-With that grand homogenisation of the web visual land, we face a paradox between wanting to stand out and blending in. We often see people, mainly artists of any field, complaining and struggling. But they might come from any end of the spectrum: those who decided to embrace the flow and the standards blend so much that by looking like anyone else’s their portfolios remain unseen; those who on the contrary decide to go for a very personal portfolio will be so different and crafty that they might not be pushed forward by algorithm, remaining in the underground scene or invisible. An isolated example is mentioned in Goree et al.’s research: “P4 said that he stopped using Flash for interaction because Google would not index text inside Flash components. P4 and P6 point to Google search’s 2015 ‘Mobilegeddon’ update, which suddenly prioritized search results which would display well on mobile, as the reason the web adopted responsive design.” (Goree et al., 2021, p. 12). That paradox makes it harder and harder for artists and creators to make a living and is getting all the more emphasised by GenAIs, as anyone can label themselves artists even if their creations are those of the calculations of a machine.  
+With that grand homogenisation of the web visual land, we face a paradox between wanting to stand out and blending in. We often see people, mainly artists of any field, complaining and struggling. But they might come from any end of the spectrum: those who decided to embrace the flow and the standards blend so much that by looking like anyone else’s their portfolios remain unseen; those who on the contrary decide to go for a very personal portfolio will be so different and crafty that they might not be pushed forward by algorithm, remaining in the underground scene or invisible. An isolated example is mentioned in Goree et al.’s research:   
+> “P4 said that he stopped using Flash for interaction because Google would not index text inside Flash components. P4 and P6 point to Google search’s 2015 ‘Mobilegeddon’ update, which suddenly prioritized search results which would display well on mobile, as the reason the web adopted responsive design.” (Goree et al., 2021, p. 12).   
+  
+That paradox makes it harder and harder for artists and creators to make a living and is getting all the more emphasised by GenAIs, as anyone can label themselves artists even if their creations are those of the calculations of a machine.  
    
 Besides that paradox, another concept is bringing us to a loss or confusion of our identity and singularity: automation.  
-In her article Algorithms vs Interaction Design, Nolwenn Maudet explains that AI designers aim to anticipate our intentions, which would then lead to “automating everything, eliminating all interaction” (Maudet, 2024a. This would be very deplorable as the web is all about interaction: servers (computers) interacting with one another, users also, and the whole field of Human-Computer interaction. By removing interaction through the anticipation of intentions, we stop thinking, for all is automated and done before we even think about it. Let’s not forget the brain is a muscle and thinking, reflecting is its exercising…  
+In her article Algorithms vs Interaction Design, Nolwenn Maudet explains that AI designers aim to anticipate our intentions, which would then lead to “automating everything, eliminating all interaction” (Maudet, 2024a). This would be very deplorable as the web is all about interaction: servers (computers) interacting with one another, users also, and the whole field of Human-Computer interaction. By removing interaction through the anticipation of intentions, we stop thinking, for all is automated and done before we even think about it. Let’s not forget the brain is a muscle and thinking, reflecting is its exercising…  
 Additionally, in her newsletter post When we walk away from the lying machines, anarchist and anti-fascist author Margaret Killjoy explains the shift in our collective way of thinking that might be operated by the growing usage of GenAI: the current generation of people believe what they see online is true, we have been taught to believe evidence when we see it with our own eyes. However, more and more content is being machine-generated and fed to us, so our very perception of reality is challenged. She writes that unlike our current adults generation, a child born today will never be able to trust anything they see online, as they would have grown up in an AI-generated online space. She elaborates: “they might simply assume that every image and text was generated by the monstrous lying machines that sit in warehouses just outside our cities and suck up all our water and power.” (Killjoy, 2026).  
 Thus, what makes the web human will be gone.   
   
@@ -178,21 +189,25 @@ Therefore, I draw a direct comparison between GenAIs and stage magicians: they p
 Yet when dressed up as a magical entity GenAI seems to be looked upon as a good thing, leaving behind any reference to intention, intuition, emotion; in opposition a hand crafted website therefore acts as a counter-spell, by the fact that we can inspect, replicate and adapt its code, thus understanding it, learning and becoming able to recognise and shape our own intentions.  
   
 Of course, as M. Killjoy also writes, this shift might very well lead us back to embracing more face-to-face interactions, with other human beings, which would be quite positive (Killjoy, 2026). But I believe we can also act now, as communities, so that neither the web nor our *in real life* interactions disappear.  
+`<!--- → add some closure that circles back to the title, making the connection to Ghost in the Shell so that the reference makes sense -->`  
   
-# 3. Reclaiming: a fight for our future  
-`<!--- intro --->`  
+So far, I have demonstrated my interpretation of web making as a craft, and how this craft is being more and more endangered by a hypercapitalism so trapped within itself that it turns to fascism.  
+  
+# <mark style="background: #FFF3A3A6;">3. Reclaiming: a fight for our future</mark>  
+I would like to make a final stop on this journey, diving into how nurturing sensitivity and playfulness, distancing oneself from corporate platforms and shaping the web *you* want is a stand against automation and seamlessness and a path to connecting and tying links.  
 ## 3.1 Cyberpunk: aesthetics vs ideology  
 What ifs and potentialities are a big deal of our imagination capacities. All that is forging in the various domains of technology nowadays seems to be trying to give life to science-fiction (or science-fiction writers are true visionaries).   
 `<!--- describe exstensively the cyberpunk aesthetics, to contextualise --->`  
+  
 As Asma Mhalla explains in the beginning of her essay Cyberpunk : Le nouveau totalitarisme, the future is here, we are living the cyberpunk dystopia depicted in so many science-fiction scenario since the 1980s.   
 Mhalla carefully unveils the mechanics at play in the cyberpunk ideology of our days, building her analysis on the recent events that occurred in US politics. She explains thoroughly how deeply rooted in technology those events are, relying on a president that has only faith in the sparkly, the shocking and the show. Donald Trump is the ultimate stage magician, who took Elon Musk as his assistant for a while, stating his motives and interests in AI programming and machine governance.   
-The all-automated, machine-centred and efficiency-driven future depicted in cyberpunk dystopiae is actually the present we are building (Mhalla, 2025). Only, cyberpunk isn’t just a skin-pack coating everything in CMYK-saturated colours and body implants, it comes with an ideology, politics. That ideology is now being more and more embodied by GenAI tools and platforms, as Asma Mhalla points out: “Les *mass technologies* sont devenues l’infrastructure cognitive, sociale et politique du nouveau régime. […] Nous avons basculé dans l’univers cyberpunk au moment exact où ces hypertechnologies ont cessé d’être des outils pour devenir l’environnement qui nous fabrique.”[^31] (Mhalla, 2025, p. 98).  
+The all-automated, machine-centred and efficiency-driven future depicted in cyberpunk dystopiae is actually the present we are building (Mhalla, 2025). Only, cyberpunk isn’t just a skin-pack coating everything in CMYK-saturated colours and body implants, it comes with an ideology, politics. That ideology is now being more and more embodied by GenAI tools and platforms, as Asma Mhalla points out: “Les *mass technologies* sont devenues l’infrastructure cognitive, sociale et politique du nouveau régime. […] Nous avons basculé dans l’univers cyberpunk au moment exact où ces hypertechnologies ont cessé d’être des outils pour devenir l’environnement qui nous fabrique.”[^32] (Mhalla, 2025, p. 98).  
   
-In my own professional life, while working on the french translation for [howtotrainyourchatbot.com](https://howtotrainyourchatbot.com), I came across the phrase: “You will see a question with two answer options generated by the model, and pick what you think is the better answer. Real chatbots similarly learn patterns from thousands of choices made by humans, often workers hired for this task. What counts as 'better' depends on who's deciding.” (howtotrainyourchatbot.com, 2026) and that made me think that political tyranny is reenacted on every corner of the web space. The people behind GenAI ideology are the same that rule the web (by having the most seats at the World Wide Web Consortium (W3C)[^32] for example), so they have all the power to enforce their bots in every tool and web service we use. This is another big topic explore by the cyberpunk imagination: usually the stories involve some kind of technology taking over the human race by becoming more “intelligent” (often better organised) and a group of rebels, who suffered and/or profit from the all-tech system until they realised the political treachery behind it. We are now at a time to create those rebel coalitions. To reclaim the web and the sense of community.  
+In my own professional life, while working on the french translation for [howtotrainyourchatbot.com](https://howtotrainyourchatbot.com), I came across the phrase: “You will see a question with two answer options generated by the model, and pick what you think is the better answer. Real chatbots similarly learn patterns from thousands of choices made by humans, often workers hired for this task. What counts as 'better' depends on who's deciding.” (howtotrainyourchatbot.com, 2026) and that made me think that political tyranny is reenacted on every corner of the web space. The people behind GenAI ideology are the same that rule the web (by having the most seats at the World Wide Web Consortium (W3C)[^33] for example), so they have all the power to enforce their bots in every tool and web service we use. This is another big topic explore by the cyberpunk imagination: usually the stories involve some kind of technology taking over the human race by becoming more “intelligent” (often better organised) and a group of rebels, who suffered and/or profit from the all-tech system until they realised the political treachery behind it. We are now at a time to create those rebel coalitions. To reclaim the web and the sense of community.  
 Here’s another fact given on [howtotrainyourchatbot.com](https://howtotrainyourchatbot.com): “Artificial intelligence denotes the capacity of computational systems to exhibit adaptive, goal-oriented behaviour akin to cognitive processes observed in human intelligence”. (howtotrainyourchatbot.com, 2026). This made me think again; what GenAI **cannot** do is create, have imagination. It recycles and remixes already realised ideas. It plagiarises and steals. In that context, as humans, our so endeared singularity is our imagination. It is our capacity to create useless things, for their beauty or their level of fun. People designing GenAI tools (Musk, Altman, etc.) are driven by profit and use, functionality, performance. Therefore these tools cannot conceive the importance of the useless. Making the useless and the goofy preferred counter-action to their political agenda.  
   
 — But, Kiara, what is this mysterious political agenda?  
-Excellent question! Let me explain starting with a quote from Katika Kühnreich in a talk she gave during 39C3[^33]:  
+Excellent question! Let me explain starting with a quote from Katika Kühnreich in a talk she gave during 39C3[^34]:  
 > “Stories can help us, give us guidelines, hope. Can make us believe that if we follow that story's rules, everything will be easy. But we have to be careful what kind of stories we believe in.  
 > Because fascism is a story.  
 > And sometimes it's very well told. And cybernetics is a story as well. A mechanical fairy tale.” (Kühnreich, 2025)  
@@ -205,10 +220,12 @@ To conclude this argument, I’ll quote Katika Kühnreich again, as her point al
 “So, in short, cybernetics went into arts and science fiction and they invented stuff and said "it will be great in the future". But maybe we should really think about stories we believe in. We shouldn't ignore so many facts. AI is using huge amounts of energy, water, and human lives. And they gave us that story that AI will solve the climate crisis. And this is like trying to extinguish a fire with diesel. You can try it.  
 So, please, be an adult, like stories, but do not confuse them with reality and be an adult, break something to make it stop. And have fun doing it. This is a duty you can do with others. There is no rule that anti-fascism can't be danced.”(Kühnreich, 2025).  
   
+`<!-- → transition!!! -->`  
+  
 ## 3.2 Fun against totalitarianism | Down the rabbit hole  
 As mentioned throughout this whole article, the state of the web is currently unstable, taken over by big Silicon Valley corporation, pushing AI slop in everything, until we all become numb. But we don’t have to passively fall into that numbness.  
   
-To fight the afore-mentioned fascism spreading over the web, I uncovered various key points.  
+To fight the afore-mentioned fascism spreading over the web, I uncovered three key points.  
   
 First, we must bring the user back as the priority. As shown through the example of GenAI design, the web has become more and more focused on providing an experience. But no as in the experimentation, accidental and exploring experience. More as a polished, un-personal, templated experience. By leaving this experience behind to actually focus on users, we can obtain better control and independence.   
 In her article From the Philosophy of the Open to the Ideology of the User-Friendly, Lori Emerson reminds us how computers used to be accessible to their users, offering the possibility to become hardware-savvy, and how through time, they become less and less operable and changeable, thus turning into mysterious black boxes that we expect to just work (Emerson, 2013). This system is creating the great seamlessness, valuing templates and drag-and-drop website builders instead of the craft of HTML and CSS, mentioned before. As Maria Farrell and Robin Berjon wrote in their article We Need to Rewild the Internet, “For tech giants, the long period of open internet evolution is over. Their internet is not an ecosystem. It’s a zoo.” (Farrell and Berjon, 2024), meaning that everything is categorised and ordered, zoo cages being a good analogy for the grid templates offered by WYSIWYG website builders.  
@@ -228,13 +245,14 @@ In order to abolish this over-use of templates and generated images, we must dig
   
 This is I believe a very good way of reconnecting to our inner child, the one holding that goofy playfulness.   
   
+`<!-- → transition!!! -->`  
+  
 # CONCLUSION  
 Webringing, hyperlinking and mazing are my spells.  
 Expressing and praising singularity are my intentions.  
 Seamlessness and automation are my combat.  
   
 I am the Wicked Witch of the World Wide Web.  
-  
   
   
   
@@ -256,7 +274,7 @@ I am the Wicked Witch of the World Wide Web.
   
 [^8]: Doriane Timmermans is an artist and researcher based in Bruxelles. She explores the materiality of the web, and more precisely of the CSS language, in her research project declarations. (https://declarations.style)<br>XPUB — Experimental Publishing is a master’s course offered at the Willem de Kooning Academy in Rotterdam, NL. It explores the notions of public(s), publication and experimental tech practices. (https://xpub.nl)<br>In 2025, Doriane was the guest tutor for XPUB’s Special Issue 26, for which she brought her declarations research to us students. (https://xpub.declarations.style/)  
   
-[^9]: `<!-- appendix – TBD -->`  
+[^9]: `<!-- see appendix – Hyperzine – TBD -->`  
   
 [^10]: net.art refers to a group of artists who have worked in the medium of Internet art since 1994. […] <br>The term "net.art" is also used as a synonym for net art or Internet art and covers a much wider range of artistic practices. In this wider definition, net.art means art that uses the Internet as its medium and that cannot be experienced in any other way. Typically net.art has the Internet and the specific socio-culture that it spawned as its subject matter but this is not required.<br>The German critic Tilman Baumgärtel - building on the ideas of American critic Clement Greenberg - has frequently argued for a "media specificity" of net.art in his writings. According to the introduction to his book "net.art. Materialien zur Netzkunst", the specific qualities of net.art are "connectivity, global reach, multimediality, immateriality, interactivity and egality". (https://en.wikipedia.org/wiki/Net.art)  
   
@@ -272,7 +290,7 @@ I am the Wicked Witch of the World Wide Web.
   
 [^16]: The use of quotes here is to indicate that this is how leaders and rulers advertise and depict the society we live in, but it remains a highly subjective vision, that shouldn’t be used as a universal truth.  
   
-[^17]: `<!-- source??? -->`  
+[^17]: `<!-- source: webrings and digital gardens as magical/enchanted??? -->`  
   
 [^18]: https://declarations.style  
   
@@ -286,23 +304,24 @@ I am the Wicked Witch of the World Wide Web.
   
 [^23]: `<!-- explain what Geocities is -->`  
   
-[^24]: “The three-click rule or three click rule is an unofficial web design rule concerning the design of website navigation. It suggests that a user of a website should be able to find any information with no more than three mouse clicks. It is based on the belief that users of a site will become frustrated and often leave if they cannot find the information within the three clicks.” (Wikipedia, 2025)  
+[^24]: See: Burgy, 2020. and Maudet, 2022, p. 15  
+[^25]: “The three-click rule or three click rule is an unofficial web design rule concerning the design of website navigation. It suggests that a user of a website should be able to find any information with no more than three mouse clicks. It is based on the belief that users of a site will become frustrated and often leave if they cannot find the information within the three clicks.” (Wikipedia, 2025)  
   
-[^25]: https://moz.com/learn/seo/what-is-seo  
+[^26]: https://moz.com/learn/seo/what-is-seo  
   
-[^26]: In their research, they interviewed various designers that remained anonymous and were attributed the letter P (for participant) and a number as an identifier.  
+[^27]: In their research, they interviewed various designers that remained anonymous and were attributed the letter P (for participant) and a number as an identifier.  
   
-[^27]: ”Technocapitalism refers to a contemporary economic and social system characterized by the dominance of technology-driven capital, where technological innovation becomes a central component of economic growth and wealth accumulation. This term encapsulates the interplay between technology and capitalism, highlighting how advancements in technology influence economic structures, labor markets, and social relations.” (Wikipedia, 2026)  
+[^28]: ”Technocapitalism refers to a contemporary economic and social system characterized by the dominance of technology-driven capital, where technological innovation becomes a central component of economic growth and wealth accumulation. This term encapsulates the interplay between technology and capitalism, highlighting how advancements in technology influence economic structures, labor markets, and social relations.” (Wikipedia, 2026)  
   
-[^28]: “A method of banning users where their posts are visible only to them. Created to prevent spammers, trolls, and flamers from realizing they have been banned and creating new accounts." — *I’ve been posting right-wing crap all over the forum, but no one is biting. I think I’ve been shadowbanned.*” (Urban Dictionary, 2011)  
+[^29]: “A method of banning users where their posts are visible only to them. Created to prevent spammers, trolls, and flamers from realizing they have been banned and creating new accounts." — *I’ve been posting right-wing crap all over the forum, but no one is biting. I think I’ve been shadowbanned.*” (Urban Dictionary, 2011)  
   
-[^29]: See: Farrell and Berjon, 2024. Mandeville, 2016. White, 2024. White, 2017. Zuckerman, 2025. and https://wiki.melonland.net/manifestos  
+[^30]: See: Farrell and Berjon, 2024. Mandeville, 2016. White, 2024. White, 2017. Zuckerman, 2025. and https://wiki.melonland.net/manifestos  
   
-[^30]: I decided for that reference before Cory Doctorow published his blog’s 20 years anniversary post. In it he defends his use of a Large Language Model to help him proofread his blog articles, which is a practice I do not align with morally (https://pluralistic.net/2026/02/19/now-we-are-six/#stock-buyback). However, for the sake of my point, I decided to keep that reference and add this disclaimer. For a deeper explaination of why I disagree, read Jürgen Geuter’s blog post: https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/  
+[^31]: I decided for that reference before Cory Doctorow published his blog’s 20 years anniversary post. In it he defends his use of a Large Language Model to help him proofread his blog articles, which is a practice I do not align with morally (https://pluralistic.net/2026/02/19/now-we-are-six/#stock-buyback). However, for the sake of my point, I decided to keep that reference and add this disclaimer. For a deeper explaination of why I disagree, read Jürgen Geuter’s blog post: https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/  
   
-[^31]: “Mass technologies have become the cognitive, social and political infrastructure of the new regime. […] We entered the cyberpunk universe at the exact moment when these hypertechnologies ceased to be tools and became the environment that shapes us.” Translated from French by Kiara Jouhanneau  
+[^32]: “Mass technologies have become the cognitive, social and political infrastructure of the new regime. […] We entered the cyberpunk universe at the exact moment when these hypertechnologies ceased to be tools and became the environment that shapes us.” Translated from French by Kiara Jouhanneau  
   
-[^32]: The W3C is an international organisation that sits together to set rules, standards and constant evolution to the web. The biggest actor are companies such as Google, Apple, Adobe, etc.  
+[^33]: The W3C is an international organisation that sits together to set rules, standards and constant evolution to the web. The biggest actor are companies such as Google, Apple, Adobe, etc.  
   
-[^33]: “The 39th Chaos Communication Congress (39C3) takes place in Hamburg on 27-30 Dec 2025, and is the 2025 edition of the annual four-day conference on technology, society and utopia organized by the Chaos Computer Club (CCC) and volunteers. Congress offers lectures and workshops and various events on a multitude of topics including (but not limited to) information technology and generally a critical-creative attitude towards technology and the discussion about the effects of technological advances on society. https://events.ccc.de/congress/2025/” (Description taken from the official website, at https://app.media.ccc.de/b/congress/2025)  
+[^34]: “The 39th Chaos Communication Congress (39C3) takes place in Hamburg on 27-30 Dec 2025, and is the 2025 edition of the annual four-day conference on technology, society and utopia organized by the Chaos Computer Club (CCC) and volunteers. Congress offers lectures and workshops and various events on a multitude of topics including (but not limited to) information technology and generally a critical-creative attitude towards technology and the discussion about the effects of technological advances on society. https://events.ccc.de/congress/2025/” (Description taken from the official website, at https://app.media.ccc.de/b/congress/2025)  
   
