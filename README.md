@@ -1,7 +1,7 @@
 Notes and writing process  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-Note to Michael: the document to read is [FULLDRAFT01_THE-WICKED-WITCH-OF-THE-WORLD-WIDE-WEB](FULLDRAFT01_THE-WICKED-WITCH-OF-THE-WORLD-WIDE-WEB.md)
+Note to Michael: the document to read is [WORKING-DRAFT_THE-WICKED-WITCH-OF-THE-WORLD-WIDE-WEB](FULLDRAFT01_THE-WICKED-WITCH-OF-THE-WORLD-WIDE-WEB.md)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 <br>
