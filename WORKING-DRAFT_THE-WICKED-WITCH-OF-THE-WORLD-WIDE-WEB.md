@@ -5,7 +5,7 @@ author:
 created: 2026-01-23
 share: true
 note: scan Asma Mhalla's "Anti-Conclusion" and add it to appendix + add/update footnotes + try md2pagedjs for layout
-word-count: 7434
+word-count: 9362
 word-goal: 8000
 ---
 ```  
