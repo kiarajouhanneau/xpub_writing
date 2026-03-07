@@ -261,7 +261,8 @@ With this quote from Katika Kühnreich, I will conclude my argument on the conne
   
 ## 3.2 Fun against totalitarianism  
 %% ``` NOTE TO SELF  
-develop on the rabbit hole as idiom for jumping across the web through links and the metaphor for abstraction and surrealism in Alice as a way to prone fun and silliness + reconnection to self through attention and slowness``` %%  
+develop on the rabbit hole as idiom for jumping across the web through links and the metaphor for abstraction and surrealism in Alice as a way to prone fun and silliness + reconnection to self through attention and slowness  
+Actually, this chapter is a bit off I believe...``` %%  
   
 As mentioned throughout this whole article, the state of the web is currently unstable, taken over by big Silicon Valley corporation, pushing GenAI slop in everything, until we all become numb. But we don’t have to passively fall into that numbness. In her article From the Philosophy of the Open to the Ideology of the User-Friendly, Lori Emerson reminds us how computers used to be accessible to their users, offering the possibility to become hardware-savvy, and how through time, they become less and less operable and changeable, thus turning into mysterious black boxes that we expect to just work (Emerson, 2013). This system is creating the great seamlessness, valuing templates and drag-and-drop website builders instead of the craft of HTML and CSS, as mentioned before.  
   
