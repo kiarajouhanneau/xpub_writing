@@ -4,8 +4,8 @@ author:
   - Kiara Jouhanneau
 description: The latest working document!!
 created: 2026-03-27
-word-count: 9539
-word-goal: 8200
+word-count: 9543
+word-goal: 8000
 share: true
 ---
 # THE WICKED WITCH OF THE WORLD WIDE WEB  
