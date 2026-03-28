@@ -77,7 +77,7 @@ Please sit in your favourite reading spot, and accompany me on this journey.
   
 ## 1. Into the <del>spider</del> web: enchanted crafts  
 It is said that a spider’s web is a prowess in weaving, producing one of the most resistant organic matter in nature. Their patterns are enigmatic, varying between species and can be altered by drugs!    
-This is no coincidence that Tim Berners-Lee, after much reflection, ended up calling its invention “the world wide web” (Berners-Lee, 2025, pp. 62-63).   
+This is no coincidence that Tim Berners-Lee, after much reflection, ended up calling its invention “the world wide web” (Berners-Lee, 2025, pp. 62-63) and called one of his books Weaving the web.   
 Similarly to the ones of spiders, our web involves craft and singularity.  
 I wish to start this journey by taking you into this crafty, personal, intention-filled web. To show you how I connect the web to magic.  
 ### 1.1 Web-crafting 101  
@@ -139,7 +139,7 @@ Webrings can be seen as a social webcraft, aiming at linking and connecting peop
 `<!-- IMG: Roos' Rotterdam ring "about" page`  
   
 For a few years now, webrings are regaining popularity. This revival is linked to a movement of revolt, a common voice rising from the depths of the web: the indie web.    
-The indie web is a philosophy that emerged around 2009, when Yahoo! shut down the hosting service GeoCities[^17]. It is rooted in a desire of reclaiming the web space, taken over by big corporations such as GAFAM[^16]. Indie web practices usually rely on principles such as hand-written code, low-weight websites, F/LOSS[^18] and sharing[^19].     
+The indie web is a philosophy that emerged around 2009, when Yahoo! shut down the hosting service GeoCities[^16]. It is rooted in a desire of reclaiming the web space, taken over by big corporations such as GAFAM[^17]. Indie web practices usually rely on principles such as hand-written code, low-weight websites, F/LOSS[^18] and sharing[^19].     
 The indie web advocates for personal websites as a form of expression – opposite to corporate-owned social media platforms – inviting us to care about what we share and how. There is no official guide to *be part of* the indie web. As Peter Molnar puts it: “this is not a step-by-step thing. The owner of a website needs to decide what functionality they want to participate in.” (Molnar, 2021). The indie web is modular, for (and therefore) it is mine, yours, ours.    
 This philosophy and modes of making are embraced and pushed forward by numerous practitioners of the web, such as Miriam Suzanne, CSS working group member, or professor and researcher Laurel Schwulst, thus creating communities and that movement of revolt described above.  
   
@@ -193,11 +193,10 @@ However, this experimental practice Murray describes is far from being the norm 
 ```  
   
 ```  
-<!--- TOTAL CHAPT word count: 2287/2000 :o -->  
+<!--- TOTAL CHAPT word count: 2224/2000 :o -->  
 ```  
   
 ## 2. The ghost in the shell & the curse of efficiency  
-`<!-- to bring back the Curse structure you establish (something around the Curse of Efficiency, the Tyranny of Templates?). Also in Chapter 2 there's a reference to unveiling "the man behind the curtain", it seems odd to not make the link with the Wizard of Oz, given again the framing. -->`  
 The second stop on this journey is a more serious one, a grown-up one as Antoine de Saint-Éxupéry would call it. (Saint-Éxupéry, 1946). This stop is diving into the design systems used by big corporations, ones that end up defining the overall look of websites through methods such as Search Engine Optimisation (SEO) or monopoly.    
 This part will largely analyse the performance of efficiency[^27] that is spreading around the web and how following trends is making our identities disappear.  
 ### 2.1 Templates and polishing: performance, technicality and productivity   
@@ -415,9 +414,9 @@ I am the Wicked Witch of the World Wide Web.
   
 [^15]: The use of quotes here is to indicate that this is how leaders and rulers advertise and depict the society we live in, but it remains a highly subjective vision, that shouldn’t be used as a universal truth.  
   
-[^16]: The 5 giants of the web, also called GAMAM or Big Five: Google (Alphabet), Apple, Facebook/Meta, Amazon, Microsoft  
+[^16]: “GeoCities, later Yahoo! GeoCities, was a web hosting service that allowed users to create and publish websites free of charge, and to browse user-created websites by their theme or interest, active from 1994 to 2009.” (Wikipedia, last updated: 27-02-2026)  
   
-[^17]: “GeoCities, later Yahoo! GeoCities, was a web hosting service that allowed users to create and publish websites free of charge, and to browse user-created websites by their theme or interest, active from 1994 to 2009.” (Wikipedia, last updated: 27-02-2026)  
+[^17]: The 5 giants of the web, also called GAMAM or Big Five: Google (Alphabet), Apple, Facebook/Meta, Amazon, Microsoft  
   
 [^18]: Free/Libre Open Source Software  
   
