@@ -6,19 +6,15 @@ Note to Lidia & Michael: the document to read is [FULL.md](FULL.md)
 <br>
 <br>
 
-<!-- vvv The following is not up to date! vvv
 
-| Chapters      | Word Count    | Progress      |
-| ------------- | ------------- | ------------- |
-| **[Full Text (draft #1)](THE-WICKED-WITCH-OF-THE-WORLD-WIDE-WEB_draft.md)** | **6751/8000 w.** | **84%** |
-| ------------- | ------------- | ------------- |
-| [Intro](DRAFT00_Intro.md) | 876/1000 w. | 88% |
-| [Chapter 1](DRAFT01_Chpt01.md) | 2156/2000 w. | 108% |
-| [Chapter 2](DRAFT02_Chpt02.md) | 1767/2000 w. | 88% |
-| [Chapter 3](DRAFT03_Chpt03.md) | 1665/2000 w. | 83% |
-| [Conclusion](DRAFT04_Conclusion.md) | 30/1000 w. | 3% | 
--->
+| Chapters      | Word Count    | Progress      | To Do         |
+| ------------- | ------------- | ------------- | ------------- |
+| Introduction | 956/1000 w. | 100% | Rewrite question |
+| Chapter 1 | 2215/2000 w. | 90% | Edit, cut |
+| Chapter 2 | 2505/2000 w. | 90% | Edit, cut |
+| Chapter 3 | 2485/2000 w. | 90% | Write, edit, cut |
+| Conclusion | 30/1000 w. | 3% | Write |
 
-*Last update: 27-03-2026 16:21*  
+*Last update: 28-03-2026 11:18*  
 
 XPUB 2026
