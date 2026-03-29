@@ -4,12 +4,14 @@ author:
   - Kiara Jouhanneau
 description: The latest working document!!
 created: 2026-03-27
-word-count: 10145
+word-count: 10159
 word-goal: 8000
 share: true
 ---
 # THE WICKED WITCH OF THE WORLD WIDE WEB  
   
+```  
+<!--   
 Kiara Jouhanneau  
   
 Thesis submitted to the Department of Experimental Publishing, Piet Zwart Institute, Willem de Kooning Academy, in partial fulfilment of the requirements for the final examination for the degree of Master of Arts in Fine Art & Design: Experimental Publishing.  
@@ -38,7 +40,9 @@ After on, it dives into the topic of generative artificial intelligence, templat
 Ultimately, from that observation, I offer ways to use the magic of web as a means of resistance in the age of automation, templatisation and a political context of rising and globalising fascism.  
   
   
-*“So, please, be an adult, like stories, but do not confuse them with reality and be an adult, break something to make it stop. And have fun doing it. This is a duty you can do with others. There is no rule that anti-fascism can't be danced.”* — Katika Kühnreich, All Sorted by Machine of Loving Grace?, 2025`  
+*“So, please, be an adult, like stories, but do not confuse them with reality and be an adult, break something to make it stop. And have fun doing it. This is a duty you can do with others. There is no rule that anti-fascism can't be danced.”* — Katika Kühnreich, All Sorted by Machine of Loving Grace?, 2025  
+-->  
+```  
   
 ---  
 ## INTRODUCTION  
@@ -117,7 +121,7 @@ The importance of web crafting and what differentiates it from built-in drag-and
 This is what Raphaël Bastide depicts in his performative piece being a script.     
 > “Before the first line in the diary of my existence, I am nothing. In fact, I am an intention, an empty document, but the air is full of me, I am there in a form that is vaporous, sweet, and naive. I will do everything, sort everything, as if by miracle, I am a formula, an appeal to the divine. Before everything begins, I wait for hands.” (Bastide, 2025).  
   
-![[being-a-script.png]]  
+![being-a-script.png](./THESIS/Final/media/being-a-script.png)  
 <figcaption>Raphaël Bastide, being a script, 2025</figcaption>  
   
 In a conversation[^13] we had together, Raphaël told me about the creation process of this piece. How he started writing it during the first months of his newborn child, the role and place taken by the body and physical gestures in this process. He also told me about the reflections at the heart of this creation:   
@@ -144,12 +148,12 @@ Sharing, in one of its many meanings, is a deed shared between the web and magic
 Back in its first years of life, the web did not have today’s “powerful” search engines and discovering new websites was more of a treasure hunt. To compensate for this lacking, web-makers created webrings: a script containing a list of all members and a looping function, interlinking members to one another. Or, as simply described by developer educator Bryan Robinson, “A webring was a circular collection of sites around a similar topic. Each would display a badge of membership. This badge would allow for a user to jump to the next or previous site or find a random site in the ring.” (Robinson, 2019).    
 The topics were broad and undiscriminating: gardening, fantasy, cooking, etc. It allowed visitors to discover other people having the same passions or interests easily.    
   
-![[webrings.png]]  
+![webrings.png](./THESIS/Final/media/webrings.png)  
   
 There are various ways to build a webring, suited for both JavaScript experts and beginners, implying that building a webring is more or less in anyone’s reach. In our western “civilised”[^14] society, almost whoever wants to can theoretically craft their own webring, following online tutorials or borrowing a template.    
 Webrings can be seen as a social webcraft, aiming at linking and connecting people together. Every webring comes with a visual element to indicate one is a member of a ring and an invitation to join the ring by pasting some code into one’s website code.    
   
-![[webring-roos.png]]  
+![webring-roos.png](./THESIS/Final/media/webring-roos.png)  
 <figcaption><a href="https://rg-mage.neocities.org/rotterdam">https://rg-mage.neocities.org/rotterdam</a></figcaption>  
   
 For a few years now, webrings are regaining popularity. This revival is linked to a movement of revolt, a common voice rising from the depths of the web: the Web Revival.    
@@ -168,7 +172,7 @@ In that same blogpost, Appleton goes back into history: digital gardens appeared
 Reading from Appleton’s description, a digital garden resembles a notebook, accessible for other people to flip through.    
 This analysis brings me to an observation: the practice of webrings is very close to the one of (book) clubs – a gathering of people *around* a shared passion –; the practice of digital gardening takes gardening – an activity highly *centred on* care and patience – as a metaphor for its form.    
   
-![[xpub-research-thesis/media/gardens.png]]  
+![gardens](./xpub-research-thesis/media/gardens.png)  
 <figcaption>The Blue Book; Tom Critchlow's Wikifolder; Nikita Voloboev's Knowledge Wiki; Maggie Appleton's Garden</figcaption>  
   
 — But, Kiara, why is this interesting exactly?     
@@ -180,20 +184,20 @@ Additionally, both are seen as “magical” or enchanting:
 Ultimately, creating a feeling of amazement for they seem to pertain to an outside world and tend to be poetical or…playful!    
 That merge of poetry and playfulness was actually already explored by Olia Lialina. As described on artsy.net, with her click-to-reveal piece My boyfriend came back from the war, she “wasn’t just translating a story onto the internet, she was telling a story in the language of the web browser”. (The Current Museum, 2013)  
   
-![[lialina1996.png]]  
+![lialina1996.png](./THESIS/Final/media/lialina1996.png)  
 <figcaption><a href="http://www.teleportacia.org/war/">http://www.teleportacia.org/war/</a></figcaption>  
   
 *Telling a story with the language of the web* – I find this quite beautiful and very *à propos* as we seem to be diving into web poetry.    
 Poetry can be both verbal and visual, and the web proves to be a good medium for that type of expression, giving way to the creation of websites that highlight written poetry, websites that use CSS do depict a poetical atmosphere… and even creators exploring the poetry of HTML and CSS as languages!    
 Doriane Timmermans, artist and researcher based in Brussels, is one of them. Her research project declarations[^17] is exploring the materiality of CSS as a language.    
   
-![[declarations.png]]  
+![declarations.png](./THESIS/Final/media/declarations.png)  
 <figcaption><a href="https://declarations.style/">https://declarations.style/</a></figcaption>  
   
 Together, we talked about how CSS and spell or ritual writing relate; she said “the CSS selector `:not(:focus):hover`[^18] is like an incantation that could be super powerful and bears heavy intentions.” We also mentioned browser extensions, especially the ones that “metamorphose the web through a simple CSS formula” (Timmermans, 2025)[^19], uniting, in that sense, magic and hacking.    
 This crossing of practices is not new. Since 2015, artist, researcher and professor Lucile Olympe Haute is experimenting the links and boundaries between the physical, the material and the digital, the virtual. In that context she wrote the Cyberwitches Manifesto (Haute, 2019), itself inspired by a performance she created with friends of hers. This performance, from Lucile’s description, “gathered 4 friends who call themselves ‘witches’ but doing so, implicate very different meanings into that word.” (Haute, 2017). Additionally, Lucile has been hosting workshops all over France and printed several issues of a collective zine called Cybersorcières and designed with web languages, using single-source publishing methods.    
   
-![[cyberwitches.png]]  
+![cyberwitches.png](./THESIS/Final/media/cyberwitches.png)  
 <figcaption>Cyberwitches Manifesto performance, 2017; Cybersorcières zines | @cybersorcieres on Instagram</figcaption>  
   
 As explained in the introduction of this article, I see magic as a process.    
@@ -229,7 +233,8 @@ This part will largely analyse the performance of efficiency[^24] that is spread
 ### 2.1 Templates and polishing: performance, technicality and productivity   
 Taking on graphic design and layout techniques that have been used since the advent of printing, the web relied on templates almost as soon as it was born, as researcher Nolwenn Maudet points out in her article Design Templates: Between Empowerment and Control of Amateur Graphic Designers (Maudet, 2025).    
 In the early years of Content Management Systems (CMS) such as Movable Type (fig. 1) in 2001, webmakers expressed their personalities and created atmospheres using themes on top of templates: as Nolwenn Maudet observes, templates organise the content’s structure and standardise whereas themes offer a “graphical ambiance” and the “choices [for a theme] are less about functional graphic design and more about (personal) branding.” (Maudet, 2025)    
- ![[movable-type-2001.webp]]  
+  
+ ![movable-type-2001.webp](./THESIS/Final/media/movable-type-2001.webp)  
 <figcaption>fig. 1: Movable Type, 9 September 2001 (from https://cybercultural.com/p/blogs-rss-2001/)</figcaption>  
   
 However, this didn’t last long as CMS began to adapt to the new needs for responsive designs: more devices needed to be able to display a website correctly, resulting in homogenisation of templates and less variety in themes[^25]. In a logic of capitalisation and to draw a maximum of people to use their services, CMS began by mimicking big companies’ layouts. Maudet explains that as CMS became more and more popular, they increased the “templatisation” (Maudet, 2025) of web pages and this relationship became a loop: people being more and more used to a certain architecture will want to reproduce it on their own websites (Maudet, 2025).    
@@ -243,7 +248,7 @@ From the globalisation of Instagram aesthetics – polished, flawless photos tha
 <img src="instagram02.png">  
 <figcaption>fig. 2: Examples of canon instagram profiles, image search results for “instagram aesthetic feed”</figcaption>  
 </figure>  
-![[cms.png]]  
+![cms.png](cms.png)  
 <figcaption>fig. 3: Wix website builder; Canva website builder</figcaption>  
   
 I personally see this phenomenon as driven by a desire for:  
@@ -253,7 +258,7 @@ I personally see this phenomenon as driven by a desire for:
   
 The merge of those 3 pillars is Search Engine Optimisation (SEO), moz.com defines it as: “the practice of improving your website's content, structure, and visibility to rank higher on search engines like Google.”[^28], basically meaning it is a set of `<meta>` tags allowing for a bigger chance to appear on that so praised first page of search results. Already in 2005, Olia Lialina’s said in her Vernacular Web talk that “Search engine rating mechanisms rank the old amateur pages so low they're almost invisible and institutions don't collect or promote them with the same passion as they pursue net art or web design.” (Lialina, 2005). Today, 21 years later, nothing has changed.    
   
-![[seo.png]]  
+![seo.png](./THESIS/Final/media/seo.png)  
 <figcaption>Screenshot taken from <a href="https://www.geeksforgeeks.org/html/html-meta-tag/">https://www.geeksforgeeks.org/html/html-meta-tag/</a></figcaption>  
   
 This is the principle of technocapitalism[^29]; big corporations set rules that aim to ensure them money gain, and smaller companies or individuals are left with no other choice than “following the trend”. This is a matter well covered by Parimal Satyal in their article Rediscovering the small web.    
@@ -352,14 +357,14 @@ The cyberpunk narrative is meant to criticise politics and economics, stating th
 The cyberpunk genre depicts mostly stories of societal collapse, building the perfect ground for rebellion. The current state of economics and politics is actually quite close to the atmosphere described by cyberpunk pieces. This is what Asma Mhalla explains in her essay Cyberpunk : Le nouveau totalitarisme; she demonstrates that the future is here, we are currently living the cyberpunk dystopia depicted in so many science-fiction scenario since the 1980s.    
 In this essay, Mhalla carefully unveils the mechanics at play in the cyberpunk ideology of our days, building her analysis on the recent events that occurred in US politics. She explains thoroughly how deeply rooted in technology those events are, relying on a president that has only faith in the sparkly, the shocking and the show. Reading that, I can only see Donald Trump as the ultimate stage magician, who took Elon Musk as his assistant for a while, thus stating his motives and interests in AI programming and machine-ruled systems.    
   
-![[trump-musk02.webp]]  
+![trump-musk02.webp](./THESIS/Final/media/trump-musk02.webp)  
 <figcaption>Kevin Dietsch/Getty Images</figcaption>  
   
 The all-automated, machine-centred and efficiency-driven future depicted in cyberpunk dystopiae is actually the present we are building (Mhalla, 2025). Only, cyberpunk isn’t just a skin-pack[^39] coating everything in CMYK-saturated colours and body implants, it comes with an ideology, politics. That ideology is now being more and more embodied by GenAI tools and platforms, as Asma Mhalla points out: “Les *mass technologies* sont devenues l’infrastructure cognitive, sociale et politique du nouveau régime. […] Nous avons basculé dans l’univers cyberpunk au moment exact où ces hypertechnologies ont cessé d’être des outils pour devenir l’environnement qui nous fabrique.”[^40] (Mhalla, 2025, p. 98).  
   
 In my own professional life, while working on the french translation for [howtotrainyourchatbot.com](https://howtotrainyourchatbot.com), a LLM explainer built by Decifer Studio[^41], I came across the phrase: “You will see a question with two answer options generated by the model, and pick what you think is the better answer. Real chatbots similarly learn patterns from thousands of choices made by humans, often workers hired for this task. What counts as 'better' depends on who's deciding.” (Decifer Studio, 2026) and that made me think that political tyranny is reenacted on every corner of the web space. The people behind GenAI ideology are the same that rule the web (by having the most seats at the World Wide Web Consortium (W3C)[^42] for example), so they have all the power to enforce their bots in every tool and web service we use. Ultimately, we realise that they are also the same people that rule the world.    
   
-![[train-chatbot.png]]  
+![train-chatbot.png](./THESIS/Final/media/train-chatbot.png)  
 <figcaption><a href="howtotrainyourchatbot.com">https://howtotrainyourchatbot.com</a></figcaption>  
   
 Indeed, besides funding all the GenAI companies and enforcing their products everywhere, politicians and especially (far-)right activists have fully embraced and understood the mechanics of social media. They also understand and take advantage of game elements to appeal to masses. For example, Donald Trump in the US and Marine Lepen in France, both part of the far-right political canvas, have become memes, thus making themselves .    
@@ -440,7 +445,7 @@ Daniel Murray is a key actor in this field, but he is far from being alone. As m
   
 To conclude this point, I’ll explain why I titled it “Follow the white rabbit”. This chapter is about cyberpunk aesthetics, ideological manipulation and using amazement, spontaneity and absurdity to fight back. In the first Matrix movie (Wachowski Sisters, 1999), the reference to Alice’s Adventures in Wonderland is made clear, when Neo is prompted to follow the white rabbit. The resources and practices described in the second part of the chapter can also take inspiration from Alice’s universe, and often does in my opinion. Hence the title.  
   
-![[neo.png]]  
+![neo.png](./THESIS/Final/media/neo.png)  
 <figcaption>Matrix, 1999</figcaption>  
   
 ```  
