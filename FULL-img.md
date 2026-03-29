@@ -141,19 +141,10 @@ Sharing, in one of its many meanings, is a deed shared between the web and magic
 <!--- word count: 1108/1000 -->  
 ```  
 ### 1.2 Webrings and digital gardens: where the web becomes *magical*   
-```  
-<!-- maybe sometime like "one ring to rule them all" but then not Tolkien not Oz!   
-IDEAS:  
-* the fellowship of the ring -> too masculine + tolkien eww  
-* put a ring on it  
-*   
--->  
-```  
-  
 Back in its first years of life, the web did not have today’s “powerful” search engines and discovering new websites was more of a treasure hunt. To compensate for this lacking, web-makers created webrings: a script containing a list of all members and a looping function, interlinking members to one another. Or, as simply described by developer educator Bryan Robinson, “A webring was a circular collection of sites around a similar topic. Each would display a badge of membership. This badge would allow for a user to jump to the next or previous site or find a random site in the ring.” (Robinson, 2019).    
 The topics were broad and undiscriminating: gardening, fantasy, cooking, etc. It allowed visitors to discover other people having the same passions or interests easily.    
   
-![[webring01.png]]  
+![[webrings.png]]  
   
 There are various ways to build a webring, suited for both JavaScript experts and beginners, implying that building a webring is more or less in anyone’s reach. In our western “civilised”[^14] society, almost whoever wants to can theoretically craft their own webring, following online tutorials or borrowing a template.    
 Webrings can be seen as a social webcraft, aiming at linking and connecting people together. Every webring comes with a visual element to indicate one is a member of a ring and an invitation to join the ring by pasting some code into one’s website code.    
@@ -168,8 +159,6 @@ The movement is a collection of smaller groups that all advocate for personal we
 The Web Revival is modular, for (and therefore) it is mine, yours, ours.    
 Practitioners of the web and researchers affiliated to this movement are for example Miriam Suzanne, CSS working group member, or professor and researcher Laurel Schwulst. They gather communities and bring forth that movement of revolt described above.  
   
-![[webrings.png]]  
-  
 Another form of social webcraft, also part of the many indie web practices, is digital gardens. In her Brief History & Ethos of the Digital Garden, Maggie Appleton describes them:  
 > “They’re not following the conventions of the ‘personal blog’, as we’ve come to know it. Rather than presenting a set of polished articles, displayed in reverse chronological order, these sites act more like free form, work-in-progress wikis.    
 > A garden is a collection of evolving ideas that aren’t strictly organised by their publication date. They’re inherently exploratory – notes are linked through contextual associations. They aren’t refined or complete – notes are published as half-finished thoughts that will grow and evolve over time. They’re less rigid, less performative, and less perfect than the personal websites we’re used to seeing.” (Appleton, 2021)  
@@ -178,7 +167,9 @@ In that same blogpost, Appleton goes back into history: digital gardens appeared
   
 Reading from Appleton’s description, a digital garden resembles a notebook, accessible for other people to flip through.    
 This analysis brings me to an observation: the practice of webrings is very close to the one of (book) clubs – a gathering of people *around* a shared passion –; the practice of digital gardening takes gardening – an activity highly *centred on* care and patience – as a metaphor for its form.    
-`<!-- IMG: digital gardens examples -->`  
+  
+![[xpub-research-thesis/media/gardens.png]]  
+<figcaption>The Blue Book; Tom Critchlow's Wikifolder; Nikita Voloboev's Knowledge Wiki; Maggie Appleton's Garden</figcaption>  
   
 — But, Kiara, why is this interesting exactly?     
 Well, it is quite simple really: both webrings and digital gardens rely on physical practices – linked to the senses –, transposed to the web. Almost as if the presence of the body was unconsciously needed by everyone online…    
@@ -195,10 +186,15 @@ That merge of poetry and playfulness was actually already explored by Olia Liali
 *Telling a story with the language of the web* – I find this quite beautiful and very *à propos* as we seem to be diving into web poetry.    
 Poetry can be both verbal and visual, and the web proves to be a good medium for that type of expression, giving way to the creation of websites that highlight written poetry, websites that use CSS do depict a poetical atmosphere… and even creators exploring the poetry of HTML and CSS as languages!    
 Doriane Timmermans, artist and researcher based in Brussels, is one of them. Her research project declarations[^17] is exploring the materiality of CSS as a language.    
-`<!-- IMG: declarations homepage -->`    
+  
+![[declarations.png]]  
+<figcaption><a href="https://declarations.style/">https://declarations.style/</a></figcaption>  
+  
 Together, we talked about how CSS and spell or ritual writing relate; she said “the CSS selector `:not(:focus):hover`[^18] is like an incantation that could be super powerful and bears heavy intentions.” We also mentioned browser extensions, especially the ones that “metamorphose the web through a simple CSS formula” (Timmermans, 2025)[^19], uniting, in that sense, magic and hacking.    
-This crossing of practices is not new. Since 2015, artist, researcher and professor Lucile Olympe Haute is experimenting the links and boundaries between the physical, the material and the digital, the virtual. In that context she wrote the Cyberwitches Manifesto (Haute, 2019), itself inspired by a performance she created with friends of hers. This performance, from Lucile’s description, “gathered 4 friends who call themselves ‘witches’ but doing so, implicate very different meanings into that word.” (Haute, 2017). Additionally, Lucile has been hosting workshops all over France and printed several issues of a collective zine called Cyberwitches and designed with web languages, using single-source publishing methods.    
-`<!-- IMG: Cyberwitches zine + perf -->`  
+This crossing of practices is not new. Since 2015, artist, researcher and professor Lucile Olympe Haute is experimenting the links and boundaries between the physical, the material and the digital, the virtual. In that context she wrote the Cyberwitches Manifesto (Haute, 2019), itself inspired by a performance she created with friends of hers. This performance, from Lucile’s description, “gathered 4 friends who call themselves ‘witches’ but doing so, implicate very different meanings into that word.” (Haute, 2017). Additionally, Lucile has been hosting workshops all over France and printed several issues of a collective zine called Cybersorcières and designed with web languages, using single-source publishing methods.    
+  
+![[cyberwitches.png]]  
+<figcaption>Cyberwitches Manifesto performance, 2017; Cybersorcières zines | @cybersorcieres on Instagram</figcaption>  
   
 As explained in the introduction of this article, I see magic as a process.    
 `<!-- IMG: idea/spark (intuition) → intention → realisation (physical action). -->`    
@@ -232,12 +228,23 @@ The second stop on this journey is a more serious one, a grown-up one as Antoine
 This part will largely analyse the performance of efficiency[^24] that is spreading around the web and how following trends is making our identities disappear.  
 ### 2.1 Templates and polishing: performance, technicality and productivity   
 Taking on graphic design and layout techniques that have been used since the advent of printing, the web relied on templates almost as soon as it was born, as researcher Nolwenn Maudet points out in her article Design Templates: Between Empowerment and Control of Amateur Graphic Designers (Maudet, 2025).    
-In the early years of Content Management Systems (CMS) such as Movable Type (fig.) `<!-- IMG: Moveable Type screenshot -->` in 2001, webmakers expressed their personalities and created atmospheres using themes on top of templates: as Nolwenn Maudet observes, templates organise the content’s structure and standardise whereas themes offer a “graphical ambiance” and the “choices [for a theme] are less about functional graphic design and more about (personal) branding.” (Maudet, 2025)    
+In the early years of Content Management Systems (CMS) such as Movable Type (fig. 1) in 2001, webmakers expressed their personalities and created atmospheres using themes on top of templates: as Nolwenn Maudet observes, templates organise the content’s structure and standardise whereas themes offer a “graphical ambiance” and the “choices [for a theme] are less about functional graphic design and more about (personal) branding.” (Maudet, 2025)    
+ ![[movable-type-2001.webp]]  
+<figcaption>fig. 1: Movable Type, 9 September 2001 (from https://cybercultural.com/p/blogs-rss-2001/)</figcaption>  
+  
 However, this didn’t last long as CMS began to adapt to the new needs for responsive designs: more devices needed to be able to display a website correctly, resulting in homogenisation of templates and less variety in themes[^25]. In a logic of capitalisation and to draw a maximum of people to use their services, CMS began by mimicking big companies’ layouts. Maudet explains that as CMS became more and more popular, they increased the “templatisation” (Maudet, 2025) of web pages and this relationship became a loop: people being more and more used to a certain architecture will want to reproduce it on their own websites (Maudet, 2025).    
 `<!-- IMG: examples of CMS/standardised web layouts -->`  
   
 With that, over the last two decades, the web has become more and more standardised, to a point where website-building platforms “obliterate the more vernacular aesthetics that can emerge when amateur designers are left to their own devices.” (Maudet, 2025)    
-From the globalisation of Instagram aesthetics – polished, flawless photos that depict perfect settings of smooth skins (fig.) `<!-- IMG: insta grid -->` – to the layout of websites – a gridified, aiming for clarity template, induced by the popularisation of WYSIWYG website builders such as wix.com or canva.com (fig.) – the webspace is drowning more and more into a seamless, polished, personality-lacking visual identity. This phenomenon is observed by Nolwenn Maudet (Maudet, 2025), but also by Samuel Goree et al.; in a research paper called Investigating the Homogenization of Web Design: A Mixed-Methods Approach, they conducted a thorough analysis of the web’s visual between 2003 and 2019, including analytical graphics showing resemblances and trends. They found “quantitative evidence that website designs are becoming more similar to each other.” (Goree et al., 2021, p. 3).  
+From the globalisation of Instagram aesthetics – polished, flawless photos that depict perfect settings of smooth skins (fig. 2) – to the layout of websites – a gridified, aiming for clarity template, induced by the popularisation of WYSIWYG website builders such as wix.com or canva.com (fig.3) – the webspace is drowning more and more into a seamless, polished, personality-lacking visual identity. This phenomenon is observed by Nolwenn Maudet (Maudet, 2025), but also by Samuel Goree et al.; in a research paper called Investigating the Homogenization of Web Design: A Mixed-Methods Approach, they conducted a thorough analysis of the web’s visual between 2003 and 2019, including analytical graphics showing resemblances and trends. They found “quantitative evidence that website designs are becoming more similar to each other.” (Goree et al., 2021, p. 3).  
+  
+<figure>  
+<img src="instagram03.jpg">  
+<img src="instagram02.png">  
+<figcaption>fig. 2: Examples of canon instagram profiles, image search results for “instagram aesthetic feed”</figcaption>  
+</figure>  
+![[cms.png]]  
+<figcaption>fig. 3: Wix website builder; Canva website builder</figcaption>  
   
 I personally see this phenomenon as driven by a desire for:  
 - performance, hence the creation of User Experience (UX) as a way of driving the navigation of a website into a certain direction through design choices;  
@@ -256,12 +263,15 @@ In the end, it makes things very hard for independent artists or beginners to ma
 Those implicit rules are set so hard in stone that they have been going on for more than 20 years, enforced by the rules of the website-building platforms. For example, wix.com expects that the template “follows the good practices of of UX/UI design and the trends of its field” (Maudet and Ramstein, 2024).   
   
 Since 2020, the web is witnessing a new rise of experimental websites. Neocities[^31], the proud successor to Geocities[^32], is getting more and more popular, Tumblr never really fell down in spite of its numerous dramas, small website builders are also flowering all over the web[^33].    
-A general tiredness towards polished and seamless websites that all look the same, as well as towards the ownership of the webspace put in the hands of a few big tech companies has opened a door to rebellion[^34]. This sense of tiredness I am talking about is well put into word by Daniel Murray, who noticed that during the COVID-19 pandemic “a lot of people discovered the history/practice of homepages and were interacting with the web much more purposefully than they had in the past.” (Beynon and Murray, 2025), pulling away from social media.    
-I observe that this tiredness, on top of the novelty effect, has also played a part in the increasing use of Generative Artificial Intelligence (GenAI) tools. Those generators mostly produce images using overly saturated colours, abstract or hyper-realistic shapes that offer a seamingly good alternative to smooth grid/Instagram-like visuals (fig. comp.) `<!-- IMG: compare AI with insta -->`   
+A general tiredness towards polished and seamless websites that all look the same[^34], as well as towards the ownership of the webspace put in the hands of a few big tech companies has opened a door to rebellion[^35]. This sense of tiredness I am talking about is well put into word by Daniel Murray, who noticed that during the COVID-19 pandemic “a lot of people discovered the history/practice of homepages and were interacting with the web much more purposefully than they had in the past.” (Beynon and Murray, 2025), pulling away from social media.    
+I observe that this tiredness, on top of the novelty effect, has also played a part in the increasing use of Generative Artificial Intelligence (GenAI) tools. Those generators mostly produce images using overly saturated colours, abstract or hyper-realistic shapes that offer a seemingly good alternative to smooth grid/Instagram-like visuals.  
+  
+`<!-- IMG: compare AI with insta -->`   
+  
 The issue with that is that those tools actually follow the same rules and objectives: performance, productivity and technicality, using questionable methods, such as the use of “magic” semantics, which I will detail later. Besides the disastrous impact GenAI-producing companies have on the environment, the economy and human ethics, they also rely on manipulation and gas-lighting to achieve their goals.  
   
 By merging GenAI and WYSIWYG website-makers, we encounter more and more templates that don’t even need to be edited, as the people will be able to generate their own content (text, images, sound, video) through an AI bot. The result of this is what writer and activist Cory Doctorow calls “the enshittification of the web”:  
-> “So what’s enshittification and why did it catch fire? It’s my theory explaining how the internet was colonized by platforms, and why all those platforms are degrading so quickly and thoroughly, and why it matters — and what we can do about it.” (quoted in Maudet and Ramstein, 2024).[^35]  
+> “So what’s enshittification and why did it catch fire? It’s my theory explaining how the internet was colonized by platforms, and why all those platforms are degrading so quickly and thoroughly, and why it matters — and what we can do about it.” (quoted in Maudet and Ramstein, 2024).[^36]  
   
 This polished environment has consequences on our behaviours, as individuals and inside communities. It also has consequence on the vast topic of magic, including but not exclusive to my personal definition given in the introduction of this article.  
   
@@ -271,7 +281,7 @@ This polished environment has consequences on our behaviours, as individuals and
   
 ### 2.2 Losing our singularity: paradoxes and automation   
 With that grand homogenisation of the web’s visual land, we face a paradox between wanting to stand out and blending in. We often see people, mainly artists of any field, complaining and struggling. They might come from any end of the spectrum: those who decided to embrace the flow and the standards blend so much that by looking like anyone else’s their portfolios remain unseen; those who on the contrary decide to go for a very personal portfolio would have websites that are so different and crafty that they might not be pushed forward by algorithm, remaining in the underground scene or invisible. A specific example is mentioned in Goree et al.’s research:   
-> “P4[^36] said that he stopped using Flash for interaction because Google would not index text inside Flash components. P4 and P6 point to Google search’s 2015 ‘Mobilegeddon’ update, which suddenly prioritized search results which would display well on mobile, as the reason the web adopted responsive design.” (Goree et al., 2021, p. 12).   
+> “P4[^37] said that he stopped using Flash for interaction because Google would not index text inside Flash components. P4 and P6 point to Google search’s 2015 ‘Mobilegeddon’ update, which suddenly prioritized search results which would display well on mobile, as the reason the web adopted responsive design.” (Goree et al., 2021, p. 12).   
   
 That paradox makes it harder and harder for artists and creators to make a living and is getting all the more emphasised by GenAIs, as anyone can label themselves artists even if their creations are results of the calculations of a machine.  
    
@@ -338,16 +348,16 @@ Graphically, we often face dark atmospheres lit up by neons and flashing colours
 <figcaption>Blade Runner, 1982 — Cyberpunk 2077, 2020 — Cyberpunk Edgerunners, 2022 — Ghost in the Shell, 1995</figcaption>  
 </figure>  
   
-The cyberpunk narrative is meant to criticise politics and economics, stating that if we don’t stop and think, the future will become this dystopia. That is why cyberpunk’s use of politic entanglement and rebellion from the people are key recurring themes across stories[^37].    
+The cyberpunk narrative is meant to criticise politics and economics, stating that if we don’t stop and think, the future will become this dystopia. That is why cyberpunk’s use of politic entanglement and rebellion from the people are key recurring themes across stories[^38].    
 The cyberpunk genre depicts mostly stories of societal collapse, building the perfect ground for rebellion. The current state of economics and politics is actually quite close to the atmosphere described by cyberpunk pieces. This is what Asma Mhalla explains in her essay Cyberpunk : Le nouveau totalitarisme; she demonstrates that the future is here, we are currently living the cyberpunk dystopia depicted in so many science-fiction scenario since the 1980s.    
 In this essay, Mhalla carefully unveils the mechanics at play in the cyberpunk ideology of our days, building her analysis on the recent events that occurred in US politics. She explains thoroughly how deeply rooted in technology those events are, relying on a president that has only faith in the sparkly, the shocking and the show. Reading that, I can only see Donald Trump as the ultimate stage magician, who took Elon Musk as his assistant for a while, thus stating his motives and interests in AI programming and machine-ruled systems.    
   
 ![[trump-musk02.webp]]  
 <figcaption>Kevin Dietsch/Getty Images</figcaption>  
   
-The all-automated, machine-centred and efficiency-driven future depicted in cyberpunk dystopiae is actually the present we are building (Mhalla, 2025). Only, cyberpunk isn’t just a skin-pack[^38] coating everything in CMYK-saturated colours and body implants, it comes with an ideology, politics. That ideology is now being more and more embodied by GenAI tools and platforms, as Asma Mhalla points out: “Les *mass technologies* sont devenues l’infrastructure cognitive, sociale et politique du nouveau régime. […] Nous avons basculé dans l’univers cyberpunk au moment exact où ces hypertechnologies ont cessé d’être des outils pour devenir l’environnement qui nous fabrique.”[^39] (Mhalla, 2025, p. 98).  
+The all-automated, machine-centred and efficiency-driven future depicted in cyberpunk dystopiae is actually the present we are building (Mhalla, 2025). Only, cyberpunk isn’t just a skin-pack[^39] coating everything in CMYK-saturated colours and body implants, it comes with an ideology, politics. That ideology is now being more and more embodied by GenAI tools and platforms, as Asma Mhalla points out: “Les *mass technologies* sont devenues l’infrastructure cognitive, sociale et politique du nouveau régime. […] Nous avons basculé dans l’univers cyberpunk au moment exact où ces hypertechnologies ont cessé d’être des outils pour devenir l’environnement qui nous fabrique.”[^40] (Mhalla, 2025, p. 98).  
   
-In my own professional life, while working on the french translation for [howtotrainyourchatbot.com](https://howtotrainyourchatbot.com), a LLM explainer built by Decifer Studio[^40], I came across the phrase: “You will see a question with two answer options generated by the model, and pick what you think is the better answer. Real chatbots similarly learn patterns from thousands of choices made by humans, often workers hired for this task. What counts as 'better' depends on who's deciding.” (Decifer Studio, 2026) and that made me think that political tyranny is reenacted on every corner of the web space. The people behind GenAI ideology are the same that rule the web (by having the most seats at the World Wide Web Consortium (W3C)[^41] for example), so they have all the power to enforce their bots in every tool and web service we use. Ultimately, we realise that they are also the same people that rule the world.    
+In my own professional life, while working on the french translation for [howtotrainyourchatbot.com](https://howtotrainyourchatbot.com), a LLM explainer built by Decifer Studio[^41], I came across the phrase: “You will see a question with two answer options generated by the model, and pick what you think is the better answer. Real chatbots similarly learn patterns from thousands of choices made by humans, often workers hired for this task. What counts as 'better' depends on who's deciding.” (Decifer Studio, 2026) and that made me think that political tyranny is reenacted on every corner of the web space. The people behind GenAI ideology are the same that rule the web (by having the most seats at the World Wide Web Consortium (W3C)[^42] for example), so they have all the power to enforce their bots in every tool and web service we use. Ultimately, we realise that they are also the same people that rule the world.    
   
 ![[train-chatbot.png]]  
 <figcaption><a href="howtotrainyourchatbot.com">https://howtotrainyourchatbot.com</a></figcaption>  
@@ -365,7 +375,7 @@ Researches show the power and influence of social media on political opinions (S
 In a nutshell, what used to be science-fiction is slowly becoming reality, wrapped under a sparkly ✨ veil. Politicians and Silicon Valley billionaires are feeding us a story, except this one doesn’t even bother to let us chose between the blue or the red pill.     
 Cyberpunk is a story, that is how it started.    
 Fascism is also a story. At least, according to Katika Kühnreich.    
-In her talk All sorted by machines of loving grace? for in 39C3[^42], she said:  
+In her talk All sorted by machines of loving grace? for in 39C3[^43], she said:  
 > “Stories can help us, give us guidelines, hope. Can make us believe that if we follow that story's rules, everything will be easy. But we have to be careful what kind of stories we believe in.    
 > Because fascism is a story. And sometimes it's very well told.     
 > And cybernetics is a story as well. A mechanical fairy tale.” (Kühnreich, 2025)  
@@ -375,7 +385,7 @@ To me, this is also exactly what cybernetics do by trying to give life to scienc
   
 In Weird Economies’ podcast The Exploits of Play, writer Vicky Osterweil also describes fascism as a story. She explains that fascism turns facts into stories to serve their agenda. “For the fascists the only game is power ultimately the fun that they have is the expression of power.” (Haiven and Harvey, 2025). For that reason, they deliver discourses without meaning, always counting on ambiguity and abstraction; they build their entire image on “fantasies of domination and power”, never acknowledging that power is a relationship – one cannot have power if that power is not over someone or something else.  
 She also shows how gamification became a tool, leaving people not even feeling they’re playing a game. It is the same gaslighting principle that GenAI uses.     
-Additionally, Osterweil describes fascism as “fun without pleasure” and explains why pleasure and joy are actually the “space of encounter for organising – if you can organise a DnD[^43] encounter, you can organise a movement”. (Haiven and Harvey, 2025).    
+Additionally, Osterweil describes fascism as “fun without pleasure” and explains why pleasure and joy are actually the “space of encounter for organising – if you can organise a DnD[^44] encounter, you can organise a movement”. (Haiven and Harvey, 2025).    
 We are now at a time to create rebel coalitions. To reclaim the web and the sense of community, as a counter-action to GenAI and fascism advocates.  
 This is, as I observe, why indie web practices are getting more and more popular. More and more people leave mass social media to join the fediverse, through BlueSky or Mastodon for example. More and more events put federation, community building and alternative tools as their central focus `give examples`  
   
@@ -400,7 +410,7 @@ As shown through the example of GenAI design, the web has become more and more f
 As Maria Farrell and Robin Berjon wrote in their article We Need to Rewild the Internet, “For tech giants, the long period of open internet evolution is over. Their internet is not an ecosystem. It’s a zoo.” (Farrell and Berjon, 2024), meaning that everything is categorised and ordered, zoo cages being a good analogy for the grid templates offered by WYSIWYG website builders, taking agency away from the people.    
 By leaving this “experience” behind to actually focus on people, we can regain agency, obtain better personal control and independence.   
   
-2. Cast your mind back to childhood[^44]    
+2. Cast your mind back to childhood[^45]    
 Totalitarian systems compel us and push us to find purpose, to have a reason, a use for everything we say and make. That’s also the principle of design; art with an applied function, and I find that terribly sad. It always made me feel like an outcast, because sometimes it is very nice to do things because we appreciate them or because they ‘feel right’.     
 As Johan Huizinga demonstrates in his book Homo Ludens, play is an inherent part of life and losing playfulness gives way to seriousness, leading to extreme political situations (Huizinga, 1955). Meaning that, in order to fight those political crises, we need to embrace playfulness.  Here is what I propose: let’s embrace the useless, for the sake of fun; let’s embrace the goofy that makes us feel good; let’s embrace each other, to build long-lasting communities and help each other in tending our gardens.    
 We have to embrace that playfulness in order to create a basis for new ideas to spring. Combining play and uselessness, we drop expectations and stereotypes imposed by society and let our imagination wander.   
@@ -410,9 +420,9 @@ For the rebellion to happen, we need to connect, share, link. Gather in magic ci
 The web is fantastic for it is “for everyone”, as Tim Berners-Lee and so many others said and (will) keep saying. To maintain the web as a people-based platform, in the sense that it is made by and for the people, we, webcrafters and citizens of the small/slow/indie/… web need to advocate together for a return of the people as creators and not consumers. That way only we can stop this vicious doom-scrolling cycle that is “removing us from what meaningful intimacy & community felt like.” (Desroches, 2026).    
 By coding, sharing and caring for our personal corners of the web, we might very well end up weaving and nurturing relationships, links. As the web was intended for. And by nurturing, we may enlarge the community, and reverse the tendencies, at least for a time.   
   
-To recreate an environment prone to uncensored self-expression and community-building, we must observe how they came to be in the first place. Through spontaneity. This urge to engage in an action without having our brain processed it yet. This very spontaneity brings along a sense of silliness, for it might create quiproquos or absurd situations. So this is indeed what we must nurture for now, so it can grow again and disturb the all-powerful flex-box[^45].  
+To recreate an environment prone to uncensored self-expression and community-building, we must observe how they came to be in the first place. Through spontaneity. This urge to engage in an action without having our brain processed it yet. This very spontaneity brings along a sense of silliness, for it might create quiproquos or absurd situations. So this is indeed what we must nurture for now, so it can grow again and disturb the all-powerful flex-box[^46].  
   
-Many web crafters are coming forward, offering new experimental web tools to play with. This is the case of wwwobble.com (fig.), zuckgotmefor.com (fig.), neal.fun (fig.) or gradient.horse (fig.).    
+Many web crafters are coming forward, offering new experimental web tools to play with. This is the case of wwwobble.com, zuckgotmefor.com, neal.fun or gradient.horse.    
 ￼￼  
 <figure>  
 <img src="wwwobble.png">  
@@ -426,7 +436,7 @@ Many web crafters are coming forward, offering new experimental web tools to pla
   
 Those sites bear different amounts of usefulness, that could be interpreted through different lenses. What they do all share is a certain distance from gridified, rigid, compliant websites (referring to the W3C standards), and a desire to embrace “fun”.  
   
-Daniel Murray is a key actor in this field, but he is far from being alone. As mentioned in chapter one, the indie web movement *is* what it is; a movement. This means it is held by a, or several, communities. As a result, a plethora of articles and blog entries focus on its principles and ethics[^46]. It is the case of writer and designer Henry Desroches who published recently A website to end all websites. This manifesto-poetry-like webpage depicts similar issues as the ones I pointed here. It is an ode to personal websites, that Desroches describes as “a staunch undying answer to everything the corporate and industrial web has taken from us.” (Desroches, 2026).  
+Daniel Murray is a key actor in this field, but he is far from being alone. As mentioned in chapter one, the indie web movement *is* what it is; a movement. This means it is held by a, or several, communities. As a result, a plethora of articles and blog entries focus on its principles and ethics[^47]. It is the case of writer and designer Henry Desroches who published recently A website to end all websites. This manifesto-poetry-like webpage depicts similar issues as the ones I pointed here. It is an ode to personal websites, that Desroches describes as “a staunch undying answer to everything the corporate and industrial web has taken from us.” (Desroches, 2026).  
   
 To conclude this point, I’ll explain why I titled it “Follow the white rabbit”. This chapter is about cyberpunk aesthetics, ideological manipulation and using amazement, spontaneity and absurdity to fight back. In the first Matrix movie (Wachowski Sisters, 1999), the reference to Alice’s Adventures in Wonderland is made clear, when Neo is prompted to follow the white rabbit. The resources and practices described in the second part of the chapter can also take inspiration from Alice’s universe, and often does in my opinion. Hence the title.  
   
@@ -442,7 +452,10 @@ To conclude this point, I’ll explain why I titled it “Follow the white rabbi
 ```  
   
 ## CONCLUSION  
-`<!-- Something about getting back to doing things a certain way because we want to, and not because it will please an algorithm of fade in the crowd. Starting ti put intention back. -->`  
+```  
+<!-- Something about getting back to doing things a certain way because we want to, and not because it will please an algorithm of fade in the crowd. Starting ti put intention back.  
+++ make point: not about nostalgia of something I didn't experience, more about a new form of it, that is the least exclusionary possible -->  
+```  
 By observing the web as craft, we can reconnect to what makes it so rich, we can make it a space to express our differences, highlight our cultures and beliefs, out humanity.    
 Just as play is inherent to both humans and animals, the web can be that space beyond borders. If we gather around the intention, we might just find a way to act towards this goal.  
   
@@ -466,7 +479,7 @@ I am the Wicked Witch of the World Wide Web.
 ```  
   
   
-[^1]: [https://kirayana.codeberg.page/reves-party](https://kirayana.codeberg.page/reves-party)  
+[^1]:   
   
 [^2]: “Single source publishing (sometimes written single-source publishing) is both a method and a principle; it is the use of a single file or set of files to produce many finished written artifacts in a variety of formats.” (Blanc and Haute, 2018; quoted in Fauchié and Audin, 2023.)  
   
@@ -532,28 +545,30 @@ I am the Wicked Witch of the World Wide Web.
   
 [^33]: See: https://wwwobble.org/; https://kitten.small-web.org/; https://w.club1.fr/; https://zonelets.net/; https://home.omg.lol/; https://my.public.monster/  
   
-[^34]: See: Farrell and Berjon, 2024. Mandeville, 2016. Murray (no date). White, 2024. White, 2017. Zuckerman, 2025. and Appendix …   
+[^34]: as explained by Noemi Garay Murcia in her essay for Error 417 Expectation Failed (Garay Murcia, 2026).  
+[^35]: See: Farrell and Berjon, 2024. Mandeville, 2016. Murray (no date). White, 2024. White, 2017. Zuckerman, 2025. and Appendix …   
   
-[^35]: I decided for that reference before Cory Doctorow published his blog’s 20 years anniversary post, in which he defends his use of a LLM to help him proofread his blog articles; a practice I do not align with morally (https://pluralistic.net/2026/02/19/now-we-are-six/#stock-buyback). However, for the sake of my point, I decided to keep that reference and add this disclaimer. For a deeper explanation of why I disagree, read Jürgen Geuter’s blog post: https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/  
+[^36]: I decided for that reference before Cory Doctorow published his blog’s 20 years anniversary post, in which he defends his use of a LLM to help him proofread his blog articles; a practice I do not align with morally (https://pluralistic.net/2026/02/19/now-we-are-six/#stock-buyback). However, for the sake of my point, I decided to keep that reference and add this disclaimer. For a deeper explanation of why I disagree, read Jürgen Geuter’s blog post: https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/  
   
-[^36]: In their research, they interviewed various designers that remained anonymous and were attributed the letter P (for participant) and a number as an identifier.  
+[^37]: In their research, they interviewed various designers that remained anonymous and were attributed the letter P (for participant) and a number as an identifier.  
   
-[^37]: Examples are: Matrix (1999), Cyberpunk: 2077 (2024), Blade Runner (1982), Ghost in the Shell (1995)  
+[^38]: Examples are: Matrix (1999), Cyberpunk: 2077 (2024), Blade Runner (1982), Ghost in the Shell (1995)  
   
-[^38]: Expression taken from the video-game jargon; a skin is a decorative, cosmetic element such as an outfit or a charm a player can assign to their avatar.  
+[^39]: Expression taken from the video-game jargon; a skin is a decorative, cosmetic element such as an outfit or a charm a player can assign to their avatar.  
   
-[^39]: “Mass technologies have become the cognitive, social and political infrastructure of the new regime. […] We entered the cyberpunk universe at the exact moment when these hypertechnologies ceased to be tools and became the environment that shapes us.” Translated from French by Kiara Jouhanneau  
+[^40]: “Mass technologies have become the cognitive, social and political infrastructure of the new regime. […] We entered the cyberpunk universe at the exact moment when these hypertechnologies ceased to be tools and became the environment that shapes us.” Translated from French by Kiara Jouhanneau  
   
-[^40]: https://decifer.tech/  
+[^41]: https://decifer.tech/  
   
-[^41]: The W3C is an international organisation that sits together to set rules, standards and constant evolution to the web. The biggest actor are companies such as Google, Apple, Adobe, etc.  
+[^42]: The W3C is an international organisation that sits together to set rules, standards and constant evolution to the web. The biggest actor are companies such as Google, Apple, Adobe, etc.  
   
-[^42]: The 39th Chaos Communication Congress (https://app.media.ccc.de/b/congress/2025)  
+[^43]: The 39th Chaos Communication Congress (https://app.media.ccc.de/b/congress/2025)  
   
-[^43]: Dungeons & Dragons, the famous role-play game from the 1980s.  
+[^44]: Dungeons & Dragons, the famous role-play game from the 1980s.  
   
-[^44]: Borrowed from Vicky Osterweil (Haiven and Harvey, 2025).  
+[^45]: Borrowed from Vicky Osterweil (Haiven and Harvey, 2025).  
   
-[^45]: flex-box is a CSS layout property that allows a somewhat flexible grid layout for a web page. (https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox)  
+[^46]: flex-box is a CSS layout property that allows a somewhat flexible grid layout for a web page. (https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox)  
   
-[^46]: See: Lialina, 2005; Desroches, 2026; Carpenter, 2015; etc.  
+[^47]: See: Lialina, 2005; Desroches, 2026; Carpenter, 2015; etc.  
+  
