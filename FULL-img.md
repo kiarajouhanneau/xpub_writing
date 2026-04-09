@@ -58,9 +58,9 @@ To investigate that hunch, I had to go back into my personal practice and uncove
 | **Playfulness** | - The website is white text on a black screen, the printed booklet is black ink on white paper<br>- Every print is different, CSS-print allowing the continuing of browser animations until one hits “print (ctrl/cmd+p)”              | - The construction of the book itself, inspired by “Choose your own adventure” books<br>- It mimics the visual identity of Wikipedia, showing indexed words as hyperlinks                       | - Also in the titles, since most of them are puns or references to pop culture<br>- The use of the Spanish idiom used as the main title of the zine |  
   
 <figure>  
-<img src="./media/reves.png">  
-<img src="./media/synthetica.png">  
-<img src="./media/crab.png">  
+<img src="THESIS/Final/media/reves.png">  
+<img src="THESIS/Final/media/synthetica.png">  
+<img src="THESIS/Final/media/crab.png">  
 <figcaption>Images credit: Kiara Jouhanneau, 2025</figcaption>  
 </figure>  
   
