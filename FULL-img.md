@@ -38,17 +38,16 @@ This research presents magic as a process: intuition → intention → action. T
 This paper begins by approaching the web through the lens of craft, in order to uncover the ways in which it can be magical, both according to the above definition and in regard to a more practical, traditional magic.    
 After on, it dives into the topic of generative artificial intelligence, templatisation and the corporate web.    
 Ultimately, from that observation, I offer ways to use the magic of web as a means of resistance in the age of automation, templatisation and a political context of rising and globalising fascism.  
-  
-  
-*“So, please, be an adult, like stories, but do not confuse them with reality and be an adult, break something to make it stop. And have fun doing it. This is a duty you can do with others. There is no rule that anti-fascism can't be danced.”* — Katika Kühnreich, All Sorted by Machine of Loving Grace?, 2025  
 -->  
 ```  
+  
+*“So, please, be an adult, like stories, but do not confuse them with reality and be an adult, break something to make it stop. And have fun doing it. This is a duty you can do with others. There is no rule that anti-fascism can't be danced.”* — Katika Kühnreich, All Sorted by Machine of Loving Grace?, 2025  
   
 ---  
 ## INTRODUCTION  
 It all started with a hunch: the web bears magic. Many have questioned the relevance of that word in that context, and I am not entirely sure myself that “magic” is appropriate. But so far, it has been fine to go along with it.    
 To investigate that hunch, I had to go back into my personal practice and uncover a truth I’ve always been aware of, but that finally found its meaning. In every project that I built and am building, 3 common aspects are always there: politics, language and playfulness. They are always intertwined and communicating, in one way or another. Let me illustrate some examples:  
-1. *Rêves Party*[^1], my first single-source publishing[^2] project, a collection of texts, connected through dream, travel, time.  
+1. *Rêves Party*<sup class="note">[https://kiarajou.codeberg.page/reves-party]</sup>, my first single-source publishing<sup class="note">[“Single source publishing (sometimes written single-source publishing) is both a method and a principle; it is the use of a single file or set of files to produce many finished written artifacts in a variety of formats.” (Blanc and Haute, 2018; quoted in Fauchié and Audin, 2023.)]</sup> project, a collection of texts, connected through dream, travel, time.  
 2. *Synthetica*, a work in progress, gathering writings about Generative AI (GenAI) and visual arts.  
 3. *Thinking about the immortality of the crab*[^3], one of my latest zines, made during Special Issue 27: See you many times (XPUB Rotterdam, 2025).  
   
@@ -457,8 +456,8 @@ By coding, sharing and caring for our personal corners of the web, we might very
   
 To recreate an environment prone to uncensored self-expression and community-building, we must observe how they came to be in the first place. Through spontaneity. This urge to engage in an action without having our brain processed it yet. This very spontaneity brings along a sense of silliness, for it might create quiproquos or absurd situations. So this is indeed what we must nurture for now, so it can grow again and disturb the all-powerful flex-box[^46].  
   
-Many web crafters are coming forward, offering new experimental web tools to play with. This is the case of wwwobble.com, zuckgotmefor.com, neal.fun or gradient.horse.    
-￼￼  
+Many web crafters are coming forward, offering new experimental web tools to play with. This is the case of wwwobble.com, zuckgotmefor.com, neal.fun or gradient.horse.  
+  
 <figure>  
 	<div class="inner-fig">  
 		<img src="./media/wwwobble.png">  
