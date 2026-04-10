@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="70mm"
+   viewBox="0 0 150 70"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <style
+     id="style6">
+#text1-3-0 { 
+}
+</style>
+  <defs
+     id="defs1">
+    <color-profile
+       name="FOGRA29L-Uncoated"
+       xlink:href="file:///usr/share/color/icc/colord/FOGRA29L_uncoated.icc"
+       id="color-profile1" />
+    <marker
+       style="overflow:visible"
+       id="marker5"
+       refX="-1"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1.1"
+       markerHeight="1.1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded"
+       refX="-1"
+       refY="0"
+       orient="auto"
+       markerWidth="1.1"
+       markerHeight="1.1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2" />
+    </marker>
+    <color-profile
+       name="FOGRA28L-Web-Coated"
+       xlink:href="file:///usr/share/color/icc/colord/FOGRA28L_webcoated.icc"
+       id="color-profile2" />
+    <rect
+       x="132.14471"
+       y="302.65405"
+       width="149.23332"
+       height="38.766548"
+       id="rect1-0" />
+    <rect
+       x="132.14471"
+       y="302.65405"
+       width="91.083168"
+       height="36.910694"
+       id="rect1-0-8" />
+    <rect
+       x="132.14471"
+       y="302.65405"
+       width="107.78587"
+       height="37.529312"
+       id="rect1-0-9" />
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g11"
+       transform="translate(0.26458327,0.14058407)">
+      <g
+         id="g8"
+         transform="translate(0.90656212,-2.6458334)">
+        <rect
+           style="fill:#e1c7eb;fill-opacity:0.5;stroke-width:1.20063"
+           id="rect6-6"
+           width="26.639494"
+           height="11.14567"
+           x="61.680252"
+           y="4.8659539" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,27.987107,-74.10706)"
+           id="text1-3-2"
+           style="font-size:13.3333px;line-height:130%;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow, Normal';font-variant-ligatures:discretionary-ligatures;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-0-8);display:inline;fill:#000000"
+           x="42.184139"
+           y="0"><tspan
+             x="137.54991"
+             y="314.78447"
+             id="tspan8"><tspan
+               style="font-family:Monospace;-inkscape-font-specification:Monospace"
+               id="tspan7">idea/spark
+</tspan></tspan><tspan
+             x="133.53624"
+             y="332.67464"
+             id="tspan10"><tspan
+               style="font-family:Monospace;-inkscape-font-specification:Monospace"
+               id="tspan9">(intuition)</tspan></tspan></text>
+      </g>
+      <g
+         id="g7"
+         transform="translate(-2.1753224,10.944041)">
+        <rect
+           style="fill:#e1c7eb;fill-opacity:0.5;stroke-width:1.32529"
+           id="rect6-7"
+           width="32.458447"
+           height="11.14567"
+           x="24.36619"
+           y="45.409" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-14.110291,-33.688898)"
+           id="text1-3"
+           style="font-size:13.3333px;line-height:130%;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow, Normal';font-variant-ligatures:discretionary-ligatures;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-0);display:inline;fill:#000000"
+           x="42.184139"
+           y="0"><tspan
+             x="162.61144"
+             y="314.78447"
+             id="tspan12"><tspan
+               style="font-family:Monospace;-inkscape-font-specification:Monospace"
+               id="tspan11">realisation
+</tspan></tspan><tspan
+             x="150.57045"
+             y="332.67464"
+             id="tspan14"><tspan
+               style="font-family:Monospace;-inkscape-font-specification:Monospace"
+               id="tspan13">(physical act)</tspan></tspan></text>
+      </g>
+      <g
+         id="g6"
+         transform="translate(7.4730716,10.944041)">
+        <rect
+           style="fill:#e1c7eb;fill-opacity:0.5;stroke-width:1.28774"
+           id="rect6"
+           width="30.645"
+           height="11.14567"
+           x="89.161568"
+           y="45.409" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,55.261916,-33.564014)"
+           id="text1-3-0"
+           style="font-size:13.3333px;line-height:130%;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow, Normal';font-variant-ligatures:discretionary-ligatures;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-0-9);display:inline"
+           x="42.184139"
+           y="0"><tspan
+             x="149.91415"
+             y="314.78447"
+             id="tspan16"><tspan
+               style="font-family:Monospace;-inkscape-font-specification:Monospace"
+               id="tspan15">intention
+</tspan></tspan><tspan
+             x="133.85951"
+             y="332.67464"
+             id="tspan18"><tspan
+               style="font-family:Monospace;-inkscape-font-specification:Monospace"
+               id="tspan17">(formulation)</tspan></tspan></text>
+      </g>
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.814281;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ArrowWideRounded);marker-mid:url(#marker5)"
+         id="path1"
+         cx="75.906563"
+         cy="41.247471"
+         r="23.116255" />
+    </g>
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="" />
+    </rdf:RDF>
+  </metadata>
+</svg>
