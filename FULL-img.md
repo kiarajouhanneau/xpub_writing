@@ -70,8 +70,7 @@ Let me explain further their relevance to my initial hunch about the web’s con
 - Both the web and magic share a certain playfulness  
 	- The web is a great place to experiment, mess around, various browser extensions offer ways to customise and play around with websites, such as the one Doriane Timmermans brought to our course<sub clas="note">[Artist and researcher based in Bruxelles; she explores the materiality of the web, and more precisely of the CSS language, in her research project declarations. (<a href="https://declarations.style">https://declarations.style/</a>)]</sub> and which gave birth to the Supervisual Hyperzine in 2025 (see appendix 2.a). It is a huge playground.   
 	- Magic, as I envision it, brings up a certain curiosity, an urge to experiment with it in order to make it ours. In my mind, magic is a process that involves, requires a connection and listening to our own emotions and feelings, to acknowledge what is within ourselves as much as what lies in our surroundings. The process is the following:     
-  
-![Images credit: Kiara Jouhanneau, 2026.](./THESIS/Final/media/print/cycle.svg)  
+![Images credit: Kiara Jouhanneau, 2026.](./THESIS/Final/media/print/cycle.png)  
   
 Now that this is cleared out, let me introduce the core of my research: I intend to seek how, in a world, ruled by seamlessness, polished Instagram feeds and machine-generated content, can we respond to a hyper-marketable web space and (re)shape this space by embracing the useless, reconnecting to the fun and reclaiming our singularity?    
 `<!-- REWRITE THE WHOLE QUESTION WHEN WRITING IS DONE -->`  
