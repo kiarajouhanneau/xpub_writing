@@ -4,7 +4,7 @@ author:
   - Kiara Jouhanneau
 description: The latest working document!!
 created: 2026-03-27
-word-count: 9959
+word-count: 9503
 word-goal: 8000
 share: true
 ---
@@ -45,166 +45,205 @@ Ultimately, from that observation, I offer ways to use the magic of web as a mea
 *“So, please, be an adult, like stories, but do not confuse them with reality and be an adult, break something to make it stop. And have fun doing it. This is a duty you can do with others. There is no rule that anti-fascism can't be danced.”* — Katika Kühnreich, All Sorted by Machine of Loving Grace?, 2025  
   
 ## INTRODUCTION  
-It all started with a hunch: the web bears magic. Many have questioned the relevance of that word in that context, and I am not entirely sure myself that “magic” is appropriate. But so far, it has been fine to go along with it.    
-To investigate that hunch, I had to go back into my personal practice and uncover a truth I’ve always been aware of, but that finally found its meaning. In every project that I built and am building, 3 common aspects are always there: politics, language and playfulness. They are always intertwined and communicating, in one way or another. Let me illustrate some examples:  
-1. *Rêves Party*<sub class="note">[<a href="https://kiarajou.codeberg.page/reves-party">https://kiarajou.codeberg.page/reves-party</a>]</sub>, my first single-source publishing<sub class="note">[“Single source publishing (sometimes written single-source publishing) is both a method and a principle; it is the use of a single file or set of files to produce many finished written artifacts in a variety of formats.” (Blanc and Haute, 2018; quoted in Fauchié and Audin, 2023.)]</sub> project, a collection of texts, connected through dream, travel, time.    
-![Kiara Jouhanneau, Rêves Party, 2024 (first print: 2021), booklet.](./THESIS/Final/media/reves.png)  
-2. *Synthetica*, a work in progress, gathering writings about Generative AI (GenAI) and visual arts.    
-![Kiara Jouhanneau, Synthetica, 2025 (first print: 2023), book.](./THESIS/Final/media/synthetica.png)  
-3. *Thinking about the immortality of the crab*<sub class="note">[<a href="https://pzwiki.wdka.nl/mediadesign/User:Kiara/Special_Issue_27/Time_is_not_my_friend">https://pzwiki.wdka.nl/mediadesign/User:Kiara/Special_Issue_27/Time_is_not_my_friend</a>]</sub>, one of my latest zines, made during Special Issue 27: See you many times (XPUB Rotterdam, 2025).    
-![Kiara Jouhanneau, Thinking about the immortality of the crab, 2025, zine.](./THESIS/Final/media/crab.png)  
+It all started with a hunch: the web bears magic. Many have questioned the relevance of that word in that context, and I am not entirely sure myself that “magic” is adequate. But so far, it has been fine to go along with it.    
+To investigate that hunch, I had to go back into my personal practice and uncover a truth I’ve always been aware of, but that finally found its meaning. In every project that I built and am building, 3 common aspects are always there: politics, language and playfulness. Here are some examples:  
+1. <u>Rêves Party</u><sub class="note">[<a href="https://kiarajou.codeberg.page/reves-party">https://kiarajou.codeberg.page/reves-party</a>]</sub>, my first single-source publishing project, a collection of texts, connected through dream, travel, time<sub class="note">[“Single source publishing (sometimes written single-source publishing) is both a method and a principle; it is the use of a single file or set of files to produce many finished written artifacts in a variety of formats.” (Blanc and Haute, 2018; quoted in Fauchié and Audin, 2023.)]</sub>.  
+<figure>  
+<img src="./media/reves.png">  
+<figcaption>Kiara Jouhanneau, Rêves Party, 2024 (first print: 2021), booklet.</figcaption>  
+</figure>  
+2. <u>Synthetica</u>, a work in progress, gathering writings about Generative AI (GenAI) and visual arts.  
+<figure>  
+<img src="./media/synthetica.png">  
+<figcaption>Kiara Jouhanneau, Synthetica, 2025 (first print: 2023), booklet.</figcaption>  
+</figure>  
+3. <u>Thinking about the immortality of the crab</u><sub class="note">[<a href="https://pzwiki.wdka.nl/mediadesign/User:Kiara/Special_Issue_27/Time_is_not_my_friend">https://pzwiki.wdka.nl/mediadesign/User:Kiara/Special_Issue_27/Time_is_not_my_friend</a>]</sub>, one of my latest zines, made during Special Issue 27: See you many times (XPUB Rotterdam, 2025).  
+<figure>  
+<img src="./media/crab.png">  
+<figcaption>Kiara Jouhanneau, Thinking about the immortality of the crab, 2025, zine.</figcaption>  
+</figure>  
   
-|                 | Rêves Party                                                                                                                                                                                                                            | Synthetica                                                                                                                                                                                         | Thinking about he Immortality of the Crab                                                                                                           |  
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |  
-| **Politics**    | - Born as a response to COVID lock-down measures in France, closing all cultural places to visitors<br>- Attention in curating only texts pertaining to french literature                                                              | - GenAI is more an ideology than a proper technology (as explained by Khrys, a french tech researcher (2025)) <br>- The curation of texts is based on texts highlighting the dangers and downsides | - It is about time and how it is a social construct, with some reflections and personal opinions on society related to time                         |  
-| **Language**    | - Research topic associated to that project: How is the word (as a main language component) used for playing and experimenting purposes?<br>- Words are central and highlighted through carefully imagined animations and interactions | - Again central, the whole book revolves around a thematic index of precisely chosen terms                                                                                                         | - The titles used for the different sections reference subtly the topic <br>- Some reflections on time-based expressions and idioms                 |  
-| **Playfulness** | - The website is white text on a black screen, the printed booklet is black ink on white paper<br>- Every print is different, CSS-print allowing the continuing of browser animations until one hits “print (ctrl/cmd+p)”              | - The construction of the book itself, inspired by “Choose your own adventure” books<br>- It mimics the visual identity of Wikipedia, showing indexed words as hyperlinks                          | - Also in the titles, since most of them are puns or references to pop culture<br>- The use of the Spanish idiom used as the main title of the zine |  
+|                 | Rêves Party                                                                                                                                                                                                               | Synthetica                                                                                                                                                                | Thinking about he Immortality of the Crab                                                                                                           |  
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |  
+| **Politics**    | - Born as a response to COVID lock-down measures in France, closing all cultural places to visitors<br>- Attention in curating only texts pertaining to French literature                                                 | - GenAI is more an ideology than a proper technology (Khrys, 2025) <br>- The text curation is based on highlighting its dangers and downsides                             | - It is about time and how it is a social construct, with some reflections and personal opinions on society related to time                         |  
+| **Language**    | - Research topic: How is the word (as a main language component) used for playing and experimenting purposes?<br>- Words are central and highlighted through carefully imagined animations and interactions               | - Again central, the whole book revolves around a thematic index of thoroughly chosen terms                                                                               | - The titles used for the different sections reference subtly the topic <br>- Some reflections on time-based expressions and idioms                 |  
+| **Playfulness** | - The website is white text on a black screen, the printed booklet is black ink on white paper<br>- Every print is different, CSS-print allowing the continuing of browser animations until one hits “print (ctrl/cmd+p)” | - The construction of the book itself, inspired by “Choose your own adventure” books<br>- It mimics the visual identity of Wikipedia, showing indexed words as hyperlinks | - Also in the titles, since most of them are puns or references to pop culture<br>- The use of the Spanish idiom used as the main title of the zine |  
+  
 Once I laid this truth about my work, I knew my research would revolve around politics, language and playfulness.     
-Let me explain further their relevance to my initial hunch about the web’s connection to magic.    
+Let me explain further their relevance to my initial hunch about the web’s connection to magic.  
 - Both the web and magic are political  
-	- The web is a space for expression and expression is political as it carries opinions, moreover it has also become a preferred space and tool for political parties to advertise, gain voters and campaign<sub class="note">[See Bougerol, 2026 or Lewis, 2021 or Lewis, 2020.]</sub>.   
-	- A great part of magic history is about fighting repression; think of witches hunts, and more globalised discrimination associating women, people of colour, redheads, and many more to evil magic or curse-bound (Lovelace, 2022). I personally picture magic as a huge reclaiming force.   
+	- The web is a space for expression and expression is political as it carries opinions, moreover it has also become a preferred space and tool for political parties to advertise, gain voters and campaign (Bougerol, 2026; Lewis, 2020; Lewis, 2021).   
+	- A great part of magic history is about fighting repression; think of witches hunts, and more globalised discrimination associating women, people of colour, redheads, and many more to evil magic or curse-bound (Lovelace, 2022).  
 - Both the web and magic rely on language  
 	- The web is built by language as in programming languages, but also for all it bears; forums, blogs, etc., a lot of web spaces revolve around writing, therefore language.   
 	- Magic, in most of its crafted forms, is also built and relying on language: runes, spells, potions, are written and might be voiced out, and if you miss-pronounce or miss-recite a spell, it might go extremely wrong…  
 - Both the web and magic share a certain playfulness  
-	- The web is a great place to experiment, mess around, various browser extensions offer ways to customise and play around with websites, such as the one Doriane Timmermans brought to our course<sub clas="note">[Artist and researcher based in Bruxelles; she explores the materiality of the web, and more precisely of the CSS language, in her research project declarations. (<a href="https://declarations.style">https://declarations.style/</a>)]</sub> and which gave birth to the Supervisual Hyperzine in 2025 (see appendix 2.a). It is a huge playground.   
-	- Magic, as I envision it, brings up a certain curiosity, an urge to experiment with it in order to make it ours. In my mind, magic is a process that involves, requires a connection and listening to our own emotions and feelings, to acknowledge what is within ourselves as much as what lies in our surroundings. The process is the following:     
-![Images credit: Kiara Jouhanneau, 2026.](./THESIS/Final/media/print/cycle.png)  
+	- The web is a great place to experiment, mess around, various browser extensions offer ways to customise and play around with websites, such as the one artist and researcher Doriane Timmermans brought to our course and which gave birth to the <u>Supervisual Hyperzine</u> in 2025 (see appendix 2.a). It is a huge playground.   
+	- Magic, as I envision it, brings up a certain curiosity, an urge to experiment with it in order to make it ours.   
   
-Now that this is cleared out, let me introduce the core of my research: I intend to seek how, in a world, ruled by seamlessness, polished Instagram feeds and machine-generated content, can we respond to a hyper-marketable web space and (re)shape this space by embracing the useless, reconnecting to the fun and reclaiming our singularity?    
-`<!-- REWRITE THE WHOLE QUESTION WHEN WRITING IS DONE -->`  
+In my mind, magic is a process that involves, requires a connection and listening to our own emotions and feelings, to acknowledge what is within ourselves as much as what lies in our surroundings. The process is the following:     
+<figure>  
+<img src="./media/print/cycle.png">  
+<figcaption>Images credit: Kiara Jouhanneau, 2026.</figcaption>  
+</figure>  
+  
+Now that this is cleared out, let me introduce the core of my research: I intend to seek how, in a world ruled by seamlessness, polished Instagram feeds and machine-generated content, can we respond to a hyper-marketable web space and (re)shape this space by embracing the useless, reconnecting to the fun and reclaiming our singularity?    
   
 To answer that question, I intend to decipher some layers of the web:   
-- the web as a craft – to build it, care for it, share it – and its enchanted corners;   
-- the seamless polished web, ruled by performance and disappearance – mass over individual, loss of identity –;   
-- the fun web, or how leaning towards the craft is how we fight back against the seamlessness.  
+- [The Spell (chapter 1)] Through poetry, intention and crafting, it unveils what I found to be the most beautiful and humane part of the web. This chapter observes the web as a craft and its enchanted corners;   
+- [The Curse (chapter 2] The seamless polished web, ruled by performance and disappearance – mass over individual, loss of identity. The shift that has been operated on how we create on the web since its takeover by big companies and GenAI lobbyists. This chapter dives into the relationship between politics and the web;   
+- [The Ritual (chapter 3)] The fun web, or how leaning towards the craft is how we fight back against the seamlessness. This chapter calls for deceiving the illusion and reclaiming the web space as a human one, by advocating for uselessness and silliness.  
   
-My spell (chapter one) is connected to the body. Through poetry, intention and crafting, it unveils what I found to be the most beautiful and humane part of the web.    
-The curse (chapter two) is the mass homogenisation of the web, the shift that has been operated on how we create on the web by its take over from big companies and GenAI lobbyists. This chapter dives into the relationship between politics and the web.    
-My ritual (chapter 3) calls for deceiving the illusion and reclaiming the web space as a human one, by advocating for uselessness and silliness.  
-  
-Please sit in your favourite reading spot, and accompany me on this journey.  
+Now, please sit in your favourite reading spot, and accompany me on this journey.  
   
 ## 1. Into the <del>spider</del> web: enchanted crafts  
-It is said that a spider’s web is a prowess in weaving, producing one of the most resistant organic matter in nature. Their patterns are enigmatic, varying between species and can be altered by drugs! (NASA, 1995, p. 82)    
-This is no coincidence that Tim Berners-Lee, after much reflection, ended up calling its invention “the world wide web” (Berners-Lee, 2025, pp. 62-63) and called one of his books Weaving the web.    
-Similarly to the ones of spiders, our web involves craft and singularity.  
+It is said that a spider’s web is a prowess in weaving, producing one of the most resistant organic matter in nature. Their patterns are enigmatic, varying between species and can be altered by drugs! (NASA, 1995, p. 82).    
+This is no coincidence that web inventor Tim Berners-Lee, after much reflection, ended up calling it “the world wide web” (Berners-Lee, 2025, pp. 62-63) and named one of his books <u>Weaving the Web</u>.    
+Similarly to the ones of spiders, our web involves craft and singularity.    
 I wish to start this journey by taking you into this crafty, personal, intention-filled web. To show you how I connect the web to magic.  
   
 ### 1.1 Web-crafting 101  
-From the beginning of the web, Tim Berners-Lee, its inventor, viewed it as a way of connecting all the people of the world together and a great opportunity to expand creativity and imagination (Berners-Lee, 2025).     
-This idea took on quite rapidly, with the first net.artists rising as early as 1994 (the web itself was created in 1989 and made public in 1993!)<sub class="note">[net.art refers to a group of artists who have worked in the medium of Internet art since 1994. […] <br>The term "net.art" is also used as a synonym for net art or Internet art and covers a much wider range of artistic practices. In this wider definition, net.art means art that uses the Internet as its medium and that cannot be experienced in any other way. (<a href="https://en.wikipedia.org/wiki/Net.art">https://en.wikipedia.org/wiki/Net.art</a>)]</sub>  
+From the beginning Berners-Lee viewed the web as a way of connecting all the people of the world together and a great opportunity to expand creativity and imagination (Berners-Lee, 2025).     
+This idea took on quite rapidly, with the first net.artists rising as early as 1994 (the web itself was created in 1989 and made public in 1993!)<sub class="note">[“net.art refers to a group of artists who have worked in the medium of Internet art since 1994. […] <br>The term "net.art" is also used as a synonym for net art or Internet art and covers a much wider range of artistic practices. In this wider definition, net.art means art that uses the Internet as its medium and that cannot be experienced in any other way.” (Wikipedia, 2025a)]</sub>.  
   
-Net.artists saw the potential of hyperlinks and inter-connectivity to create. In 2011, when HTML5 launched and eliminated `<frame>` elements<sub class="note">[“The <code>&lt;frame&gt;</code> HTML element defines a particular area in which another HTML document can be displayed. A frame should be used within a <code>&lt;frameset&gt;</code>.” (MDN)]</sub>, Olia Lialina, a net.art pioneer<sub class="note">[Though often referred to as one of the net.art movement’s pioneer, it is important to note that in the 1960s, a lot of projects were already tackling what would become HTML, and the OuLiPo groups in France were exploring concepts close to algorithms. (See: History of the World Wide Web (Wikipedia)]</sub> and most active practitioner, told VICE Creators that since her work is often based on what browser developers see as bugs, she has to maintain and adapt, she has to “find new tricks” (Flood, 2011).     
-I believe this is a perfect definition of crafting; inflating life into ideas with the means at our disposal, adapt to change to maintain the unexpected, hack – in the sense of using inappropriate or unexpected means to create or perform an action.    
+Net.artists saw the potential of hyperlinks and inter-connectivity to create. In 2011, when HTML5 launched and eliminated `<frame>` elements<sub class="note">[“The <code>&lt;frame&gt;</code> HTML element defines a particular area in which another HTML document can be displayed.” (MDN)]</sub>, Olia Lialina, a net.art pioneer<sub class="note">[Though often referred to as one of the net.art movement’s pioneer, it is important to note that in the 1960s, a lot of projects were already tackling what would become HTML, and the OuLiPo groups in France were exploring concepts close to algorithms. (Wikipedia, 2026a)]</sub> and most active practitioner, told VICE Creators that since her work is often based on what browser developers see as bugs, she has to maintain and adapt, she has to “find new tricks” (Flood, 2011).    
   
-This notion of ‘unexpected’ is also important for, I believe, the core of craft is intention. A creator of any kind is not simply one that has an idea; turning that idea into reality requires the intention to act, in other words, to link the mind and the body together.    
-Sometimes, the unexpected reveals itself more interesting, inspiring, etc. than the original picture in the creator’s mind, leading them to nurture it. This is how I interpret what Olia Lialina is explaining above: the features she uses to create are seen as bugs, so they get corrected. However, this creates an unexpected turn for Lialina’s pieces, and since she cares about her work, she adapts to find a way to keep them alive; either by recreating the bugs or by using new features brought by the evolution of web languages.    
-In her book Reading Writing Interfaces: From the Digital to the Bookbound, Lori Emerson describes very well that part of experimentation tied to crafts:   
+I believe this is a perfect definition of crafting; inflating life into ideas with the means at our disposal, adapt to change to maintain the unexpected, hack – in the sense of using inappropriate or unexpected means to create or perform an action. This notion of ‘unexpected’ is also important for, I believe, the core of craft is intention. A creator of any kind is not simply one that has an idea; turning that idea into reality requires the intention to act.    
+  
+Sometimes, the unexpected reveals itself more interesting, inspiring, etc. than the original picture in the creator’s mind, leading them to nurture it. This is how I interpret what Olia Lialina is explaining above: the features she uses to create are seen as bugs, so they get corrected. However unexpected, since she cares about her works, she adapts, finds ways to keep them alive.    
+Tim Berners-Lee also created the HTML language. In <u>Weaving the Web</u>, he explains that he never imagined the possibility to “Inspect” every webpage and thus access its code. That he never pictured people actually writing HTML by hand, judging it to be too painful of a task; that what made it popular is its “human readability” (Berners-Lee and Fischetti, 2000, p. 46).   
+  
+The unexpected brought the creation beyond its intended path, giving birth to a craft, to a form of art.    
+In her book <u>Reading Writing Interfaces: From the Digital to the Bookbound</u>, Lori Emerson, professor and founder of the Media Archaeology Lab, describes this process:   
 >“Learning through doing, tinkering, experimentation, trial-and-error is, then, how one comes to have a genuine computer literacy.” (Emerson, 2014).  
   
-Though her point is about computer literacy, I find it to be relevant to any kind of learning.  
+While her point is about computer literacy, I find it to be relevant to any kind of learning.  
   
-Crafts often can be merged together, and the web doesn’t defy this. In an interview for The Orthogonal Bet, professor and researcher Laurel Schwulst told Samuel Arbesman her favourite use of HTML is “when someone knows it well enough to write it with a Sharpie on a piece of paper.” (Arbesman and Schwulst, 2024).    
-Additionally, web creator Tim Berners-Lee happens to also have created the HTML language. In his book Weaving the Web, he explains that he never imagined the possibility to “Inspect” every webpage and thus access its code. That he also never pictured people actually writing HTML by hand, judging it to be too painful of a task; what made it popular is “the human readability of HTML” (Berners-Lee and Fischetti, 2000, p. 46). The unexpected brought the creation beyond its intended path, giving birth to a craft, to a form of art.  
+To me, the importance of web crafting and of its differences from built-in drag-and-drop WYSIWYG (what you see is what you get) website makers is attention and care.    
+Just as any other craft, the one of a website starts with a spark, an idea let’s say. Then, we act upon it to give life to that website. Every choice along the way is ruled by intention(s) and intuition(s), attention and care to detail, to the people/audience, to the website itself.     
   
-I place the importance of web crafting and what differentiates it from built-in drag-and-drop “what you see is what you get” (WYSIWYG) website makers in attention and care. Just as any other craft, the one of a website starts with a spark, an idea let’s say. Then, we act upon it to give life to that website. Every choice along the way is ruled by intention(s) and intuition(s), attention and care to detail, to the people/audience, to the website itself.     
-This is what Raphaël Bastide depicts in his performative piece being a script.     
+This is what artist Raphaël Bastide depicts in his performative piece <u>being a script</u>.     
 > “Before the first line in the diary of my existence, I am nothing. In fact, I am an intention, an empty document, but the air is full of me, I am there in a form that is vaporous, sweet, and naive. I will do everything, sort everything, as if by miracle, I am a formula, an appeal to the divine. Before everything begins, I wait for hands.” (Bastide, 2025).  
   
-![Raphaël Bastide, being a script, 2025, website and performance.](./THESIS/Final/media/being-a-script.png)  
+<figure>  
+<img src="./media/being-a-script.png">  
+<figcaption>Raphaël Bastide, <u>being a script</u>, 2025</figcaption>  
+</figure>  
   
-In a conversation<sub class="note">[See: Appendix 2.b]</sub> we had together, Raphaël told me about the creation process of this piece. How he started writing it during the first months of his newborn child, the role and place taken by the body and physical gestures in this process. He also told me about the reflections at the heart of this creation:   
+In a conversation we had together (Appendix 2.b), Raphaël told me about the creation process of this piece. How he started writing it during the first months of his newborn child and how caring for her reshaped the way he looks at creation itself. He also told me about the reflections at the heart of this particular creation:   
 - a slow lack of interest for technicality that drives choices leaning towards a more human, emotional approach;   
 - (how) can we operate a shift from machine learning technologies that deprive us from our creative capacities?;   
 - a choice to put himself in the public/audience’s shoes in order to let go, to enact a discovery of his own work and evaluate its emotional reach.  
   
-Those questions are all at least partly answered by the notion of caring.  
-  
-Once we have built and decided to (take) care (for/of), we share. In the case of webmaking, sharing may mean sharing the code, the website, the content of the website through this particular medium, a passion, a community.  Sharing is beyond the creator, it is an agreement with the medium: the same creation on different media does not tell the same thing.%% ==STILL UNCLEAR== %% In the case of the web medium, it also means remaining aware that once we individually share something online, it becomes a collectively shareable object. We have no power over the reach of the creation.    
-  
-The web is like an antique forum, the central place of the city, where people share all sorts of ideas. Web forums take their name from it.    
-Sharing, as in creating relations, is inherent to the web, as it is using the Internet protocol, connecting multiple computers (servers) and people together. It is how Tim Berners-Lee made it:   
+Once we have built and decided to (take) care (for/of), we share – whether it be with a close or an extended circle.  
+The web is like an antique forum, the central place of the city, where people share all sorts of ideas. Web forums take their name from it (Wikipedia, 2026b).    
+Sharing, as in interacting, is inherent to the web, for it uses the Internet protocol, connecting multiple computers (servers) and people together. It is how Tim Berners-Lee made it:   
 > “For people to share knowledge, the Web must be a universal space across which all hypertext links can travel. I spend a good deal of my life defending this core property in one way or another.” (Berners-Lee, 1999, p. 176)  
   
-And just as any art form, web crafting and net.art are created with a sharing intention. It can be to share the piece itself as a whole, the technique or medium, or something more abstract or personal, like a message, an idea, a world.  
+In that sense, web crafting and net.art both bear a sharing intention. It can be to share the piece itself as a whole, the technique or medium, or something more abstract or personal, like a message, an idea, a world.   
   
-Sharing, in one of its many meanings, is a deed shared between the web and magic. Traditional magic practices rely on learning and passed on knowledge, this is in my eyes the same process as on the web, with the various community-building practices we can encounter there. The two of those I will focus on are webrings and digital gradens.  
+As my point is observing the magic born by the web, I observe that sharing is also at the core of magic: traditional magic practices rely on learning and passed-on knowledge.  
+  
+I will dive into the magic by focusing on webrings and digital gardens that I observe as social webcrafts.  
   
 ### 1.2 Webrings and digital gardens: where the web becomes *magical*   
-Back in its first years of life, the web did not have today’s “powerful” search engines and discovering new websites was more of a treasure hunt. To compensate for this lacking, web-makers created webrings: a script containing a list of all members and a looping function, interlinking members to one another. Or, as simply described by developer educator Bryan Robinson, “A webring was a circular collection of sites around a similar topic. Each would display a badge of membership. This badge would allow for a user to jump to the next or previous site or find a random site in the ring.” (Robinson, 2019).    
-The topics were broad and undiscriminating: gardening, fantasy, cooking, etc. It allowed visitors to discover other people having the same passions or interests easily.    
-  
-![Examples of webrings.](./THESIS/Final/media/webrings.png)  
-  
-There are various ways to build a webring, suited for both JavaScript experts and beginners, implying that building a webring is more or less in anyone’s reach. In our western “civilised”<sub class="note">[Quotes here indicate that this is how leaders and rulers advertise and depict the society we live in, but it remains a highly subjective vision, that shouldn’t be used as a universal truth.]</sub> society, almost whoever wants to can theoretically craft their own webring, following online tutorials or borrowing a template.    
-Webrings can be seen as a social webcraft, aiming at linking and connecting people together. Every webring comes with a visual element to indicate one is a member of a ring and an invitation to join the ring by pasting some code into one’s website code.    
-  
-![[https://rg-mage.neocities.org/rotterdam](https://rg-mage.neocities.org/rotterdam)](THESIS/Final/media/webring-roos.png)(./THESIS/Final/media/webring-roos.png)  
-  
-For a few years now, webrings are regaining popularity. This revival is linked to a movement of revolt, a common voice rising from the depths of the web: the Web Revival.    
-%% ==ADD INTRO WHAT AND SINCE WHEN== %%    
-As stated by Daniel Murray<sub class="note">[<a href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival</a>]</sub>, “The Web Revival is about reclaiming the technology in our lives and asking what we really want from the tools we use, and the digital experiences we share. […] the Web Revival is about reviving the spirit of openness and fresh excitement that surrounded the Web in its earliest days.” (Melonking, 2022).    
-Most of the Web Revival practices rely on principles such as hand-written code, low-weight websites, F/LOSS<sub class="note">[Free/Libre Open Source Software]</sub> and sharing.     
-The movement is a collection of smaller groups that all advocate for personal websites as a form of expression – opposite to corporate-owned social media platforms – inviting us to care about what we share and how. There is no official guide to *be part of* the Web Revival. As Peter Molnar puts it about the Indie Web, one of the groups: “this is not a step-by-step thing. The owner of a website needs to decide what functionality they want to participate in.” (Molnar, 2021).    
-The Web Revival is modular, for (and therefore) it is mine, yours, ours.    
-Practitioners of the web and researchers affiliated to this movement are for example Miriam Suzanne, CSS working group member, or professor and researcher Laurel Schwulst. They gather communities and bring forth that movement of revolt described above.  
-  
-Another form of social webcraft, also part of the many indie web practices, is digital gardens. In her Brief History & Ethos of the Digital Garden, Maggie Appleton describes them:  
-> “They’re not following the conventions of the ‘personal blog’, as we’ve come to know it. Rather than presenting a set of polished articles, displayed in reverse chronological order, these sites act more like free form, work-in-progress wikis.    
-> A garden is a collection of evolving ideas that aren’t strictly organised by their publication date. They’re inherently exploratory – notes are linked through contextual associations. They aren’t refined or complete – notes are published as half-finished thoughts that will grow and evolve over time. They’re less rigid, less performative, and less perfect than the personal websites we’re used to seeing.” (Appleton, 2021)  
-  
-In that same blogpost, Appleton goes back into history: digital gardens appeared very early on on the web, the first record for the term being Mark Bernstein’s Hypertext Garden in 1998 (Appleton, 2021). Bernstein’s essay has very little correlation to current uses for the term, and “digital gardening” sort of disappeared as a practice for nearly two decades after that. It actually doesn’t become the nurturing and spontaneous practice we know now before 2015. (Appleton, 2021).     
-  
-Reading from Appleton’s description, a digital garden resembles a notebook, accessible for other people to flip through.    
-This analysis brings me to an observation: the practice of webrings is very close to the one of (book) clubs – a gathering of people *around* a shared passion –; the practice of digital gardening takes gardening – an activity highly *centred on* care and patience – as a metaphor for its form.    
-  
-![”The Blue Book”; Tom Critchlow's “Wikifolder”; Nikita Voloboev's “Knowledge Wiki”; Maggie Appleton's “Garden”.](./THESIS/Final/media/gardens.png)  
-  
-— But, Kiara, why is this interesting exactly?     
-Well, it is quite simple really: both webrings and digital gardens rely on physical practices – linked to the senses –, transposed to the web. Almost as if the presence of the body was unconsciously needed by everyone online…    
-Additionally, both are seen as “magical” or enchanting:    
-- “We can return to that place where the web is a place of wonder, where all of us feel that same burning feeling of excitement as we push the web back towards the wonderful, beautiful, joyful place it ought to be.” (White, 2024)  
-- “While revisiting The Jay Archives, I was reminded of how magical webrings felt.” (Scucci, 2025)  
-  
-Ultimately, creating a feeling of amazement for they seem to pertain to an outside world and tend to be poetical or…playful!    
-That merge of poetry and playfulness was actually already explored by Olia Lialina. As described on artsy.net, with her click-to-reveal piece My boyfriend came back from the war, she “wasn’t just translating a story onto the internet, she was telling a story in the language of the web browser”. (The Current Museum, 2013)  
-  
-![Olia Lialina, My Boyfriend Came Back From the War, 1996, web-based interactive fiction. [http://www.teleportacia.org/war/](http://www.teleportacia.org/war/)](THESIS/Final/media/lialina1996.png)(./THESIS/Final/media/lialina1996.png)  
-  
-*Telling a story with the language of the web* – I find this quite beautiful and very *à propos* as we seem to be diving into web poetry.    
-Poetry can be both verbal and visual, and the web proves to be a good medium for that type of expression, giving way to the creation of websites that highlight written poetry, websites that use CSS do depict a poetical atmosphere… and even creators exploring the poetry of HTML and CSS as languages!    
-Doriane Timmermans, artist and researcher based in Brussels, is one of them. Her research project declarations (fig.) is exploring the materiality of CSS as a language.    
-  
-![Doriane Timmermans, declarations, since 2023, artistic research project. [https://declarations.style/](https://declarations.style/)](THESIS/Final/media/declarations.png)(./THESIS/Final/media/declarations.png)  
-  
-Together, we talked about how CSS and spell or ritual writing relate; she said “the CSS selector `:not(:focus):hover` is like an incantation that could be super powerful and bears heavy intentions” (this selector would style an element that is hovered but not focused). We also mentioned browser extensions, especially the ones that “metamorphose the web through a simple CSS formula”<sub class="note">[See: Appendix 2.a]</sub>, uniting, in that sense, magic and hacking.    
-This crossing of practices is not new. Since 2015, artist, researcher and professor Lucile Olympe Haute is experimenting the links and boundaries between the physical, the material and the digital, the virtual. In that context she wrote the Cyberwitches Manifesto (Haute, 2019), itself inspired by a performance she created with friends of hers. This performance, from Lucile’s description, “gathered 4 friends who call themselves ‘witches’ but doing so, implicate very different meanings into that word.” (Haute, 2017). Additionally, Lucile has been hosting workshops all over France and printed several issues of a collective zine called Cybersorcières and designed with web languages, using single-source publishing methods.    
-  
-![Cyberwitches Manifesto performance, 2017; Cybersorcières zines – @cybersorcieres on Instagram.](./THESIS/Final/media/cyberwitches.png)  
-  
 As explained in the introduction of this article, I see magic as a process.    
-![Images credit: Kiara Jouhanneau, 2026.](./THESIS/Final/media/print/cycle.png)  
+<figure>  
+<img src="./media/print/cycle.png">  
+<figcaption>Images credit: Kiara Jouhanneau, 2026</figcaption>  
+</figure>  
+In this process, intention is the key, it is what will make one say certain words, act a certain way. That way, it injects politics in things. To illustrate that a bit more poetically, here is an extract from a song:   
+> “Parler, c’est prendre position. Se taire, c’est prendre position.”<br>(“Speaking up is taking a stand. Silence is taking a stand.”) (Grand Corps Malade et al., 2022).  
   
-In this process, intention is the key, it is what will make one say certain words, act a certain way. It injects politics in things, in the sense that intention is what will make us take action or not. To illustrate that a bit more poetically, here is an extract from a song: “Parler, c’est prendre position. Se taire, c’est prendre position”<sub class="note">[“Speaking up is taking a stand Silence is taking a stand.”]</sub> (Grand Corps Malade et al., 2022).  
+That same intention should be, I believe, at the core of the act of making.  
   
-That same intention should be, I believe, at the core of the act of making. As mentioned earlier, magic is a process and this process can be applied to any aspect of our lives.    
-In that sense, magic is also full of crafting. Additionally, from the most obvious love potion to the most mystical meditation, every practice involves the body (sometimes also one of a channelling person, usually the “magic” person (e.g. fortune teller)) and sometimes even some specific gestures to reproduce or enhance the power of intention.  
+Back in its first years, the web didn’t have today’s “powerful” search engines and discovering new websites was more of a treasure hunt. So, web-makers created webrings. As graphically described by developer educator Bryan Robinson: “A webring was a circular collection of sites around a similar topic. Each would display a badge of membership. This badge would allow for a user to jump to the next or previous site or find a random site in the ring.” (Robinson, 2019).    
   
-We can pull on that rope and reach analogies between web craft and magic craft – referring once again to practices pertaining to ritual/spell casting.   
-- Webrings & magic circles: both use the circle shape and its attributes of constant sharing and flow, thus serving as ways of gathering and performing (magic circles perform a ritual, webrings perform a community).    
-- Digital gardens & books of spells and potions: collections of writings and experimentations that can be passed on and modified through time, acting as recipes, guides and heritage.   
+<figure>  
+<img src="">  
+<figcaption>Code example for a webring</figcaption>  
+</figure>  
   
-They are thus completely made by and for (a) community and involve an act from the physical body.    
-To my knowledge, the most extensive depiction of that statement is what Daniel Murray, a.k.a melonking, built. Having started to build his own corner of the web in 2016, he now gathers hundreds of people on ‘MelonLand‘. His digital world includes his website, a forum, multiple webrings, a wiki, and more.    
-In a interview he gave to Kendal Beynon he describes the ‘Everyone Site’, a feature of MelonLand:  
-> “This came out of a workshop that I did in Brussels with Doriane Timmermans<sub class="note">[<a href="https://ungual.digital/">https://ungual.digital/</a>]</sub>. At the workshop, we were doing experiments through the open-source online editor Etherpad. I was working with Karl Moubarak<sub class="note">[<a href="https://moubarak.eu/#welcome">https://moubarak.eu/#welcome</a>]</sub> from the collective Hackers and Designers<sub class="note">[<a href="https://hackersanddesigners.nl/">https://hackersanddesigners.nl/</a>]</sub>. He came up with this system where we could write JavaScript in the Etherpad and it would inject the JavaScript directly into a browser extension, which meant that you could basically collectively write code that could morph how people's browsers worked. It was a complete security nightmare, but I thought that was a really exciting idea. The Everyone Site (eSite) is essentially that idea of collective programming applied to a web server and moderated by the forums community.” (Beynon and Murray, 2025)  
+The topics were broad and undiscriminating: gardening, fantasy, cooking, etc. It allowed visitors to discover other people having the same passions or interests easily. To create communities.   
   
-This is also I believe a perfect illustration of the magic of the web: (web) crafting enhanced by intentions creates communities that nurture that cycle.    
-However, this experimental practice Murray describes is far from being the norm on the web, where the visual land is dominated by the opposite: minimalist polished websites.  
+Every webring comes with a visual element (fig. 1) to indicate one is a member of a ring and an invitation to join the ring by pasting some code (fig. 2) into one’s own website code.    
   
+<figure>  
+<div class="inner-fig">  
+<img src="./media/webrings.png">  
+<img src="./media/webring-roos.png">  
+</div>  
+<figcaption>fig. 1: Screenshots of webrings buttons.<br>fig. 2: Example of code snippet from the Rotterdam Webring (Groothuizen, 2025) <a href="https://rg-mage.neocities.org/rotterdam">https://rg-mage.neocities.org/rotterdam</a></figcaption>  
+</figure>  
   
+There are various ways to build a webring, suited for all coding levels, implying that, with a computer and Internet connection, almost whoever wants to can theoretically craft their own webring, following online tutorials or borrowing a template.    
+As a social webcraft, webrings aim at linking and connecting people together.  
+  
+Digital gardens are another social webcraft. In her <u>Brief History & Ethos of the Digital Garden</u>, designer and anthropologist Maggie Appleton describes them:  
+> “A garden is a collection of evolving ideas that aren’t strictly organised by their publication date. They’re inherently exploratory – notes are linked through contextual associations. They aren’t refined or complete – notes are published as half-finished thoughts that will grow and evolve over time. They’re less rigid, less performative, and less perfect than the personal websites we’re used to seeing.” (Appleton, 2021).  
+  
+In that same post, Appleton gives history: digital gardens are named after computer scientist Mark Bernstein’s essay, <u>Hypertext Garden</u>. However, the essay has very little correlation to current uses for the term, and “digital gardening” sort of disappeared as a practice for nearly two decades after that. It actually doesn’t become the nurturing and spontaneous practice we know now before 2015. (Appleton, 2021).     
+  
+Digital gardens’ social aspect is less straight-forward the webrings’. It lies in the sharing of those inner thoughts and the openness to them being conversation starters.  
+  
+<figure>  
+<img src="./media/gardens.png">  
+<figcaption>The Blue Book; Tom Critchlow's Wikifolder; Nikita Voloboev's Knowledge Wiki; Maggie Appleton's Garden</figcaption>  
+</figure>  
+  
+Apart from being genuine displays of solidarity and community-building, both webrings and digital gardens are seen as “magical” or enchanting:    
+- “We can return to that place where the web is a place of wonder, where all of us feel that same burning feeling of excitement as we push the web back towards the wonderful, beautiful, joyful place it ought to be.” (White, 2024).  
+- “While revisiting The Jay Archives, I was reminded of how magical webrings felt.” (Scucci, 2025).  
+  
+We can pull on that rope and reach analogies between web craft and magic craft – referring to practices pertaining to ritual/spell casting.   
+- Webrings & magic circles: both use the circle shape and its attributes of constant sharing and flow, thus serving as ways of gathering and performing (magic circles perform a ritual, webrings perform a community).   
+- Digital gardens & books of spells and potions: collections of writings and experimentations that can be passed on and modified through time, acting as recipes, guides and heritage.  
+  
+Ultimately, such practices create a feeling of amazement for they seem to pertain to an outside world and tend to be poetical or…playful!    
+  
+That merge of poetry and playfulness was actually already explored by Olia Lialina. As described on artsy.net, with her click-to-reveal piece <u>My boyfriend came back from the war</u>, she “wasn’t just translating a story onto the internet, she was telling a story in the language of the web browser”. (The Current Museum, 2013)  
+  
+<figure>  
+<img src="./media/lialina1996.png">  
+<figcaption>Olia Lialina, <u>My Boyfriend Came Back From the War</u>, 1996, web-based interactive fiction.<br><a href="http://www.teleportacia.org/war/">http://www.teleportacia.org/war/</a></figcaption>  
+</figure>  
+  
+*Telling a story with the language of the web* – I find this quite beautiful and very *à propos* as we dive into (web) poetry.    
+Poetry can be both verbal and visual, and the web proves to be a good medium for that type of expression, giving way to websites that highlight written poetry, websites that use CSS do depict a poetical atmosphere… and even creators exploring the poetry of HTML and CSS as languages!    
+Doriane Timmermans is one of them. Her research project declarations is exploring the materiality of the web, and more precisely of the CSS language.  
+  
+<figure>  
+<img src="./media/declarations.png">  
+	<figcaption>Doriane Timmermans, <u></u>declarations, since 2023, artistic research project.<br><a href="https://declarations.style/">https://declarations.style/</a></figcaption>  
+</figure>  
+  
+Together, we talked about how CSS and spell or ritual writing relate; she said “the CSS selector `:not(:focus):hover` is like an incantation that could be super powerful and bears heavy intentions” (this selector would style an element that is hovered but not focused). We also mentioned browser extensions, especially the ones that “metamorphose the web through a simple CSS formula” (Appendix 2.a), uniting, in that sense, magic and hacking.    
+  
+This crossing of practices is not new. Since 2015, artist, researcher and professor Lucile Olympe Haute is exploring the links and boundaries between the physical, the material and the digital/virtual. In that context she wrote the <u>Cyberwitches Manifesto</u> (Haute, 2019), itself inspired by a performance she created with friends of hers. This performance, from Lucile’s description, “gathered 4 friends who call themselves ‘witches’ but doing so, implicate very different meanings into that word.” (Haute, 2017).    
+Additionally, Lucile has been hosting workshops all over France and printed several issues of a collective zine called <u>Cybersorcières</u> and designed with web languages, using single-source publishing methods.    
+  
+<figure>  
+<img src="./media/cyberwitches.png">  
+<figcaption>Lucile Olympe Haute, <u>Cyberwitches Manifesto</u>, 2017, performance; <u>Cybersorcières</u>, since 2019, zines – @cybersorcieres on Instagram</figcaption>  
+</figure>  
+  
+For a few years now, webrings and digital gardens are regaining popularity. This return is linked to a movement of revolt, a common voice rising from the depths of the web: the Web Revival.    
+The Web Revival is an idea, not an organisation. It appeared around 2020, during the rise of cryptocurrencies and NFT (non-fungible tokens), as a growing discontentment towards the evolution of the web. It encapsulates various ideas and groups such as Indie Web, Wild Web or Small Web (fig. 1).    
+  
+<figure>  
+<img src="./media/revival-webs.png">  
+<figcaption>Screenshot from  <a href="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival</a></figcaption>  
+</figure>  
+  
+As stated by artist and computer scientist Daniel Murray, a.k.a melonking, “The Web Revival is about reclaiming the technology in our lives and asking what we really want from the tools we use, and the digital experiences we share. […] the Web Revival is about reviving the spirit of openness and fresh excitement that surrounded the Web in its earliest days.” (Melonking, 2022).    
+Most of the Web Revival practices rely on principles such as hand-written code, low-weight websites, F/LOSS<sub class="note">[Free/Libre Open Source Software]</sub> and sharing.     
+The smaller groups within all advocate for personal websites as a form of expression – opposite to corporate-owned social media platforms – inviting us to care about what we share and how. There is no official guide to *be part of* the Web Revival. As Linux sysadmin Peter Molnar puts it about the Indie Web: “this is not a step-by-step thing. The owner of a website needs to decide what functionality they want to participate in.” (Molnar, 2021).    
+The Web Revival is modular, for (and therefore) it is mine, yours, ours.    
+  
+This is also I believe a perfect illustration of the magic of the web: crafting enhanced by intentions creates communities that nurture that cycle.    
+To my knowledge, the most extensive depiction of that statement is what Daniel Murray (melonking), built on ‘MelonLand‘. His digital world includes his website, a forum, multiple webrings, a wiki, and more.    
+In an interview he gave to artist and researcher Kendal Beynon he describes the ‘Everyone Site’, a feature of MelonLand. Born from a workshop with Doriane Timmermans, where artist Karl Moubarak<sub class="note">[<a href="https://moubarak.eu/#welcome">https://moubarak.eu/#welcome</a>]</sub> “came up with this system where we could write JavaScript in the Etherpad and it would inject the JavaScript directly into a browser extension, which meant that you could basically collectively write code that could morph how people's browsers worked. The Everyone Site (eSite) is essentially that idea of collective programming applied to a web server and moderated by the forum’s community.” (Beynon and Murray, 2025).  
+However, this experimental practice Murray describes is far from being the norm on the web, where the visual land is dominated by a curse of minimalist and polished websites.  
 ## 2. The ghost in the shell & the curse of efficiency  
 The second stop on this journey is a more serious one, a grown-up one as Antoine de Saint-Éxupéry would call it. (Saint-Éxupéry, 1946). This stop is diving into the design systems used by big corporations, ones that end up defining the overall look of websites through methods such as Search Engine Optimisation (SEO) or monopoly.    
 This part will largely analyse the performance of efficiency<sub class="note">[as R. Bastide named it, see: Appendix 2.b]</sub> that is spreading around the web and how following trends is making our identities disappear.  
